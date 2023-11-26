@@ -20,4 +20,8 @@ else :
 endif;
 ?>
 
+
+<div class="test-template-part">
+    <?php get_template_part('template-parts/how-it-works'); ?>
+</div>
 <?php get_footer(); ?>
