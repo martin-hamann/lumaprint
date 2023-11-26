@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>How-It-Works</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="../style.css">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
 </head>
 
@@ -13,14 +13,14 @@
     <div class="container">
         <div class="row d-flex justify-content-center">
             <div class="col-sm-3 col-lg-3 mb-3">
-                <div class="card">
-                    <div class="card-body">
+                <div class="card" id="how-it-works-card">
+                    <div class="card-body" id="how-it-works-card-body">
                         <picture class="card-title">
                             <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
                                 <image id="icons8-document-64" width="50" height="50" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAAACXBIWXMAAAsTAAALEwEAmpwYAAABlElEQVR4nO2bTU7DQAyF5yDU3RD3KlQsQWwQl/fLKQBpEBWL8qcwjCd22/ekWVWKnS8e+02ilkJRLoJMtxCdIVqd1wy5vivZZaIYcPOHZaKvJrvHklkYdPPHECD6VC4VALJDwJdkva+XHgJWApAWAgYDMJleUjdGDK+A3T0203NYJaBxzvfH+369eaMPYZVgjXO+N95v1wuDgMaR5R3v828B2wGJAIRAwGJC643B5RE54OyAEwHwAQG98cMB9B6uyslXwFb3PRB644cDaBUBCCugcgsIe0BN2wTReJg6TICt7r3yCwdg/xhpJmpe+XULBKB9W6DR2Lw/fbvSG68H1C3QCCmdIGiFlWcBrOQDWv1B+iZojh9Pf/IHBCDJKwCdLziW/EF6AKNFAMIKqNwCkrgHgD5A6QNwyUYI9AFjlb4CRosAhBVQuQWEPaCyCUqSKYDgRQDewgLhkX+Y8LDKwwHAyep63HzLJ7U/6+ydXvYEouOX6ASi45foBKLjl+jmRgASXAGWYMQdj7rVAeDc5zxVLlNvXE+ghazL4+wAAAAASUVORK5CYII="/>
                               </svg>
                         </picture>
-                        <p class="card-text text-center">Med et bredt udvalg af papir og materialer, garanterer vi at have lige præcis dét du har brug for til dit projekt.</p>
+                        <p class="card-text text-center" id="how-it-works-card-text">Med et bredt udvalg af papir og materialer, garanterer vi at have lige præcis dét du har brug for til dit projekt.</p>
                     </div>
                 </div>
             </div>

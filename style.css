@@ -8,3 +8,18 @@ body{
    
     background-color: red;
 }
+
+
+/* Template Part - How It Works Card */
+#how-it-works-card{
+    background: linear-gradient(180deg, #242424, #191919);
+}
+#how-it-works-card-body{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    border-radius:5%
+}
+#how-it-works-card-text{
+    color:#ededed;
+}
