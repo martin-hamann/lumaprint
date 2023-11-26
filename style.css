@@ -6,6 +6,13 @@ Description: Tema til Lumaprints hjemmeside
 
 
 /* Template Part - How It Works Card */
+
+
+.customize-support {
+    height: 100px;
+    text-transform: none;
+
+}
 #how-it-works-card{
     background: linear-gradient(180deg, #242424, #191919);
 }
@@ -13,8 +20,36 @@ Description: Tema til Lumaprints hjemmeside
     display:flex;
     justify-content:center;
     flex-wrap:wrap;
-    border-radius:5%
+    border-radius:5%;
+
 }
 #how-it-works-card-text{
     color:#ededed;
+}
+
+.wpcf7-form {
+    margin-top: 20px;
+}
+
+.wpcf7-form input[type="text"],
+.wpcf7-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+.wpcf7-form input[type="submit"] {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+.wpcf7-form input[type="submit"]:hover {
+    background-color: #45a049;
 }
