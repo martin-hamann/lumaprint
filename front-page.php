@@ -8,7 +8,6 @@
     <?php endif; ?>
 
 <div class="test-template-part">
-    <h1>Welcome to the website</h1>
     <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
 </div>
 <?php get_footer(); ?>
