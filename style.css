@@ -41,11 +41,8 @@ Description: Tema til Lumaprints hjemmeside
 /* Template Part - How It Works Card */
 
 
-.customize-support {
-    height: 100px;
-    text-transform: none;
 
-}
+
 #how-it-works-card{
     background: linear-gradient(180deg, #242424, #191919);
 }
