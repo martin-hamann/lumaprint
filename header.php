@@ -8,15 +8,7 @@
 <body <?php body_class(); ?>>
 
 <header>
-    <div class="site-branding">
-        <?php if (has_custom_logo()) : ?>
-            <div class="site-logo"><?php the_custom_logo(); ?></div>
-        <?php else : ?>
-            <h1 class="site-title"><a href="<?php echo esc_url(home_url('/')); ?>"><?php bloginfo('name'); ?></a></h1>
-            <p class="site-description"><?php bloginfo('description'); ?></p>
-        <?php endif; ?>
-    </div>
-
+  
 </header>
 
 <main id="content">
