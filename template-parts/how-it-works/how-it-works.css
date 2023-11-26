@@ -1,0 +1,13 @@
+.card{
+    background: linear-gradient(180deg, #242424, #191919);
+}
+.card-body{
+    display:flex;
+    justify-content:center;
+    flex-wrap:wrap;
+    border-radius:5%
+}
+.card-text{
+    color:#ededed;
+    color:var(--color-white);
+}
