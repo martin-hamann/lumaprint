@@ -22,6 +22,9 @@ Description: Tema til Lumaprints hjemmeside
 
 /* General CSS */
 
+body{
+    background-color:var(--color-background);
+}
 .headline{
     color:var(--color-accent);
     font-family:'Ubuntu', sans-serif;
@@ -39,8 +42,6 @@ Description: Tema til Lumaprints hjemmeside
 
 
 /* Template Part - How It Works Card */
-
-
 
 #how-it-works-card{
     background: linear-gradient(180deg, #242424, #191919);
