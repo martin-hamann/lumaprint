@@ -18,7 +18,9 @@ Description: Tema til Lumaprints hjemmeside
     --color-text: #ededed;
 }
 
-
+body {
+    background-color: var(--color-background);
+}
 
 /* General CSS */
 
