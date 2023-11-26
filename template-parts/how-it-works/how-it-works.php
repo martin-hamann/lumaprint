@@ -32,7 +32,7 @@
                               </svg>
                                                          
                         </picture>
-                        <p class="card-text text-center text">Med over 50 års erfaring, leverer vi kvalitetsprint og skræddersyede løsninger, der afspejler vores dedikation og erfaring.</p>
+                        <p class="card-text text-center text" id="how-it-works-card-text">Med over 50 års erfaring, leverer vi kvalitetsprint og skræddersyede løsninger, der afspejler vores dedikation og erfaring.</p>
                     </div>
                 </div>
             </div>
