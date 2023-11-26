@@ -24,7 +24,11 @@ Description: Tema til Lumaprints hjemmeside
 
 body{
     background-color:var(--color-background);
+    height:auto;
+    margin:0;
+    padding:0;
 }
+
 .headline{
     color:var(--color-accent);
     font-family:'Ubuntu', sans-serif;
@@ -33,6 +37,8 @@ body{
     color:var(--color-text);
     font-family: 'Hind', sans-serif;
 }
+
+
 
 /* Navbar CSS */
 
