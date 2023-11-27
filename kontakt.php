@@ -5,6 +5,9 @@ get_header();
 ?>
 
 <style>
+<<<<<<< HEAD
+  
+=======
   
     .form-content {
         max-width: 600px;
@@ -35,6 +38,7 @@ get_header();
         border-radius: 4px;
         box-sizing: border-box;
     }
+
 
     .wpcf7-form input[type="submit"] {
         background-color: #E31E26;
@@ -67,12 +71,10 @@ get_header();
 <div class="form-content" >
 <h2 style="color: #E31E26;">Kontakt os</h2>
     
-    <!-- Your contact form shortcode or HTML form goes here -->
     <?php echo do_shortcode('[contact-form-7 id="cc77310" title="Contact form 1"]'); ?>
 </div>
 
 <?php get_footer(); ?>
 <?php wp_footer(); ?>
-<!-- Add any additional scripts or closing HTML tags here -->
 </body>
 </html>

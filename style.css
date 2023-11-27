@@ -18,7 +18,10 @@ Description: Tema til Lumaprints hjemmeside
     --color-text: #ededed;
 }
 
-
+body {
+    
+    background-color: #E31E26;
+}
 
 /* General CSS */
 
@@ -104,4 +107,5 @@ body{
 
 .wpcf7-form input[type="submit"]:hover {
     background-color: #45a049;
+    transform: none;
 }
