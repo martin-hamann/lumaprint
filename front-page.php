@@ -10,9 +10,3 @@
     <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
 </div>
 <?php get_footer(); ?>
-
-
-<?php get_header(); ?>
-
-
-<?php get_footer(); ?> 1
