@@ -5,7 +5,7 @@
 add_action("init", "ad_remove_gutenberg");
 
 function luma_get_stylesheet() {
-    wp_enqueue_style('style', get_stylesheet_directory_uri() . '/style.css');
+    wp_enqueue_style('style', get_stylesheet_directory_uri() . 'style.css');
 
 }
 
