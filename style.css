@@ -34,8 +34,29 @@ body{
 
 /* Navbar CSS */
 
-.headline-color{
-    color:var(--color-accent);
+.navbar{
+    font-weight:500;
+    color:#ededed;
+}
+.navbar-brand{
+    font-weight:bold;
+}
+
+.headline-color {
+    color:#E31E26;
+}
+.button-container{
+    display:flex;
+    justify-content:center;
+}
+.contact-button.btn.btn-link{
+    text-decoration:none;
+    background-color:#E31E26;
+    color:#ededed;
+    border-radius: 10px;
+}
+a.nav-link{
+    text-align:center;
 }
 
 
