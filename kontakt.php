@@ -57,10 +57,10 @@ get_header();
    <h2 style="color: #E31E26;">Kontakt os</h2>
    <?php echo do_shortcode('[contact-form-7 id="cc77310" title="Contact form 1"]'); ?>
 </div>
-<div class="test-template-part">
-    <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
-</div>
+
 
 <?php get_footer(); ?>
 <?php wp_footer(); ?>
 </html>
+
+
