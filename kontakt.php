@@ -35,7 +35,7 @@ get_header();
        border-radius: 4px;
        box-sizing: border-box;
    }
-
+   .wpcf7-form input[type="file"], 
    .wpcf7-form input[type="submit"] {
        background-color: #E31E26;
        color: #fff;
@@ -44,7 +44,7 @@ get_header();
        border-radius: 25px; 
        cursor: pointer;
    }
-
+   .wpcf7-form input[type="file"] ,
    .wpcf7-form input[type="submit"]:hover {
        background-color: #B71C1F; 
    }
@@ -55,6 +55,7 @@ get_header();
        border: 1px solid #E31E26; 
        border-radius: 4px;
    }
+   
 </style>
 
 <div class="form-content" >
