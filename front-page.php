@@ -29,6 +29,8 @@
 
 
 <div class="test-template-part">
+    <h1 class="din-printbutik headline">DIN PRINTBUTIK I HJERTET AF ESBJERG</h1>
+    <p class="din-printbutik-text text">Vi er din partner inden for printløsninger. Vi leverer skarpe og professionelle trykprodukter, der passer til dine behov. Fra skræddersyede designs til hurtig produktion – vi bringer dine ideer til live med kvalitetsprint.</p>
     <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
 </div>
 <?php get_footer(); ?>
