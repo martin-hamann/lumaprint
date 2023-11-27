@@ -17,19 +17,8 @@ Description: Tema til Lumaprints hjemmeside
     --color-white: #FFFFFF;
     --color-text: #ededed;
 }
-
-body {
-    
-    background-color: #E31E26;
-}
-
-/* General CSS */
-
 body{
-    background-color:var(--color-background);
-    height:auto;
-    margin:0;
-    padding:0;
+    background-color:#111213 !important;
 }
 
 .headline{
@@ -80,32 +69,3 @@ body{
 
 
 
-
-/* Contact Form CSS */
-.wpcf7-form {
-    margin-top: 20px;
-}
-
-.wpcf7-form input[type="text"],
-.wpcf7-form textarea {
-    width: 100%;
-    padding: 10px;
-    margin-bottom: 15px;
-    border: 1px solid #ccc;
-    border-radius: 4px;
-    box-sizing: border-box;
-}
-
-.wpcf7-form input[type="submit"] {
-    background-color: #4caf50;
-    color: #fff;
-    padding: 10px 15px;
-    border: none;
-    border-radius: 4px;
-    cursor: pointer;
-}
-
-.wpcf7-form input[type="submit"]:hover {
-    background-color: #45a049;
-    transform: none;
-}
