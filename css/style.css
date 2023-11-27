@@ -64,7 +64,9 @@ a.nav-link{
 
 
 /* Hero CSS */
-
+.hero-container{
+    height:100vh;
+}
 .hero-headline{
     color:#ededed;
 }
