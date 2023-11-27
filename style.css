@@ -18,7 +18,7 @@ Description: Tema til Lumaprints hjemmeside
     --color-text: #ededed;
 }
 body{
-    background-color:#111213 !important;
+    background-color:var(--color-background) !important;
 }
 
 .headline{
@@ -38,8 +38,10 @@ body{
     font-weight:500;
     color:#ededed;
 }
-.navbar-brand{
+
+a.navbar-brand{
     font-weight:bold;
+    color:#ededed;
 }
 
 .headline-color {
@@ -53,12 +55,33 @@ body{
     text-decoration:none;
     background-color:#E31E26;
     color:#ededed;
-    border-radius: 10px;
+    font-weight:500;
+    border-radius:15px;
 }
 a.nav-link{
     text-align:center;
+    color:#ededed;
 }
 
+
+/* Hero CSS */
+
+.hero-headline{
+    color:#ededed;
+}
+.hero-sub-headline{
+    color:#ededed;
+}
+button.hero-button-1{
+    background-color:#E31E26;
+    color:#ededed;
+    border-radius:15px;
+}
+button.hero-button-2{
+    border:2px solid #E31E26;
+    color:#ededed;
+    border-radius:15px;
+}
 
 /* Template Part - How It Works Card */
 
