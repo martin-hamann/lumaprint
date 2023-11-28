@@ -7,18 +7,16 @@ get_header();
 ?>
 
 <style>
-   body {
-       background-color: #111213; 
-   }
-
    .form-content {
        max-width: 600px;
        margin: 0 auto;
        padding: 20px;
-       background-color: #f5f5f5;
+       background-color: var(111213);
        border-radius: 8px;
        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-       margin-top: 50px; 
+       display: flex;
+       align-items: center;
+       justify-content: center;
    }
 
    .wpcf7-form p {
@@ -55,6 +53,7 @@ get_header();
        background-color: #B71C1F; 
    }
 
+
    .wpcf7-form {
        background-color: #191919; 
        padding: 20px;
@@ -65,13 +64,17 @@ get_header();
    .wpcf7-form p {
     color: white;
    }
+   
 </style>
 
-<div class="form-content">
+<div class="form-content" >
    <h2 style="color: #E31E26;">Kontakt os</h2>
    <?php echo do_shortcode('[contact-form-7 id="cc77310" title="Contact form 1"]'); ?>
 </div>
 
+
 <?php get_footer(); ?>
 <?php wp_footer(); ?>
 </html>
+
+
