@@ -7,7 +7,7 @@
                     <div class="widget subscribe no-box">
                         <h5 class="widget-title"><span>LUMA</span>PRINT</h5>
                         <p>Skabt til Print, Trykt til Perfektion. </p>
-                        <img src="Luma_icon_1 frilagt.png" alt="">
+                        <img src="" alt="">
                     </div>
                 </div>
                 <div class="col-xs-12 col-sm-6 col-md-3">
