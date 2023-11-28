@@ -1,4 +1,4 @@
-</body>
+
 <footer id="footer" class="footer-1">
     <div class="main-footer widgets-dark typo-light">
         <div class="container">
@@ -61,9 +61,10 @@
                 </div>
             </div>
         </div>
-        <?php wp_footer() ?>
+
 </footer>
 
-
+    <?php wp_footer(); ?>
+</body>
 
 </html>
