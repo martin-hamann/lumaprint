@@ -291,6 +291,53 @@ div.card-header .headline{
 
 
 
+/* PRODUKTER SIDEN CSS */
+
+.steps-container {
+    margin: 10vh auto 10vh auto;
+    text-align: center;
+}
+
+.steps-container h3 {
+    color: #E31E26;
+    margin-bottom: 10vh;
+}
+
+
+.products-container{
+    margin-bottom:20vh;
+}
+.products-row{
+    margin:5vh auto 5vh auto;
+}
+
+.headline{
+    color:#E31E26;
+    text-align:center;
+    margin-bottom:25px;
+}
+
+h5.card-title{
+    color:#ededed;
+    font-weight:500;
+}
+.card-img-top{
+    object-fit:cover;
+    height:100%;
+    width:100%;
+}
+.product-card-body{
+    text-align:left;
+}
+
+.card{
+    padding:0;
+}
+
+#products-row{
+    --bs-gutter-x:0;
+}
+
 
 
 
