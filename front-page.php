@@ -70,4 +70,7 @@ Klar, parat, print! </p>
 </div>
 
 
+<?php echo do_shortcode( '[trustindex no-registration=google]' ); ?>
+
+
 <?php get_footer(); ?>
