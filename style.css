@@ -239,6 +239,51 @@ button.kontakt-os-knap {
 }
 
 
+/* Om Os CSS */
+
+.gtn-hero-img{
+    max-width:100%;
+}
+
+.gtn-text-container{
+    max-width:50%;
+    text-align:center;
+    margin:50px auto 50px auto;
+}
+.gtn-headline{
+    color:#E31E26;
+    text-align:center;
+}
+.gtn-text{
+    color:#ededed;
+}
+
+div.card-header .headline{
+    color:#E31E26;
+    text-align:center;
+}
+
+.card-text{
+    color:#ededed;
+}
+.card-body{
+    text-align:center;
+}
+
+.card{
+    background: rgb(25,25,25);
+    background: linear-gradient(360deg, rgba(25,25,25,1) 0%, rgba(36,36,36,1) 100%);
+}
+
+.gtn-headline-img{
+    margin:100px 0 100px 0;
+    display:flex;
+    justify-content:center;
+}
+.gtn-headline-img svg{
+    height:20vh;
+}
+
 
 
 
