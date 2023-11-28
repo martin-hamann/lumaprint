@@ -243,6 +243,9 @@ button.kontakt-os-knap {
 
 .gtn-hero-img{
     max-width:100%;
+    object-fit:cover;
+    height:auto;
+    width:auto;
 }
 
 .gtn-text-container{
