@@ -102,6 +102,36 @@ button.hero-button-2{
 }
 
 
+/* Galleri fra kunderne */
+.logo-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    padding: 0;
+}
+
+.logo-img {
+    margin: 0;
+    padding: 0;
+    transition: transform 0.3s ease-in-out;
+}
+
+.logo-img img{
+    width: 150px; 
+    height: 150px; 
+    object-fit: cover;
+    border-radius: 8px;
+    margin: 20px;
+}
+
+.logo-img:hover {
+    transform: scale(1.1);
+}
+
+
+
+
 /* FOOTER CSS */
 
 /* Main Footer */
