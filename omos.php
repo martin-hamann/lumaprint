@@ -9,7 +9,7 @@ get_header();
 
 ?>
     <div class="hero-img-container">
-        <img src="Image 19.png" alt="" class="gtn-hero-img">
+        <img src="http://lumaprint.site/wp-content/uploads/2023/11/Image-19.png" alt="Sort/Hvid kort over Esbjerg med pin" class="gtn-hero-img">
     </div>
     <div class="gtn-container col-12 my-5">
         <div class="gtn-text-container col-12">
