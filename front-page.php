@@ -43,12 +43,11 @@ $kreation = new WP_Query(
 );
 
 ?>
-<div class="test-template-part">
+
     <h3 class="din-printbutik headline text-center">Del dine kreationer</h3>
     <p class="din-printbutik-text text-center text">Del fotos eller videoer af dine seneste kreationer med os. Brug hashtagget #lumaprint for at deltage i fællesskabet. Lad os gøre dette sted til et galleri af uendelige muligheder. 
 Klar, parat, print! </p>
-    <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
-</div>
+
 
 <div class="logo-container">
     <?php
