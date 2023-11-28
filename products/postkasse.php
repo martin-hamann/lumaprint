@@ -3,6 +3,7 @@
 Template Name: Postkasse
 */
 ?>
+
 <?php get_header() ?>
 
 <!DOCTYPE html>
@@ -10,7 +11,7 @@ Template Name: Postkasse
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
+    <title>Postkasse</title>
     <!-- Add your own styles or link to an external stylesheet here -->
     <style>
 
@@ -60,8 +61,9 @@ Template Name: Postkasse
         </div>
     </div>
 
+ <?php get_footer(); ?>
+
 </body>
 </html>
 
 
-<?php get_footer(); ?>
