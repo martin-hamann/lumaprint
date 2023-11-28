@@ -110,6 +110,7 @@ button.hero-button-2{
     margin: 0;
     padding: 0;
     flex-wrap: wrap;
+    max-width: 100%;
 }
 
 .logo-img {
