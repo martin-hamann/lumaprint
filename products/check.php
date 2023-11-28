@@ -40,7 +40,7 @@ Template Name: check
     <header style ="text-align: center; font-size: 24px;"> Stor Check/Gavekort</header>
 
     <div id="image-container">
-        <img src="http://test.local/wp-content/uploads/2023/11/Mini-billeder.jpg" alt="check/gavekort">
+        <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-billeder.jpg" alt="check/gavekort">
     </div>
 
     <div id="text">
