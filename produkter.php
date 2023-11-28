@@ -55,99 +55,99 @@ get_header();
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-banner.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Banner</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-whiteboard.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Whiteboard</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-drawings.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
-            </div>
-        </div>
-    </div>
-    <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
-            </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
-            </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
-            </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Tegnings plot</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
     </div>
     <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-billeder.jpg" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Stor check</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-sticker.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Klistermærker</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-gadeskilt.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">A-skilt print</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-klebefolie.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Klæbefolie print</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
     </div>
     <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Visitkort</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="plakat.png" alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort.png" alt="Card image cap">
             <div class="card-body product-card-body">
-                <h5 class="card-title">Plakatprint</h5>
+                <h5 class="card-title">Postkort</h5>
+                <a href="#" class="læs-mere-text">Læs Mere</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-flyers.png" alt="Card image cap">
+            <div class="card-body product-card-body">
+                <h5 class="card-title">Flyers</h5>
+                <a href="#" class="læs-mere-text">Læs Mere</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-plader.png" alt="Card image cap">
+            <div class="card-body product-card-body">
+                <h5 class="card-title">Skilteplader</h5>
+                <a href="#" class="læs-mere-text">Læs Mere</a>
+            </div>
+        </div>
+    </div>
+    <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-kalender.png" alt="Card image cap">
+            <div class="card-body product-card-body">
+                <h5 class="card-title">Kalender</h5>
+                <a href="#" class="læs-mere-text">Læs Mere</a>
+            </div>
+        </div>
+        <div class="card" style="width: 18rem;">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-postkasse.png" alt="Card image cap">
+            <div class="card-body product-card-body">
+                <h5 class="card-title">Postkasse tekst</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
             </div>
         </div>
