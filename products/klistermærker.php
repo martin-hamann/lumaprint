@@ -66,7 +66,7 @@ Template Name: Klistermærker
                Eksl. grafisk arbejde og fragt.</p>
             
             <!-- Insert your image here -->
-            <img src="http://test.local/wp-content/uploads/2023/11/pexels-javon-swaby-2783837-scaled.jpg" alt="Stickers" width= "50%">
+            <img src="https://images.pexels.com/photos/2783837/pexels-photo-2783837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Stickers" width= "50%">
         </div>
     </div>
 
