@@ -34,7 +34,7 @@
     <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
 </div>
 
-
+<?php
 $kreation = new WP_Query(
     array(
         'post_type'      => 'kreation',
@@ -69,5 +69,6 @@ Klar, parat, print! </p>
         </div>
     <?php endwhile; ?>
 </div>
+
 
 <?php get_footer(); ?>
