@@ -116,6 +116,7 @@ button.hero-button-2{
     margin: 0;
     padding: 0;
     transition: transform 0.3s ease-in-out;
+    font: 100;
 }
 
 .logo-img img{
