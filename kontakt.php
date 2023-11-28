@@ -6,43 +6,10 @@ Template Name: About Us
 
 get_header();
 
-
-
-$kreation = new WP_Query(
-    array(
-        'post_type'      => 'kreation',
-        'posts_per_page' => -1,
-    )
-);
-?>
-
-<div class="logo-container">
-    <?php
-    $count = 0;
-    while ($kreation->have_posts()) :
-        $kreation->the_post();
-        $count++;
-        $is_middle = ($kreation->post_count % 2 !== 0 && $count === ceil($kreation->post_count / 2));
-
-        $logo_img_classes = 'logo-img';
-        if ($is_middle) {
-            $logo_img_classes .= ' middle-logo'; 
-        }
-    ?>
-        <div class="<?php echo esc_attr($logo_img_classes); ?>">
-            <img src="<?php the_field('kreation-logo'); ?>" alt="billed af kreation">
-        </div>
-    <?php endwhile; ?>
-</div>
-<?php
-/*
-Template Name: About Us
-*/
-
-get_header();
 ?>
 
 <style>
+
    .form-content {
        max-width: 600px;
        margin: 0 auto;
