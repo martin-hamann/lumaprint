@@ -1,3 +1,39 @@
+
+<?php
+/*
+Template Name: About Us
+*/
+
+get_header();
+
+
+
+$kreation = new WP_Query(
+    array(
+        'post_type'      => 'kreation',
+        'posts_per_page' => -1,
+    )
+);
+?>
+
+<div class="logo-container">
+    <?php
+    $count = 0;
+    while ($kreation->have_posts()) :
+        $kreation->the_post();
+        $count++;
+        $is_middle = ($kreation->post_count % 2 !== 0 && $count === ceil($kreation->post_count / 2));
+
+        $logo_img_classes = 'logo-img';
+        if ($is_middle) {
+            $logo_img_classes .= ' middle-logo'; 
+        }
+    ?>
+        <div class="<?php echo esc_attr($logo_img_classes); ?>">
+            <img src="<?php the_field('kreation-logo'); ?>" alt="billed af kreation">
+        </div>
+    <?php endwhile; ?>
+</div>
 <?php
 /*
 Template Name: About Us
@@ -14,10 +50,15 @@ get_header();
        background-color: var(111213);
        border-radius: 8px;
        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+     
+       
+   }
+   .form-content h2 {
+   
        display: flex;
        align-items: center;
        justify-content: center;
-   }
+       }
 
    .wpcf7-form p {
        margin-bottom: 15px;
@@ -78,3 +119,5 @@ get_header();
 </html>
 
 
+
+<?php get_footer(); ?>
