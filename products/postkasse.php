@@ -56,7 +56,7 @@ Template Name: Postkasse
         <p>Priser er inklusiv moms. Eksklusiv fragt.</p>
 
         <div class="image-box">
-            <img src="http://test.local/wp-content/uploads/2023/11/371485123_259162880492487_1336852508179692553_n.png" alt="Postkasse" width="300">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/371485123_259162880492487_1336852508179692553_n.png" alt="Postkasse" width="300">
         </div>
     </div>
 
