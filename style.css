@@ -102,13 +102,14 @@ button.hero-button-2{
 }
 
 
-/* Galleri fra kunderne */
+/* Galleri   fra kunderne */
 .logo-container {
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0;
     padding: 0;
+    flex-wrap: wrap;
 }
 
 .logo-img {
