@@ -101,8 +101,109 @@ button.hero-button-2{
 }
 
 
+/* FOOTER CSS */
+
+/* Main Footer */
+footer .main-footer {
+    padding: 25px 0;
+    background: #252525;
+}
+
+footer ul {
+    padding-left: 0;
+    list-style: none;
+}
+
+/* Copyright Footer */
+.footer-copyright {
+    background: #222;
+    padding: 10px 0;
+}
+
+.footer-copyright p {
+    color: #ededed;
+    margin: 2px 0 0;
+}
 
 
+/* Footer Widgets */
+.widget {
+    padding: 20px;
+    margin-bottom: 40px;
+}
+
+.widget.widget-last {
+    margin-bottom: 0px;
+}
+
+.widget.no-box {
+    padding: 0;
+    background-color: transparent;
+    margin-bottom: 40px;
+}
+.widget.no-box a{
+    text-decoration: none;
+}
+
+.widget.subscribe p {
+    margin-bottom: 18px;
+}
+
+.widget li a {
+    color: #fff;
+}
+
+.widget li a:hover {
+    color: #aaa;
+    text-decoration: none;
+}
+
+.widget-title {
+    margin-bottom: 20px;
+    color:#E31E26;
+}
+
+.widget .badge {
+    float: right;
+    background: #7f7f7f;
+}
+
+.typo-light {
+    color: #ededed;
+}
+
+
+/* Font awesome styling - socials ikoner og quicklinks pil */
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    background-color: #3e3e3e;
+    color: #fff;
+    padding: 9px;
+    border-radius: 5px;
+}
+
+/* Pil før quicklinks */
+.thumb-content ::before {
+    content: "\f190";
+    font-family: FontAwesome;
+    font-style: normal;
+    font-weight: normal;
+    text-decoration: inherit;
+    margin-left: 5px;
+    color: #ffffff;
+}
+
+/*Knap til højre under kontakt os */
+
+button.kontakt-os-knap {
+    background-color: #E31E26;
+    color: #ededed;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 5px;
+    padding: 10px 15px;
+}
 
 
 
