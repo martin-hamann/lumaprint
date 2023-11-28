@@ -323,8 +323,8 @@ h5.card-title{
 }
 .card-img-top{
     object-fit:cover;
-    height:100%;
-    width:100%;
+    height:188px;
+    width:286px;
 }
 .product-card-body{
     text-align:left;
