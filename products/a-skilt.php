@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Klistermærker
+Template Name: a-skilt
 */
 ?>
 <?php get_header() ?>
