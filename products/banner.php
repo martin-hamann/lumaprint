@@ -7,7 +7,7 @@ Template Name: Banner
 
 
 <div class="container">
-        <div class="row image-container">
+        <div class="row image-container d-flex justify-content-center">
             <div class="col-md-3 image-box">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="Vinyl">
                 <h4 class="Headline">Vinyl banner</h4>
@@ -35,7 +35,7 @@ Template Name: Banner
         }
 
         .Mesh-text {
-            color:whi;
+            color:white;
 
         }
         .Headline {
