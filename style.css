@@ -88,20 +88,17 @@ button.hero-button-2{
 /* Template Part - How It Works Card */
 
 h3.din-printbutik .headline{
-    margin:0;
+    margin:0 auto;
 }
 p.din-printbutik-text {
-    width:30%;
+    width:50%;
     margin:2vh auto 5vh auto;
 
 }
 #how-it-works-card{
     background: linear-gradient(180deg, #242424, #191919);
 }
-#how-it-works-card-body{
-    /* border-radius:5%; */
 
-}
 #how-it-works-card-text{
     color:#ededed;
     margin:20px auto 0 auto;
@@ -148,9 +145,6 @@ p.din-printbutik-text {
 
 /* Google Reviews */
 
-div.ti-widget .ti-goog{
-    margin-bottom:20vh;
-}
 
 div.google-reviews-container{
     margin-bottom:20vh;
