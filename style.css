@@ -359,9 +359,9 @@ a.læs-mere-text:hover{
     height:100%;
     background-color:#111213;
     opacity:0;
-    transition: opacity 0.2s ease-in-out;
+    transition: opacity 0.3s ease-in-out;
 }
-.product-links:hover{
+.product-links::before:hover{
     opacity:0.5;
 
 }
