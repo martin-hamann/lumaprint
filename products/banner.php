@@ -133,10 +133,10 @@ Template Name: Banner
         width:100%;  
     }
     .image-container{
-        margin-bottom:10vh;
+        margin-bottom:5vh;
     }
     .table-container{
-        margin-bottom:20vh;
+        margin-bottom:15vh;
     }
 </style>
 
