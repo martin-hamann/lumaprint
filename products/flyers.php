@@ -26,7 +26,7 @@ Template Name: Flyers
 <div class="container">
     <div class="row">
         <div class="col-md-6 mx-auto center-text text-danger ">
-            <div class="header "> <h1>FLYES / LØSBLADE</h1>
+            <div class="header "> <h1>FLYERS / LØSBLADE</h1>
                 <p> Få dit budskab ud med flyers eller løsblad.</p></div>
 
             <!-- Main Table -->
