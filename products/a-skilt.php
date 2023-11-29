@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: A-skilt
+Template Name: Klistermærker
 */
 ?>
 <?php get_header() ?>
@@ -16,6 +16,12 @@ Template Name: A-skilt
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Additional Styles (Optional) -->
     <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f8f9fa;
+            color: #495057;
+        }
+
         #main-content {
             display: flex;
             justify-content: center;
@@ -27,7 +33,7 @@ Template Name: A-skilt
         #right-images {
             width: 50%;
             margin: auto;
-            color: white;
+            color: #fff;
         }
 
         #content-box {
@@ -43,6 +49,15 @@ Template Name: A-skilt
         #right-images img {
             margin-bottom: 10px;
         }
+
+        p {
+            font-size: 18px;
+            line-height: 1.6;
+        }
+
+        h1 {
+            color: #28a745; /* Green color */
+        }
     </style>
 </head>
 
@@ -52,15 +67,23 @@ Template Name: A-skilt
         <div id="text-box">
             <div id="content-box">
 
+                <h1>Standard størrelse</h1>
+
                 <p>
-                      Standard størrelse er som regel B2, som måler 50x70 cm, eller B1, som måler 70x100 cm. Mål hellere efter
+                    Standard størrelse er som regel B2, som måler 50x70 cm, eller B1, som måler 70x100 cm. Mål hellere efter.
+                </p>
 
-                    Pris på 2 stk. B2 print:
+                <p>Pris på 2 stk. B2 print:
+                    <br>
                     132,- holdbar i nogle måneder. 150g. plakat papir.
+                    <br>
                     230,- holdbar i nogle år. Lamineret print.
+                </p>
 
-                    Pris på 2 stk. B1 print:
+                <p>Pris på 2 stk. B1 print:
+                    <br>
                     264,- holdbar i nogle måneder. 150g. plakat papir.
+                    <br>
                     462,- holdbar i nogle år. Lamineret print.
                 </p>
 
@@ -74,3 +97,4 @@ Template Name: A-skilt
 
 <?php get_footer(); ?>
 
+ 
