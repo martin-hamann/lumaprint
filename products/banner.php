@@ -38,8 +38,8 @@ Template Name: Banner
 
     <div class="row table-container">
         <div class="col-md-6 mx-auto center-text">
-            <table class="table table-bordered border-dark text-center">
-                <thead class="bg-dark text-light">
+            <table class="table table-bordered border-dark bg-dark text-light text-center">
+                <thead>
 
                     <tr>
                         <th>Pris</th>
@@ -125,8 +125,8 @@ Template Name: Banner
 
     .banner-img {
         object-fit: cover;
-        height: 100%;
-        width: 100%;
+        height: 50%;
+        width:50%;
     }
     div.row .image-container{
         margin-bottom:20vh;
