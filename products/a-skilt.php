@@ -43,11 +43,13 @@ Template Name: A-skilt
         #right-images {
             display: flex;
             flex-direction: column;
-            align-items: flex-start;
+            align-items: center;
         }
 
         #right-images img {
             margin-bottom: 10px;
+            max-width: 100%;
+            height: auto;
         }
 
         p {
