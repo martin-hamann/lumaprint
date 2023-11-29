@@ -18,7 +18,7 @@ Template Name: A-skilt
             display: flex;
             justify-content: center;
             height: 100vh;
-            margin:20vh 10% 20vh 10%;
+            margin:10vh 10% 10vh 10%;
         }
         .content-box{
             text-align:center;
@@ -44,9 +44,9 @@ Template Name: A-skilt
 
 <body>
 
-    <div id="main-content" class="centered">
-        <div id="text-box">
-            <div id="content-box">
+    <div id="main-content" class="centered text-center">
+        <div id="text-box text-center">
+            <div id="content-box text-center">
 
                 <h2 class="headline">Print til gadeprint</h2>
 
