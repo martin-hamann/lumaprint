@@ -13,6 +13,8 @@
     <script defer src="https://kit.fontawesome.com/b2340e7a76.js" crossorigin="anonymous"></script>
 </head>
 
+
+<body>
 <nav class="navbar navbar-expand-lg headline px-5 d-flex justify-content-between">
     <a class="navbar-brand" href="http://lumaprint.site/"><span class="headline-color">LUMA</span>PRINT</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
@@ -38,4 +40,3 @@
         </div>
     </div>
 </nav>
-<body>
