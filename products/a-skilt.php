@@ -12,39 +12,14 @@ Template Name: A-skilt
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>A-skilt print</title>
-    <!-- Include Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Additional Styles (Optional) -->
     <style>
-#main-content {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-}
-
-#text-box,
-#right-images {
-    width: 50%;
-    margin: auto;
-    color: white;
-}
-
-
-#content-box {
-    text-align: center;
-}
-
-#right-images {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-#right-images img {
-    margin-bottom: 10px;
-}
-
+        #main-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
     </style>
 </head>
 
@@ -57,7 +32,8 @@ Template Name: A-skilt
                 <h1>Print til gadeprint</h1>
 
                 <p>
-                    Standard størrelse er som regel B2, som måler 50x70 cm, eller B1, som måler 70x100 cm. Mål hellere efter.
+                    Standard størrelse er som regel B2, som måler 50x70 cm, eller B1, som måler 70x100 cm. Mål hellere
+                    efter.
                 </p>
 
                 <p>Pris på 2 stk. B2 print:
@@ -74,8 +50,9 @@ Template Name: A-skilt
                     462,- holdbar i nogle år. Lamineret print.
                 </p>
 
-                <!-- Insert your image here -->
-                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="a-skilt" width="50%">
+                <div class="askilt-img">
+                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="a-skilt" width="50%" height="50%">
+                </div>
             </div>
         </div>
     </div>
@@ -83,5 +60,3 @@ Template Name: A-skilt
 </body>
 
 <?php get_footer(); ?>
-
- 
