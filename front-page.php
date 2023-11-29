@@ -73,9 +73,9 @@ $kreation = new WP_Query(
 </div>
 
 
-<div class="google-reviews-container>
+<div class="google-reviews-container">
 
-<?php echo do_shortcode('[trustindex no-registration=google]'); ?>
+    <?php echo do_shortcode('[trustindex no-registration=google]'); ?>
 
 </div>
 
