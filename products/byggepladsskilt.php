@@ -46,7 +46,7 @@ Template Name: Byggepladsskilt
         <p> Dipond plade print til byggeplads - 2500x1250x3 mm.  </p></div>
 
         <div id="image-box">
-            <img src="http://test.local/wp-content/uploads/2023/11/byggeplads_skilt.jpg" alt="Byggepladsskilt">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/byggeplads_skilt.jpg" alt="Byggepladsskilt">
         </div>
 
             <!-- Main Table -->
