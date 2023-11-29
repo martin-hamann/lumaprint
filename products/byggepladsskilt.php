@@ -115,7 +115,7 @@ Template Name: Byggepladsskilt
     </div>
 
     <div class="center-text">
-    <p>Priser er inklusiv moms. Eksl. print og fragt. </p>
+    <p>Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.</p>
     </div>
     
 </div>
