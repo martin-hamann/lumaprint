@@ -20,6 +20,22 @@ Template Name: A-skilt
             align-items: center;
             height: 100vh;
         }
+
+        .text-box{
+            text-align:center;  
+        }
+        .a-skilt-tekst {
+            color:#ededed;
+        }
+        h2.headline{
+            color:#e31e26;
+        }
+
+        .askilt-img{
+            display:flex;
+            justify-content:center;
+
+        }
     </style>
 </head>
 
@@ -29,9 +45,9 @@ Template Name: A-skilt
         <div id="text-box">
             <div id="content-box">
 
-                <h1>Print til gadeprint</h1>
+                <h2 class="headline">Print til gadeprint</h2>
 
-                <p>
+                <p class="a-skilt-tekst text">
                     Standard størrelse er som regel B2, som måler 50x70 cm, eller B1, som måler 70x100 cm. Mål hellere
                     efter.
                 </p>
@@ -51,7 +67,7 @@ Template Name: A-skilt
                 </p>
 
                 <div class="askilt-img">
-                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="a-skilt" width="50%" height="50%">
+                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="a-skilt" width="30%" height="30%">
                 </div>
             </div>
         </div>
