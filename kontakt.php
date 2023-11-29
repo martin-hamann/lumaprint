@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: About Us
+Template Name: Kontakt Os
 */
 
 get_header();
@@ -14,8 +14,6 @@ get_header();
         padding: 20px;
         background-color: var(111213);
         border-radius: 8px;
-
-
     }
 
     .form-content h2 {
@@ -84,12 +82,6 @@ get_header();
     </div>
     <?php echo do_shortcode('[contact-form-7 id="cc77310" title="Contact form 1"]'); ?>
 </div>
-
-<?php get_footer(); ?>
-<?php wp_footer(); ?>
-
-</html>
-
 
 
 <?php get_footer(); ?>
