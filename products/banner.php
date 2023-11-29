@@ -26,6 +26,7 @@ Template Name: Banner
                 Print på en side.</p>
         </div>
         <div class="col-md-3 image-box">
+            
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Stof.jpg" alt="Stof" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Stof</h4>
             <p class="banner-text text-center">Outdoor og indoor B1 brændhæmmende fleksibel tekstil banner. Kan foldes
@@ -37,7 +38,7 @@ Template Name: Banner
 
 
     <div class="row table-container">
-        <div class="col-md-6 mx-auto center-text">
+        <div class="col-md-6 mx-auto text-center">
             <table class="table table-bordered border-dark bg-dark text-light text-center">
                 <thead>
 
@@ -109,13 +110,9 @@ Template Name: Banner
 
 </div>
 <style>
-    .center-text {
-        text-align: center;
-    }
-
+   
     .banner-text {
         color: white;
-
     }
 
     h2.banner.headline {
@@ -126,7 +123,7 @@ Template Name: Banner
     .banner-img {
         object-fit: cover;
         height: 50%;
-        width:50%;  
+        width:100%;  
     }
     .image-container{
         margin-bottom:20vh;
