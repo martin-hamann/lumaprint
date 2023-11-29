@@ -26,6 +26,7 @@ Template Name: A-skilt
         }
         p.a-skilt-tekst .text {
             color:#ededed;
+            text-align:center;
         }
         h2.headline{
             color:#e31e26;
