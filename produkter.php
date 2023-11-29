@@ -85,7 +85,7 @@ get_header();
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-sticker-e1701218960267.png alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-sticker-e1701218960267.png" alt="Card image cap">
             <div class="card-body product-card-body">
                 <h5 class="card-title">Klistermærker</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
@@ -99,7 +99,7 @@ get_header();
             </div>
         </div>
         <div class="card" style="width: 18rem;">
-            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-klebefolie-e1701218884144.png alt="Card image cap">
+            <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-klebefolie-e1701218884144.png" alt="Card image cap">
             <div class="card-body product-card-body">
                 <h5 class="card-title">Klæbefolie print</h5>
                 <a href="#" class="læs-mere-text">Læs Mere</a>
