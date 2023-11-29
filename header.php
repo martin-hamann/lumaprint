@@ -17,11 +17,11 @@
 <header>
     <nav class="navbar navbar-expand-lg headline px-5 d-flex justify-content-between">
         <a class="navbar-brand" href="http://lumaprint.site/"><span class="headline-color">LUMA</span>PRINT</a>
-        <button class="navbar-toggler collapse" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
-            aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
+            aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarSupportedContent" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent">
+        <div class="collapse navbar-collapse" id="navbarNav">
             <ul class="navbar-nav mr-auto mx-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="http://lumaprint.site/">Forside</a>
@@ -42,8 +42,3 @@
 </header>
 
 <body>
-<script>
-    $("#navbarSupportedContent a:not(.dropdown-toggle)").click(function() {
-      $("#navbarSupportedContent").collapse("hide");
-    });
-  </script>
