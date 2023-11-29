@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Klistermærker
+Template Name: A-skilt
 */
 ?>
 <?php get_header() ?>
@@ -43,11 +43,13 @@ Template Name: Klistermærker
         #right-images {
             display: flex;
             flex-direction: column;
-            align-items: flex-start;
+            align-items: center;
         }
 
         #right-images img {
             margin-bottom: 10px;
+            max-width: 100%;
+            height: auto;
         }
 
         p {
@@ -55,9 +57,6 @@ Template Name: Klistermærker
             line-height: 1.6;
         }
 
-        h1 {
-            color: #28a745; /* Green color */
-        }
     </style>
 </head>
 
