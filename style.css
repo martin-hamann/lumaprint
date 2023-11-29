@@ -350,8 +350,8 @@ a.læs-mere-text:hover{
     text-decoration:none;
 }
 .product-links:hover{
-    opacity:50%;
-    transform: scale(1.1);
+    opacity:0.8;
+    transition:opacity 0.3s ease-in-out;
 }
 h2.card-header-headline{
     margin-bottom:0;
