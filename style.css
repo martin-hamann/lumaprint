@@ -148,6 +148,11 @@ p.din-printbutik-text {
 
 
 
+/* Google Reviews */
+
+div.ti-reviews-container{
+    margin:0 auto 20vh auto;
+}
 
 /* FOOTER CSS */
 
