@@ -124,9 +124,10 @@ Template Name: Banner
         object-fit: cover;
         height: 50%;
         width:100%;  
+        margin-bottom:5vh;
     }
     .image-container{
-        margin-bottom:20vh;
+        margin-bottom:10vh;
     }
     .table-container{
         margin-bottom:20vh;
