@@ -349,9 +349,21 @@ a.læs-mere-text:hover{
 .product-links{
     text-decoration:none;
 }
+
+.product-links::before{
+    content:'';
+    position:absolute;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background-color:#111213;
+    opacity:0;
+    transition: opacity 0.2s ease-in-out;
+}
 .product-links:hover{
-    opacity:0.8;
-    transition:opacity 0.3s ease-in-out;
+    opacity:0.5;
+
 }
 h2.card-header-headline{
     margin-bottom:0;
