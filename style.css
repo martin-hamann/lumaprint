@@ -92,7 +92,7 @@ h3.din-printbutik .headline{
 }
 p.din-printbutik-text {
     width:30%;
-    margin:5vh auto;
+    margin:2vh auto 5vh auto;
 
 }
 #how-it-works-card{
@@ -104,7 +104,7 @@ p.din-printbutik-text {
 }
 #how-it-works-card-text{
     color:#ededed;
-    margin:20px auto;
+    margin:20px auto 0 auto;
 }
 
 .test-template-part{
