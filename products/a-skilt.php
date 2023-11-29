@@ -17,8 +17,8 @@ Template Name: A-skilt
         #main-content {
             display: flex;
             justify-content: center;
-            align-items: center;
             height: 100vh;
+            margin-top:20vh;
         }
 
         .text-box{
@@ -52,14 +52,14 @@ Template Name: A-skilt
                     efter.
                 </p>
 
-                <p>Pris på 2 stk. B2 print:
+                <p class="a-skilt-tekst text">Pris på 2 stk. B2 print:
                     <br>
                     132,- holdbar i nogle måneder. 150g. plakat papir.
                     <br>
                     230,- holdbar i nogle år. Lamineret print.
                 </p>
 
-                <p>Pris på 2 stk. B1 print:
+                <p class="a-skilt-tekst text">Pris på 2 stk. B1 print:
                     <br>
                     264,- holdbar i nogle måneder. 150g. plakat papir.
                     <br>
