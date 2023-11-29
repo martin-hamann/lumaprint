@@ -48,7 +48,7 @@ Template Name: Skjold
         </header>
 
         <div id="image-box">
-            <img src="http://test.local/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="Your Image">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="Your Image">
         </div>
 
         <div id="text-info">
