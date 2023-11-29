@@ -117,14 +117,20 @@ Template Name: Banner
 
     h2.banner.headline {
         width: 50%;
-        margin: 0 auto;
+        margin: 0 auto 0 auto;
+    }
+    .banner-sub-headline{
+        margin-top:25px;
+        margin-bottom:10px;
     }
 
+    .image-box{
+        margin-bottom:5vh;
+    }
     .banner-img {
         object-fit: cover;
         height: 50%;
         width:100%;  
-        margin-bottom:5vh;
     }
     .image-container{
         margin-bottom:10vh;
