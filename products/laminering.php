@@ -90,8 +90,9 @@ Template Name: Laminering
             Eksl. print og fragt.
             Ønsker du et tilbud på større oplæg?
             Eller en bestemt størrelse og mål?
-            Så kontakt os endelig
+            Så kontakt os endelig <br> Lever venligst en PDF fil til print.
         </p>
+       
     </div>
 
 </body>

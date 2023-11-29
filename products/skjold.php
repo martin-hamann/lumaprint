@@ -58,7 +58,7 @@ Template Name: Skjold
             370,- med fragt privat adresse. <br>
             Email din bestilling til luma@lumaprint.dk med ønsket tekst, form og evt. billede. Du får nogle forslag som skal godkendes inden print.<br>
             <a href=""> Se eksempler her </a> <br> Priser er inkl. moms.
-            Eksl. fragt.</p>
+            Eksl. fragt. <br> Lever venligst en PDF fil til print. </p>
         </div>
 
     </div>

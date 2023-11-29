@@ -54,7 +54,7 @@ Template Name: Postkasse
             <p>300,- for 4 linjer.</p>
         </div>
 
-        <p>Priser er inklusiv moms. Eksklusiv fragt.</p>
+        <p>Priser er inklusiv moms. Eksklusiv fragt. <br> Lever venligst en PDF fil til print. </p>
 
         <div class="image-box">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/371485123_259162880492487_1336852508179692553_n.png" alt="Postkasse" width="300">
