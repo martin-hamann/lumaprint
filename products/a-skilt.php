@@ -16,39 +16,34 @@ Template Name: A-skilt
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <!-- Additional Styles (Optional) -->
     <style>
-        body {
-            font-family: 'Arial', sans-serif;
-            background-color: #f8f9fa;
-            color: #495057;
-        }
+#main-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
 
-        #main-content {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-        }
+#text-box,
+#right-images {
+    width: 50%;
+    margin: auto;
+    color: white;
+}
 
-        #text-box,
-        #right-images {
-            width: 50%;
-            margin: auto;
-            color: #fff;
-        }
 
-        #content-box {
-            text-align: center;
-        }
+#content-box {
+    text-align: center;
+}
 
-        img {
-            max-width: 100%;
-            height: auto;
-        }
+#right-images {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
 
-        p {
-            font-size: 18px;
-            line-height: 1.6;
-        }
+#right-images img {
+    margin-bottom: 10px;
+}
 
     </style>
 </head>
@@ -59,7 +54,7 @@ Template Name: A-skilt
         <div id="text-box">
             <div id="content-box">
 
-                <h1>Standard størrelse</h1>
+                <h1>Print til gadeprint</h1>
 
                 <p>
                     Standard størrelse er som regel B2, som måler 50x70 cm, eller B1, som måler 70x100 cm. Mål hellere efter.
@@ -80,7 +75,7 @@ Template Name: A-skilt
                 </p>
 
                 <!-- Insert your image here -->
-                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="Stickers" width="50%">
+                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="a-skilt" width="50%">
             </div>
         </div>
     </div>
