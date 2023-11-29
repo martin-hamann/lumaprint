@@ -345,6 +345,14 @@ a.læs-mere-text:hover{
     opacity:80%;
 }
 
+.product-links:hover{
+    transform:scale(1.2);
+}¨
+
+h2.card-header-headline{
+    margin-bottom:0;
+}
+
 
 
 
