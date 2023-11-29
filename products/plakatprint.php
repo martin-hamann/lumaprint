@@ -283,7 +283,7 @@ Template Name: plakatprint
             </table>
 
              <!-- Additional Text Below Tables -->
-             <p class="text-center mt-3 text-danger">Priser er inklusiv moms. Eksl. grafisk opsætning og fragt.</p>
+             <p class="text-center mt-3 text-danger">Priser er inklusiv moms. Eksl. grafisk opsætning og fragt. Priser er inkl. moms. Eksl. grafisk arbejde og fragt. <br> Lever venligst en PDF fil til print.</p>
              <p class="text-center mt-3 text-danger">Lyder det som noget for dig så kontakt os for et uforpligtende tilbud </p>
              <div class="container d-flex justify-content-center"><button type="button" class="btn btn-lg px-4 me-md-2 hero-button-1">Kontakt Os</button> </div>
         </div>
