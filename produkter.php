@@ -93,7 +93,7 @@ get_header();
                         src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-drawings-e1701219970915.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Tegnings plot</h5>
+                        <h5 class="card-title">Tegningsplot</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
@@ -110,7 +110,7 @@ get_header();
                     <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-billeder.jpg"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Stor check</h5>
+                        <h5 class="card-title">Stor Check</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
@@ -136,7 +136,7 @@ get_header();
                         src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-gadeskilt-e1701218933284.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">A-skilt print</h5>
+                        <h5 class="card-title">A-skiltprint</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
@@ -149,7 +149,7 @@ get_header();
                         src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-klebefolie-e1701218884144.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Klæbefolie print</h5>
+                        <h5 class="card-title">Klæbefolieprint</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
@@ -189,7 +189,7 @@ get_header();
                         src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-skjold-e1701219168489.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Skjold til æresport</h5>
+                        <h5 class="card-title">Skjold Til Æresport</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
@@ -200,7 +200,7 @@ get_header();
                         src="http://lumaprint.site/wp-content/uploads/2023/11/rollup-e1701219099886.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Roll up</h5>
+                        <h5 class="card-title">Roll-Up Banner</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
@@ -278,7 +278,7 @@ get_header();
                         src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-postkasse-e1701218496438.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Postkasse tekst</h5>
+                        <h5 class="card-title">Postkassetekst</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
