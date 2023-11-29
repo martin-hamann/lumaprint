@@ -24,13 +24,13 @@
         <div class="collapse navbar-collapse" id="navbarText" data-bs-toggle="collapse" data-bs-target="#navbarText">
             <ul class="navbar-nav mr-auto mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="http://lumaprint.site/">Forside</a>
+                    <a class="nav-link" data-bs-target="#navbarText" data-bs-toggle="collapse" href="http://lumaprint.site/">Forside</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://lumaprint.site/?page_id=18">Produkter</a>
+                    <a class="nav-link" data-bs-target="#navbarText" data-bs-toggle="collapse " href="http://lumaprint.site/?page_id=18">Produkter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://lumaprint.site/?page_id=16">Om Os</a>
+                    <a class="nav-link" data-bs-target="#navbarText" data-bs-toggle="collapse" href="http://lumaprint.site/?page_id=16">Om Os</a>
                 </li>
             </ul>
             <div class="button-container">
