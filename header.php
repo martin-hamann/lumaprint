@@ -21,7 +21,7 @@
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse" id="navbarText">
+        <div class="collapse navbar-collapse" id="navbarText" data-bs-toggle="collapse" data-bs-target=".navbar-collapse">
             <ul class="navbar-nav mr-auto mx-auto">
                 <li class="nav-item">
                     <a class="nav-link" href="http://lumaprint.site/">Forside</a>
