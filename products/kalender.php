@@ -72,7 +72,7 @@ Template Name: Kalender
                 <p>A3 str for 135kr</p>
             </div>
 
-            <p>Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.</p>
+            <p>Priser er inklusiv moms. Eksl. print og fragt.</p>
     </div>
 
 
