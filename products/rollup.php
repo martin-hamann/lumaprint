@@ -43,8 +43,8 @@ Template Name: Rollup
                     Systemet leveres med farve print på B1 brandhæmmende banner inkl. en tranport taske.</p></div>
 
             <div id="image-box">
-                <img src="http://test.local/wp-content/uploads/2023/11/Rollup-print-hos-Lumaprint.jpg"
-                     alt="Byggepladsskilt">
+                <img src="http://lumaprint.site/wp-content/uploads/2023/11/rollup-e1701219099886.png"
+                     alt="Rollup banner">
             </div>
 
             <!-- Main Table -->
