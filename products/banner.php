@@ -8,7 +8,7 @@ Template Name: Banner
 <html lang="en">
 
 <div class="container">
-        <div class="row image-container">
+        <div class="row image-container d-flex justify-content-center align-items-center">
             <div class="col-md-3 image-box">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="Vinyl">
                 <h4 class="Headline">Vinyl banner</h4>
