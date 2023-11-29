@@ -16,7 +16,7 @@
 
 <header>
     <nav class="navbar navbar-expand-lg headline px-5 d-flex justify-content-between">
-        <a class="navbar-brand" href="#"><span class="headline-color">LUMA</span>PRINT</a>
+        <a class="navbar-brand" href="http://lumaprint.site/"><span class="headline-color">LUMA</span>PRINT</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
             aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -24,17 +24,18 @@
         <div class="collapse navbar-collapse" id="navbarText">
             <ul class="navbar-nav mr-auto mx-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Forside</a>
+                    <a class="nav-link" href="http://lumaprint.site/">Forside</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Produkter</a>
+                    <a class="nav-link" href="http://lumaprint.site/?page_id=18">Produkter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Om Os</a>
+                    <a class="nav-link" href="http://lumaprint.site/?page_id=16">Om Os</a>
                 </li>
             </ul>
             <div class="button-container">
-                <button class="contact-button btn btn-link ml-auto mr-0" type="button">Kontakt Os</button>
+
+                <a href="http://lumaprint.site/?page_id=20" class="kontakt-os-knap"><button class="contact-button btn btn-link ml-auto mr-0" type="button">Kontakt Os</button></a>
             </div>
         </div>
     </nav>
