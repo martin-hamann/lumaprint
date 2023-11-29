@@ -93,7 +93,7 @@ button.hero-button-2{
 #how-it-works-card-body{
     display:flex;
     justify-content:center;
-    flex-wrap:wrap;
+    /* flex-wrap:wrap; */
     border-radius:5%;
 
 }
@@ -103,7 +103,9 @@ button.hero-button-2{
     margin:auto;
 }
 
-
+.test-template-part{
+    margin-bottom:20vh;
+}
 
 
 /* Galleri   fra kunderne */
