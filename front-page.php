@@ -29,7 +29,7 @@
 
 
 <div class="test-template-part">
-    <h3 class="din-printbutik headline text-center">DIN PRINTBUTIK I HJERTET AF ESBJERG</h3>
+    <h3 class="din-printbutik headline text-center">Din Printbutik I Hjertet Af Esbjerg</h3>
     <p class="din-printbutik-text text-center text">Vi er din partner inden for printløsninger. Vi leverer skarpe og professionelle trykprodukter, der passer til dine behov. Fra skræddersyede designs til hurtig produktion – vi bringer dine ideer til live med kvalitetsprint.</p>
     <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
 </div>
@@ -44,7 +44,7 @@ $kreation = new WP_Query(
 
 ?>
 
-    <h3 class="din-printbutik headline text-center">Del dine kreationer</h3>
+    <h3 class="din-printbutik headline text-center">Del Dine Kreationer</h3>
     <p class="din-printbutik-text text-center text">Del fotos eller videoer af dine seneste kreationer med os. Brug hashtagget #lumaprint for at deltage i fællesskabet. Lad os gøre dette sted til et galleri af uendelige muligheder. 
 Klar, parat, print! </p>
 

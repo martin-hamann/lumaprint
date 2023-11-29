@@ -87,25 +87,24 @@ button.hero-button-2{
 
 /* Template Part - How It Works Card */
 
+h3.din-printbutik .headline{
+    margin:0;
+}
 p.din-printbutik-text {
-    width:50%;
-    margin:0 auto;
+    width:30%;
+    margin:5vh auto;
 
 }
 #how-it-works-card{
     background: linear-gradient(180deg, #242424, #191919);
 }
 #how-it-works-card-body{
-    /* display:flex; */
-    /* justify-content:center; */
-    /* flex-wrap:wrap; */
-    border-radius:5%;
+    /* border-radius:5%; */
 
 }
 #how-it-works-card-text{
     color:#ededed;
-    /* width:50%; */
-    margin:auto;
+    margin:20px auto;
 }
 
 .test-template-part{
