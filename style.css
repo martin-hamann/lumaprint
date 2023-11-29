@@ -338,6 +338,13 @@ h5.card-title{
     --bs-gutter-x:0;
 }
 
+a.læs-mere-text{
+    color:#E31E26;
+}
+a.læs-mere-text:hover{
+    opacity:80%;
+}
+
 
 
 

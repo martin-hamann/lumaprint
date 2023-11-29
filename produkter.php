@@ -158,68 +158,64 @@ get_header();
             </div>
         </div>
         <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top"
-                src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort-e1701218825431.png"
-                alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Visitkort</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top"
+                    src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort-e1701218825431.png"
+                    alt="Card image cap">
+                <div class="card-body product-card-body">
+                    <h5 class="card-title">Visitkort</h5>
+                    <a href="#" class="læs-mere-text">Læs Mere</a>
+                </div>
             </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top"
-                src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-postkort-e1701218777416.png"
-                alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Postkort</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top"
+                    src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-postkort-e1701218777416.png"
+                    alt="Card image cap">
+                <div class="card-body product-card-body">
+                    <h5 class="card-title">Postkort</h5>
+                    <a href="#" class="læs-mere-text">Læs Mere</a>
+                </div>
             </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top"
-                src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-flyers-e1701218694359.png"
-                alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Flyers</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top"
+                    src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-flyers-e1701218694359.png"
+                    alt="Card image cap">
+                <div class="card-body product-card-body">
+                    <h5 class="card-title">Flyers</h5>
+                    <a href="#" class="læs-mere-text">Læs Mere</a>
+                </div>
             </div>
-        </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top"
-                src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-plader-e1701218632925.png"
-                alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Skilteplader</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top"
+                    src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-plader-e1701218632925.png"
+                    alt="Card image cap">
+                <div class="card-body product-card-body">
+                    <h5 class="card-title">Skilteplader</h5>
+                    <a href="#" class="læs-mere-text">Læs Mere</a>
+                </div>
             </div>
         </div>
         <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
-    </div>
-    
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top"
-                src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-kalender-e1701218556744.png"
-                alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Kalender</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top"
+                    src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-kalender-e1701218556744.png"
+                    alt="Card image cap">
+                <div class="card-body product-card-body">
+                    <h5 class="card-title">Kalender</h5>
+                    <a href="#" class="læs-mere-text">Læs Mere</a>
+                </div>
+            </div>
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top"
+                    src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-postkasse-e1701218496438.png"
+                    alt="Card image cap">
+                <div class="card-body product-card-body">
+                    <h5 class="card-title">Postkasse tekst</h5>
+                    <a href="#" class="læs-mere-text">Læs Mere</a>
+                </div>
             </div>
         </div>
-        <div class="card" style="width: 18rem;">
-            <img class="card-img-top"
-                src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-postkasse-e1701218496438.png"
-                alt="Card image cap">
-            <div class="card-body product-card-body">
-                <h5 class="card-title">Postkasse tekst</h5>
-                <a href="#" class="læs-mere-text">Læs Mere</a>
-            </div>
-        </div>
     </div>
-
-    </div>
-    
-
 </div>
 
 
