@@ -361,7 +361,7 @@ a.læs-mere-text:hover{
     opacity:0;
     transition: opacity 0.3s ease-in-out;
 }
-.product-links::before:hover{
+.product-links:hover::before{
     opacity:0.5;
 
 }
