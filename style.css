@@ -338,8 +338,9 @@ h5.card-title{
     --bs-gutter-x:0;
 }
 
-a.læs-mere-text{
+p.læs-mere-text{
     color:#E31E26;
+    text-decoration: underline;
 }
 a.læs-mere-text:hover{
     opacity:80%;
@@ -349,7 +350,8 @@ a.læs-mere-text:hover{
     text-decoration:none;
 }
 .product-links:hover{
-    opacity:80%;
+    opacity:50%;
+    transform: scale(1.1);
 }
 h2.card-header-headline{
     margin-bottom:0;
