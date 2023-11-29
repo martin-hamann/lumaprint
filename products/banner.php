@@ -11,20 +11,20 @@ Template Name: Banner
         <div class="row image-container">
             <div class="col-md-3 image-box">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="Vinyl">
-                <h4>Vinyl banner</h4>
-                <p>Outdoor eller indoor B1 pressing banner.
+                <h4 class="Headline">Vinyl banner</h4>
+                <p class="Mesh-text">Outdoor eller indoor B1 pressing banner.
                         Print på en side.</p>
             </div>
             <div class="col-md-3 image-box">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mesh.jpg" alt="Mesh">
-                <h4>Mesh banner</h4>
-                <p>Outdoor banner med små huller som tillader vinden at trænge igennem. Det er velegnet til frithængende bannere, f.eks på byggepladshegn, festivalshegn, stillads osv.
+                <h4 class="Headline">Mesh banner</h4>
+                <p class="Mesh-text">Outdoor banner med små huller som tillader vinden at trænge igennem. Det er velegnet til frithængende bannere, f.eks på byggepladshegn, festivalshegn, stillads osv.
                     Print på en side.</p>
             </div>
             <div class="col-md-3 image-box">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Stof.jpg" alt="Stof">
-                <h4>Stof banner</h4>
-                <p>Outdoor og indoor B1 brændhæmmende fleksibel tekstil banner. Kan foldes sammen til rejsetaske som er nemmere end en rullet poster.
+                <h4 class="Headline">Stof banner</h4>
+                <p class="Mesh-text">Outdoor og indoor B1 brændhæmmende fleksibel tekstil banner. Kan foldes sammen til rejsetaske som er nemmere end en rullet poster.
                     Print på en side.</p>
             </div>
         </div>
@@ -34,6 +34,16 @@ Template Name: Banner
         .center-text {
             text-align: center;
         }
+
+        .Mesh-text {
+            color:white ;
+
+        }
+        .Headline {
+            color: white;
+
+        }
+        
     </style>
 </head>
 

@@ -17,6 +17,7 @@ Template Name: plakatprint
     <style>
         .center-text {
             text-align: center;
+            color: white;
         }
     </style>
 </head>
