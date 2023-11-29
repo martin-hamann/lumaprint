@@ -18,15 +18,17 @@ Template Name: A-skilt
             display: flex;
             justify-content: center;
             height: 100vh;
-            margin:20vh auto 20vh auto;
+            margin:20vh 10% 20vh 10%;
         }
-
+        .content-box{
+            text-align:center;
+        }
         .text-box{
             text-align:center;  
         }
         p.a-skilt-tekst .text {
             color:#ededed;
-            text-align:center;
+          
         }
         h2.headline{
             color:#e31e26;
