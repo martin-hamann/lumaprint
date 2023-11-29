@@ -55,7 +55,7 @@ Template Name: check
             <a href="#">Publisher</a>
             <a href="#">Eksempler</a></p>
     </div>
-    <p class="text-center mt-3">Lyder det som noget for dig så kontakt os for et uforpligtende tilbud </p>
+    <p class="text-center mt-3">Lyder det som noget for dig så kontakt os for et uforpligtende tilbud <br> Lever venligst en PDF fil til print. </p>
     <div class="container d-flex justify-content-center"><button type="button" class="btn btn-lg px-4 me-md-2 hero-button-1 ">Kontakt Os</button> </div>
 </body>
 </html>
