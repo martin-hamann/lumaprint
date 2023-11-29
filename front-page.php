@@ -28,12 +28,19 @@
 </div>
 
 
-<div class="test-template-part col-12">
-    <h3 class="din-printbutik headline text-center col-md-6">Din Printbutik I Hjertet Af Esbjerg</h3>
-    <p class="din-printbutik-text text-center text col-md-12">Vi er din partner inden for printløsninger. Vi leverer skarpe og
-        professionelle trykprodukter, der passer til dine behov. Fra skræddersyede designs til hurtig produktion – vi
-        bringer dine ideer til live med kvalitetsprint.</p>
-    <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
+<div class="test-template-part container">
+    <div class="row">
+        <div class="col-md-12">
+            <h3 class="din-printbutik headline text-center">Din Printbutik I Hjertet Af Esbjerg</h3>
+            <p class="din-printbutik-text text-center text">Vi er din partner inden for printløsninger. Vi leverer
+                skarpe og
+                professionelle trykprodukter, der passer til dine behov. Fra skræddersyede designs til hurtig produktion
+                –
+                vi
+                bringer dine ideer til live med kvalitetsprint.</p>
+            <?php get_template_part('template-parts/how-it-works/how-it-works'); ?>
+        </div>
+    </div>
 </div>
 
 <?php
