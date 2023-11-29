@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: a-skilt
+Template Name: A-skilt
 */
 ?>
 <?php get_header() ?>
@@ -55,9 +55,6 @@ Template Name: a-skilt
             line-height: 1.6;
         }
 
-        h1 {
-            color: #28a745; /* Green color */
-        }
     </style>
 </head>
 
