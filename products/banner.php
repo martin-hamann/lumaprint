@@ -4,38 +4,7 @@ Template Name: Banner
 */
 ?>
 <?php get_header() ?>
-<!DOCTYPE html>
-<html lang="en">
 
-<style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-        }
-
-        .image-container {
-            display: flex;
-            justify-content: space-around;
-            flex-wrap: wrap;
-            margin: 20px 0;
-        }
-
-        .image-box {
-            text-align: center;
-            margin: 10px;
-        }
-
-        .image-box img {
-     width: 100%;
-    height: auto;
-    vertical-align: top;
-        }
-    </style>
-</head>
-<body>
 
 <div class="container">
         <div class="row image-container">
@@ -66,16 +35,13 @@ Template Name: Banner
         }
 
         .Mesh-text {
-            color: white;
+            color:whi;
 
         }
-
         .Headline {
             color: white;
 
         }
-
-    </style>
         
     </style>
 </head>
