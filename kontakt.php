@@ -47,9 +47,8 @@ get_header();
     .wpcf7-form input[type="submit"] {
         background-color: #E31E26;
         color: #fff;
-        padding: 10px 15px;
         cursor: pointer;
-        border-radius:5%;
+        border-radius:10%;
     }
 
     .wpcf7-form input[type="submit"]:hover {
