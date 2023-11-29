@@ -126,12 +126,12 @@ Template Name: Banner
     .banner-img {
         object-fit: cover;
         height: 50%;
-        width:50%;
+        width:50%;  
     }
-    div.row .image-container{
+    .image-container{
         margin-bottom:20vh;
     }
-    div.row .table-container{
+    .table-container{
         margin-bottom:20vh;
     }
 </style>
