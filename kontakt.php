@@ -10,21 +10,14 @@ get_header();
 <style>
     .form-content {
         max-width: 600px;
-        margin: 15vh auto;
+        margin: 10vh auto;
         padding: 20px;
         background-color: var(111213);
         border-radius: 8px;
     }
-
-    .form-content h2 {
-
-        display: flex;
-        align-items: center;
-        justify-content: center;
-    }
-
     .wpcf7-form p {
         margin-bottom: 15px;
+        color: white;
     }
 
     .wpcf7-form label {
@@ -59,10 +52,6 @@ get_header();
         background-color: #191919;
         padding: 20px;
         border-radius: 4px;
-    }
-
-    .wpcf7-form p {
-        color: white;
     }
 
     .form-content-text{
