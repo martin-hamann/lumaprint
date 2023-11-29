@@ -146,7 +146,11 @@ p.din-printbutik-text {
     transition:transform 0.3s ease-in-out;
 }
 
+/* Google Reviews */
 
+.ti-widget.ti-goog .ti-widget-container{
+    margin-bottom:20vh;
+}
 
 
 /* FOOTER CSS */
