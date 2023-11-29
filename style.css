@@ -148,7 +148,7 @@ p.din-printbutik-text {
 
 /* Google Reviews */
 
-.ti-widget-container{
+div.ti-widget-container .ti-col-5{
     margin-bottom:20vh;
 }
 
