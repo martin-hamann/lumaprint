@@ -53,19 +53,18 @@ get_header();
        color: #fff;
        padding: 10px 15px;
        border: 1px solid #E31E26; 
-       border-radius: 25px; 
        cursor: pointer;
    }
 
    .wpcf7-form input[type="submit"]:hover {
-       background-color: #B71C1F; 
+       opacity:0.8;
+       transition: opacity 0.2s ease-in-out;
    }
 
 
    .wpcf7-form {
        background-color: #191919; 
        padding: 20px;
-       border: 1px solid #E31E26; 
        border-radius: 4px;
    }
 
