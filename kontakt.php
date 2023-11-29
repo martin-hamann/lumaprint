@@ -10,11 +10,10 @@ get_header();
 <style>
     .form-content {
         max-width: 600px;
-        margin: 10vh auto;
+        margin: 15vh auto;
         padding: 20px;
         background-color: var(111213);
         border-radius: 8px;
-        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 
 
     }
@@ -32,7 +31,6 @@ get_header();
 
     .wpcf7-form label {
         display: block;
-        margin-bottom: 5px;
         font-weight: bold;
     }
 
@@ -50,8 +48,8 @@ get_header();
         background-color: #E31E26;
         color: #fff;
         padding: 10px 15px;
-        border: 1px solid #E31E26;
         cursor: pointer;
+        border-radius:5%;
     }
 
     .wpcf7-form input[type="submit"]:hover {
@@ -69,12 +67,20 @@ get_header();
     .wpcf7-form p {
         color: white;
     }
+
+    .form-content-text{
+        text-align:center;
+
+    }
+    p.form-content-text{
+        color:#ededed;
+    }
 </style>
 
 <div class="form-content">
     <div class="form-content-text">
         <h2 style="color: #E31E26;">Kontakt os</h2>
-        <p class="kontakt-os-tekst">Har du spørgsmål, vil have et uforpligtende tilbud, eller vil du lægge en
+        <p class="kontakt-os-tekst text">Har du spørgsmål, vil have et uforpligtende tilbud, eller vil du lægge en
             bestilling? Tøv ikke med at kontakte os!</p>
     </div>
     <?php echo do_shortcode('[contact-form-7 id="cc77310" title="Contact form 1"]'); ?>
