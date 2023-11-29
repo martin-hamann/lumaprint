@@ -40,14 +40,7 @@ Template Name: A-skilt
             text-align: center;
         }
 
-        #right-images {
-            display: flex;
-            flex-direction: column;
-            align-items: center;
-        }
-
-        #right-images img {
-            margin-bottom: 10px;
+        img {
             max-width: 100%;
             height: auto;
         }
