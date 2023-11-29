@@ -345,6 +345,9 @@ a.læs-mere-text:hover{
     opacity:80%;
 }
 
+.product-links{
+    text-decoration:none;
+}
 .product-links:hover{
     opacity:80%;
 }

@@ -49,16 +49,16 @@ get_header();
         <h3 class="headline">Alle Produkter</h3>
         <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
 
-            <div class="card" style="width: 18rem;">
-                <a href="" class="product-links">
+            <a href="" class="product-links">
+                <div class="card" style="width: 18rem;">
                     <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/plakat.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
                         <h5 class="card-title">Plakatprint</h5>
-                        <a href="#" class="læs-mere-text">Læs Mere</a>
+                        <p class="læs-mere-text"> Læs Mere</p>
                     </div>
-                </a>
-            </div>
+                </div>
+            </a>
 
             <div class="card" style="width: 18rem;">
                 <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-banner1.png"
