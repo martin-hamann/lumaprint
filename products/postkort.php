@@ -56,7 +56,7 @@ get_header();
     <div class="row d-flex">
         <div class="col-md-3 text-center">
             <div class="pricing-card">
-                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort.png alt="Postkort forside">
+                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort.png" alt="Postkort forside">
             </div>
             <div class="pricing-card">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort_Page_2.png" alt="Postkort bagside">
