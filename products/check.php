@@ -3,13 +3,10 @@
 Template Name: check
 */
 ?>
-<?php get_header() ?>
+<?php get_header(); ?>
 
 
 <style>
-    body {
-        color: white;
-    }
 
     #image-container {
         text-align: center;
@@ -48,10 +45,10 @@ Template Name: check
 
             Kan evt. bruges som gavekort.
             For andre størrelser, venligst mail efter en pris.</p>
-        <p class="text"> Skabeloner: <a href="#">Powerpoint</a>
+        <!-- <p class="text"> Skabeloner: <a href="#">Powerpoint</a>
             <a href="#">Publisher</a>
             <a href="#">Eksempler</a>
-        </p>
+        </p> -->
     </div>
     <p class="text-center mt-3 text">Lyder det som noget for dig så kontakt os for et uforpligtende tilbud <br> Lever
         venligst en PDF fil til print. </p>
