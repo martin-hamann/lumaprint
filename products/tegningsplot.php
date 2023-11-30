@@ -102,6 +102,10 @@ Template Name: Tegningsplot
     </div>
 </div>
 
+<div class="center-text">
+    <p>Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr. 400,- pr. time. Eksklusiv moms og fragt.</p>
+</div>
+
 
 <?php get_footer(); ?>
 
