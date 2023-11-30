@@ -17,6 +17,7 @@ Template Name: Tegningsplot
     <style>
         .center-text {
             text-align: center;
+            color: white;
         }
     </style>
 </head>
@@ -103,7 +104,7 @@ Template Name: Tegningsplot
 </div>
 
 <div class="center-text">
-    <p>Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr. 400,- pr. time. Eksklusiv moms og fragt.</p>
+    <p>Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr. 400,- pr. time. <br> Eksklusiv moms og fragt.</p>
 </div>
 
 
