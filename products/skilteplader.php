@@ -348,13 +348,13 @@ Template Name: Skilteplader
                 <div class="image-box">
                     <div class="row">
                         <div class="col-md-4">
-                            <img src="http://test.local/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
+                            <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
                         </div>
                         <div class="col-md-4">
-                            <img src="http://test.local/wp-content/uploads/2023/11/PladePrint.jpg" alt="Image 2">
+                            <img src="http://lumaprint.site/wp-content/uploads/2023/11/PladePrint.jpg" alt="Image 2">
                         </div>
                         <div class="col-md-4">
-                            <img src="http://test.local/wp-content/uploads/2023/11/Bolgepap.jpg" alt="Image 3">
+                            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Bolgepap.jpg" alt="Image 3">
                         </div>
                     </div>
                 </div>
