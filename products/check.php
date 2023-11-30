@@ -5,30 +5,36 @@ Template Name: check
 ?>
 <?php get_header(); ?>
 
+<!DOCTYPE html>
+<html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Check Page</title>
     <style>
+        body  {
+            color: white;
+        }
         #image-container {
             text-align: center;
             margin-bottom: 20px;
         }
-
         img {
             max-width: 100%;
             height: auto;
         }
-
         #text {
             text-align: center;
             width: 50%;
             margin: 0 auto;
-
+            
         }
-
         .kontakt-os-knap {
             margin-bottom: 15vh;
         }
     </style>
 </head>
+
 <h2 class="headline check-headline"> Stor Check/Gavekort </h2>
 
 <div id="image-container">
