@@ -10,22 +10,25 @@ get_header();
 
 <style>
 
-    #main-content {
-        display: flex;
-        justify-content: center;
-        height: 100vh;
-        margin: 10vh 10% 10vh 10%;
-        margin-bottom: 350px;
-    }
 
-    .content-box {
-        max-width: 600px;
-        padding: 20px;
-        margin-top: 20px;
-        text-align: center;
-        margin-bottom: 50px; /* Adjust the value as needed */
+#main-content {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start; 
+    min-height: 100vh; 
+    padding-top: 20px; 
+}
 
-    }
+.content-box {
+    max-width: 600px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 50px; 
+    text-align: center;
+}
+
+
+
 
     .klæbe-h1 {
         color: #e31e26;
