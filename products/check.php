@@ -5,17 +5,11 @@ Template Name: check
 ?>
 <?php get_header(); ?>
 
-<!DOCTYPE html>
-<html lang="en">
-
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Check Page</title>
     <style>
 
         .check-container{
-            margin:10vh 0;
+            margin:10vh auto;
         }
         #image-container {
             text-align: center;
@@ -37,7 +31,6 @@ Template Name: check
     </style>
 </head>
 
-<body>
     <div class="check-container container">
         <h2 class="headline check-headline">Stor Check/Gavekort</h2>
 
@@ -64,8 +57,5 @@ Template Name: check
         <div class="container d-flex justify-content-center"><button type="button"
                 class="btn btn-lg px-4 me-md-2 hero-button-1 ">Kontakt Os</button> </div>
     </div>
-</body>
-
-</html>
 
 <?php get_footer(); ?>
