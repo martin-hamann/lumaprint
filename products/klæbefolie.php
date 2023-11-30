@@ -9,15 +9,13 @@ get_header();
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
 
 <style>
-    body {
-        background-color: black;
-    }
 
     #main-content {
         display: flex;
         justify-content: center;
         height: 100vh;
         margin: 10vh 10% 10vh 10%;
+        margin-bottom: 350px;
     }
 
     .content-box {
@@ -25,6 +23,8 @@ get_header();
         padding: 20px;
         margin-top: 20px;
         text-align: center;
+        margin-bottom: 50px; /* Adjust the value as needed */
+
     }
 
     .klæbe-h1 {
