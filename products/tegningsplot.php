@@ -35,7 +35,7 @@ Template Name: Tegningsplot
             <div class="col-md-6 mx-auto center-text">
                 <div>
                     <p>Sort/hvid plot ex.moms og fragt</p>
-                    <img src="http://test.local/wp-content/uploads/2023/11/Plot-prisliste.png" alt="Image 1">      
+                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Plot-prisliste.png" alt="Image 1">      
                 </div>
             </div>
         </div>
@@ -47,7 +47,7 @@ Template Name: Tegningsplot
             <div class="col-md-6 mx-auto center-text">
                 <div>
                     <p>Farve plot ex.moms og fragt</p>
-                    <img src="http://test.local/wp-content/uploads/2023/11/Prisliste-eksl-moms.png" alt="Image 2">
+                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Prisliste-eksl-moms.png" alt="Image 2">
                 </div>
             </div>
         </div>
