@@ -43,10 +43,13 @@ a.navbar-brand{
     font-weight:bold;
     color:#ededed;
 }
-
-.headline-color {
-    color:#E31E26;
+a.navbar-brand:hover{
+    opacity:50%;
+    transition:opacity 0.1s easde-in-out;
+    color:#ededed;
 }
+
+
 .button-container{
     display:flex;
     justify-content:center;
