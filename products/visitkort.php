@@ -20,12 +20,6 @@ get_header();
     margin-bottom: 15px;
     background-color: #fff;
   }
-
-  .Post-p {
-    color: #fff;
-    padding-bottom: 15px;
-  }
-
   .visit-img {
     max-width: 100%;
     height: auto;
@@ -36,13 +30,18 @@ get_header();
 </style>
 
 
-<div class="container mt-5">
-  <h1 class="visit-h1">Visitkort</h1>
+<div class="container-fluid">
+  <h2 class="headline">Visitkort</h2>
 
   <div class="row">
+    <div class="text text-center">
+      <p class="text">Visitkort printes i Dankort størrelse (55x85mm)</p>
+      <p class="headline">Print mode info:</p>
+    </div>
+  </div>
+  <div class="row">
     <div class="col-md-6">
-      <p class="Post-p">Dankort str. 55x85 mm.</p>
-      <p class="Post-p">Print mode info:</p>
+
       <p class="Post-p">4+0 er print på kortets ene side. Enkelt sidet print.</p>
       <p class="Post-p">4+4 er print på kortets begge sider, Dobbelt sidet print.</p>
     </div>
