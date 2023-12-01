@@ -11,8 +11,10 @@
             <h1 class="display-7 fw-bold lh-1 mb-3 hero-headline">LA' OS PRINTE DET FOR DIG</h1>
             <p class="lead hero-sub-headline">Mere end 50 års erfaring med print - samlet i én butik</p>
             <div class="d-grid gap-2 d-md-flex justify-content-md-start">
-                <button type="button" class="btn btn-lg px-4 me-md-2 hero-button-1">Kontakt Os</button>
-                <button type="button" class="btn btn-outline-secondary btn-lg px-4 hero-button-2">Se Produkter</button>
+                <a href="http://lumaprint.site/kontakt-os/"> <button type="button"
+                        class="btn btn-lg px-4 me-md-2 hero-button-1">Kontakt Os</button></a>
+                <a href="http://lumaprint.site/produkter/"> <button type="button"
+                        class="btn btn-outline-secondary btn-lg px-4 hero-button-2">Se Produkter</button></a>
             </div>
         </div>
     </div>
