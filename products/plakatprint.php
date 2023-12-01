@@ -4,37 +4,20 @@ Template Name: plakatprint
 */
 ?>
 <?php get_header() ?>
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plakat Print</title>
-    <!-- Include Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Additional Styles (Optional) -->
-    <style>
-        .center-text {
-            text-align: center;
-            color: white;
-        }
-    </style>
-</head>
 
-<body>
 
-            <!-- Table 1 -->
 <div class="container">
     <div class="row">
-        <div class="col-md-6 mx-auto center-text text-danger ">
-        <div class="header mb-4 py-4"> <h1>Plakat Print</h1> </div>
+        <div class="col-md-6 mx-auto center-text text-danger">
+            <div class="header mb-4 py-4">
+                <h1 class="headline">Plakatprint</h1>
+            </div>
 
-            <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                    <td colspan="2" class="bg-dark text-light">200g. Satin Plakat Print</td>
+                        <td colspan="2" class="bg-dark text">200g. Satin Plakat Print</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -82,7 +65,7 @@ Template Name: plakatprint
                 <tfoot>
                     <tr>
                         <td colspan="2">God til indramning. <br>
-                         Skjolder ikke mod glas.</td>
+                            Skjolder ikke mod glas.</td>
                     </tr>
                 </tfoot>
             </table>
@@ -91,16 +74,13 @@ Template Name: plakatprint
 </div>
 
 
-            <!-- Table 2 -->
-            <div class="container">
+<div class="container">
     <div class="row">
         <div class="col-md-6 mx-auto">
-
-            <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                    <td colspan="2" class="bg-dark text-light">Lamineret Print</td>
+                        <td colspan="2" class="bg-dark text">Lamineret Print</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -148,7 +128,7 @@ Template Name: plakatprint
                 <tfoot>
                     <tr>
                         <td colspan="2">Printet har en 5 mm. margin. <br>
-                         med ren laminat.</td>
+                            med ren laminat.</td>
                     </tr>
                 </tfoot>
             </table>
@@ -156,16 +136,14 @@ Template Name: plakatprint
     </div>
 </div>
 
-            <!-- Table 3 -->
-            <div class="container">
+
+<div class="container">
     <div class="row">
         <div class="col-md-6 mx-auto">
-
-            <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                    <td colspan="2" class="bg-dark text-light">200g. Mat Papir</td>
+                        <td colspan="2" class="bg-dark text">200g. Mat Papir</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -211,9 +189,9 @@ Template Name: plakatprint
                     </tr>
                 </tbody>
                 <tfoot>
-                        <tr>
+                    <tr>
                         <td colspan="2">FSC certificeret mat papir. <br>
-                         Kan indrammes.</td>
+                            Kan indrammes.</td>
                     </tr>
                 </tfoot>
             </table>
@@ -221,16 +199,13 @@ Template Name: plakatprint
     </div>
 </div>
 
-            <!-- Table 4 -->
-            <div class="container">
+<div class="container mb-5">
     <div class="row">
         <div class="col-md-6 mx-auto">
-
-            <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                    <td colspan="2" class="bg-dark text-light">200g. High Glossy Foto Print</td>
+                        <td colspan="2" class="bg-dark text">200g. High Glossy Foto Print</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -276,23 +251,21 @@ Template Name: plakatprint
                     </tr>
                 </tbody>
                 <tfoot>
-                        <tr>
+                    <tr>
                         <td colspan="2">Anbefales til indramning. Det skjolder. <br>
-                         Vælg 200g satin plakat print til indramning.</td>
+                            Vælg 200g satin plakat print til indramning.</td>
                     </tr>
                 </tfoot>
             </table>
 
-             <!-- Additional Text Below Tables -->
-             <p class="text-center mt-3 text-danger">Priser er inklusiv moms. Eksl. grafisk opsætning og fragt. <br> Lever venligst en PDF fil til print.</p>
-             <p class="text-center mt-3 text-danger">Lyder det som noget for dig så kontakt os for et uforpligtende tilbud </p>
-             <div class="container d-flex justify-content-center"><button type="button" class="btn btn-lg px-4 me-md-2 hero-button-1">Kontakt Os</button> </div>
+            <p class="text-center mt-3 text">Priser er inklusiv moms. Eksl. grafisk opsætning og fragt. <br>
+                Lever venligst en PDF fil til print.</p>
+            <p class="text-center mt-3 text">Lyder det som noget for dig så kontakt os for et uforpligtende
+                tilbud </p>
+            <div class="container d-flex justify-content-center "><button type="button"
+                    class="btn btn-lg px-4 me-md-2 hero-button-1">Kontakt Os</button> </div>
         </div>
     </div>
 </div>
 
 <?php get_footer(); ?>
-
-</body>
-
-</html>
