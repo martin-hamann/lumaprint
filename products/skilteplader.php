@@ -22,9 +22,9 @@ Template Name: Skilteplader
 </head>
 
 
-<div class="container">
-    <div class="row col-md-12">
-        <div class="col-md-6 mx-auto text-center">
+<div class="container-fluid">
+    <div class="row">
+        <div class="mx-auto text-center">
             <div class="header "> <h1 class="headline">PRINT PÅ PLADE</h1>
                 <p class="text"> Vi sætter print på forskellige plade typer. Hård plast plade, blød skum plade, bølgepap og karton. </p></div>
 
