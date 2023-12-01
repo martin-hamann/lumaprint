@@ -9,7 +9,7 @@ get_header();
 <div class="hiw-container">
     <div class="steps-container">
         <h3>Hvordan fungerer det?</h3>
-        <div class="row gap-5 d-flex justify-content-center col-12">
+        <div class="row gap-5 d-flex justify-content-center">
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline">
                     <h2 class="card-headline headline">1.</h2>
