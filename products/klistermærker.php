@@ -11,13 +11,7 @@ Template Name: Klistermærker
     justify-content: center;
     align-items: center;
     height: 100vh;
-}
-
-#text-box,
-#right-images {
-    width: 50%;
-    margin: auto;
-    color: white;
+    margin:10vh auto;
 }
     </style>
 
