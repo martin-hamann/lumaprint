@@ -380,7 +380,7 @@ Template Name: Whiteboard
         </div>
     </div>
     <div class="text-center">
-        <p>Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.</p>
+        <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.</p>
     </div>
 </div>
 
