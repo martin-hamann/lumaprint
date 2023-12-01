@@ -199,169 +199,172 @@ Template Name: Skilteplader
             </table>
         </div>
     </div>
-</div>
-<div class="row mx-auto d-flex justify-content-center">
-    <div class="col-6 col-xs-12 col-s-12">
-        <table class="table table-bordered border-dark text-center mb-4">
-            <thead>
-                <tr>
-                    <td colspan="7" class="bg-dark text-light">Hårde plader til inde- og udendørs brug. 4+0 enkelt
-                        side print.</td>
-                </tr>
-                <tr>
-                    <th>Størrelse</th>
-                    <th>3mm. Plast</th>
-                    <th>3mm. Dibond</th>
-                    <th>Tillæg for Laminat</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>A5 / 148x210mm</td>
-                    <td>94kr</td>
-                    <td>142kr</td>
-                    <td>18kr</td>
-                </tr>
-                <tr>
-                    <td>A4 / 210x297mm</td>
-                    <td>157 kr</td>
-                    <td>236 kr</td>
-                    <td>29 kr</td>
-                </tr>
-                <tr>
-                    <td>A3 / 297x420mm</td>
-                    <td>262 kr</td>
-                    <td>393 kr</td>
-                    <td>49 kr</td>
-                </tr>
-                <tr>
-                    <td>A2 / 420x594mm</td>
-                    <td>328 kr</td>
-                    <td>492 kr</td>
-                    <td>61 kr</td>
-                </tr>
-                <tr>
-                    <td>B2 / 500x700mm</td>
-                    <td>410 kr</td>
-                    <td>614 kr</td>
-                    <td>77 kr</td>
-                </tr>
-                <tr>
-                    <td>A1 / 594x840mm</td>
-                    <td>512 kr</td>
-                    <td>768 kr</td>
-                    <td>96 kr</td>
-                </tr>
-                <tr>
-                    <td>B1 / 700x1000mm </td>
-                    <td>640 kr</td>
-                    <td>960 kr</td>
-                    <td>120 kr</td>
-                </tr>
-                <tr>
-                    <td>A0 / 840x1188mm</td>
-                    <td>800 kr</td>
-                    <td>1200 kr</td>
-                    <td>150 kr</td>
-                </tr>
-                <tr>
-                    <td>B0 / 1000x1499mm</td>
-                    <td>960 kr</td>
-                    <td>1440 kr</td>
-                    <td>180 kr</td>
-                </tr>
-            </tbody>
-        </table>
+    <div class="row mx-auto d-flex justify-content-center">
+        <div class="col-6 col-xs-12 col-s-12">
+            <table class="table table-bordered border-dark text-center mb-4">
+                <thead>
+                    <tr>
+                        <td colspan="7" class="bg-dark text-light">Hårde plader til inde- og udendørs brug. 4+0 enkelt
+                            side print.</td>
+                    </tr>
+                    <tr>
+                        <th>Størrelse</th>
+                        <th>3mm. Plast</th>
+                        <th>3mm. Dibond</th>
+                        <th>Tillæg for Laminat</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>A5 / 148x210mm</td>
+                        <td>94kr</td>
+                        <td>142kr</td>
+                        <td>18kr</td>
+                    </tr>
+                    <tr>
+                        <td>A4 / 210x297mm</td>
+                        <td>157 kr</td>
+                        <td>236 kr</td>
+                        <td>29 kr</td>
+                    </tr>
+                    <tr>
+                        <td>A3 / 297x420mm</td>
+                        <td>262 kr</td>
+                        <td>393 kr</td>
+                        <td>49 kr</td>
+                    </tr>
+                    <tr>
+                        <td>A2 / 420x594mm</td>
+                        <td>328 kr</td>
+                        <td>492 kr</td>
+                        <td>61 kr</td>
+                    </tr>
+                    <tr>
+                        <td>B2 / 500x700mm</td>
+                        <td>410 kr</td>
+                        <td>614 kr</td>
+                        <td>77 kr</td>
+                    </tr>
+                    <tr>
+                        <td>A1 / 594x840mm</td>
+                        <td>512 kr</td>
+                        <td>768 kr</td>
+                        <td>96 kr</td>
+                    </tr>
+                    <tr>
+                        <td>B1 / 700x1000mm </td>
+                        <td>640 kr</td>
+                        <td>960 kr</td>
+                        <td>120 kr</td>
+                    </tr>
+                    <tr>
+                        <td>A0 / 840x1188mm</td>
+                        <td>800 kr</td>
+                        <td>1200 kr</td>
+                        <td>150 kr</td>
+                    </tr>
+                    <tr>
+                        <td>B0 / 1000x1499mm</td>
+                        <td>960 kr</td>
+                        <td>1440 kr</td>
+                        <td>180 kr</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div class="row mx-auto d-flex justify-content-center">
+            <div class="col-6">
+                <table class="table table-bordered border-dark text-center mb-4">
+                    <thead>
+                        <tr>
+                            <td colspan="7" class="bg-dark text-light">Hårde plader til inde- og udendørs brug. 4+4
+                                dobbelt
+                                side print.</td>
+                        </tr>
+                        <tr>
+                            <th>Størrelse</th>
+                            <th>3mm. Plast</th>
+                            <th>3mm. Dibond</th>
+                            <th>Tillæg for Laminat</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>A5 / 148x210mm</td>
+                            <td>142kr</td>
+                            <td>212kr</td>
+                            <td>27kr</td>
+                        </tr>
+                        <tr>
+                            <td>A4 / 210x297mm</td>
+                            <td>236 kr</td>
+                            <td>354 kr</td>
+                            <td>44 kr</td>
+                        </tr>
+                        <tr>
+                            <td>A3 / 297x420mm</td>
+                            <td>393 kr</td>
+                            <td>590 kr</td>
+                            <td>74 kr</td>
+                        </tr>
+                        <tr>
+                            <td>A2 / 420x594mm</td>
+                            <td>492 kr</td>
+                            <td>737 kr</td>
+                            <td>92 kr</td>
+                        </tr>
+                        <tr>
+                            <td>B2 / 500x700mm</td>
+                            <td>614 kr</td>
+                            <td>922 kr</td>
+                            <td>115 kr</td>
+                        </tr>
+                        <tr>
+                            <td>A1 / 594x840mm</td>
+                            <td>768 kr</td>
+                            <td>1152 kr</td>
+                            <td>114 kr</td>
+                        </tr>
+                        <tr>
+                            <td>B1 / 700x1000mm </td>
+                            <td>960 kr</td>
+                            <td>1440 kr</td>
+                            <td>180 kr</td>
+                        </tr>
+                        <tr>
+                            <td>A0 / 840x1188mm</td>
+                            <td>1200 kr</td>
+                            <td>1800 kr</td>
+                            <td>225 kr</td>
+                        </tr>
+                        <tr>
+                            <td>B0 / 1000x1499mm</td>
+                            <td>1440 kr</td>
+                            <td>2160 kr</td>
+                            <td>270 kr</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
     </div>
-</div>
-<div class="row mx-auto d-flex justify-content-center">
-    <div class="col-6">
-        <table class="table table-bordered border-dark text-center mb-4">
-            <thead>
-                <tr>
-                    <td colspan="7" class="bg-dark text-light">Hårde plader til inde- og udendørs brug. 4+4 dobbelt
-                        side print.</td>
-                </tr>
-                <tr>
-                    <th>Størrelse</th>
-                    <th>3mm. Plast</th>
-                    <th>3mm. Dibond</th>
-                    <th>Tillæg for Laminat</th>
-                </tr>
-            </thead>
-            <tbody>
-                <tr>
-                    <td>A5 / 148x210mm</td>
-                    <td>142kr</td>
-                    <td>212kr</td>
-                    <td>27kr</td>
-                </tr>
-                <tr>
-                    <td>A4 / 210x297mm</td>
-                    <td>236 kr</td>
-                    <td>354 kr</td>
-                    <td>44 kr</td>
-                </tr>
-                <tr>
-                    <td>A3 / 297x420mm</td>
-                    <td>393 kr</td>
-                    <td>590 kr</td>
-                    <td>74 kr</td>
-                </tr>
-                <tr>
-                    <td>A2 / 420x594mm</td>
-                    <td>492 kr</td>
-                    <td>737 kr</td>
-                    <td>92 kr</td>
-                </tr>
-                <tr>
-                    <td>B2 / 500x700mm</td>
-                    <td>614 kr</td>
-                    <td>922 kr</td>
-                    <td>115 kr</td>
-                </tr>
-                <tr>
-                    <td>A1 / 594x840mm</td>
-                    <td>768 kr</td>
-                    <td>1152 kr</td>
-                    <td>114 kr</td>
-                </tr>
-                <tr>
-                    <td>B1 / 700x1000mm </td>
-                    <td>960 kr</td>
-                    <td>1440 kr</td>
-                    <td>180 kr</td>
-                </tr>
-                <tr>
-                    <td>A0 / 840x1188mm</td>
-                    <td>1200 kr</td>
-                    <td>1800 kr</td>
-                    <td>225 kr</td>
-                </tr>
-                <tr>
-                    <td>B0 / 1000x1499mm</td>
-                    <td>1440 kr</td>
-                    <td>2160 kr</td>
-                    <td>270 kr</td>
-                </tr>
-            </tbody>
-        </table>
+
+    <div class="row mx-auto d-flex justify-content-center">
+        <div class="col-md-3">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
+        </div>
+        <div class="col-md-3">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/PladePrint.jpg" alt="Image 2">
+        </div>
+        <div class="col-md-3">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Bolgepap.jpg" alt="Image 3">
+        </div>
     </div>
 </div>
 
 
-<div class="row mx-auto d-flex justify-content-center">
-    <div class="col-md-3">
-        <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
-    </div>
-    <div class="col-md-3">
-        <img src="http://lumaprint.site/wp-content/uploads/2023/11/PladePrint.jpg" alt="Image 2">
-    </div>
-    <div class="col-md-3">
-        <img src="http://lumaprint.site/wp-content/uploads/2023/11/Bolgepap.jpg" alt="Image 3">
-    </div>
-</div>
-</div>
+
+
 
 <div class="text-center">
     <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
