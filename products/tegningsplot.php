@@ -20,19 +20,19 @@ Template Name: Tegningsplot
             </div>
 
             <div class="container">
-                <div class="row">
+                <div class="row mb-5">
                     <div class="col-md-6 mx-auto text-center d-flex justify-content-center">
                         <div>
-                            <p class="text">Sort/hvid plot ex.moms og fragt</p>
+                            <p class="headline">Sort/hvid plot ex.moms og fragt</p>
                             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Plot-prisliste.png"
-                                alt="Image 1">
+                                alt="Image 1" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-md-6 mx-auto text-center d-flex justify-content-center">
                         <div>
                             <p class="headline">Farve plot ex.moms og fragt</p>
                             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Prisliste-eksl-moms.png"
-                                alt="Image 2">
+                                alt="Image 2" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -89,8 +89,8 @@ Template Name: Tegningsplot
         </div>
     </div>
 
-    <div class="center-text">
-        <p>Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr.
+    <div class="text-center">
+        <p class="text">Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr.
             400,-
             pr. time. <br> Eksklusiv moms og fragt.</p>
     </div>
