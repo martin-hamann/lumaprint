@@ -8,8 +8,11 @@ Template Name: Kalender
 
 <head>
     <style>
+        .kalender-main-content{
+            margin-top:10vh;
+        }
         .box-container {
-            margin: 10vh auto;
+            margin: 0 auto 10vh auto;
         }
 
         .box {
@@ -25,7 +28,7 @@ Template Name: Kalender
     </style>
 </head>
 
-<div class="kalender-main-content col-md-12 text-center">
+<div class="kalender-main-content text-center">
     <h1 class="headline">Kalender</h1>
     <p class="text"> Kalender med dit logo og layout eller spiral kalender med dine billeder. <br> Farve printes med 6
         måneder på
