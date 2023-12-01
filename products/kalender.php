@@ -35,7 +35,7 @@ Template Name: Kalender
         hver side. </p>
 
     <div class="box-container d-flex flex-wrap col-md-10">
-        <div class="row kalender-row d-flex justify-content-center">
+        <div class="row kalender-row col-md-10 d-flex justify-content-center">
             <div class="box col-md-4">
                 <h4 class="headline">A5 Bordkalender</h4>
                 <p class="text"> Bordkalender med farve print </p>
@@ -57,7 +57,7 @@ Template Name: Kalender
             </div>
         </div>
 
-        <div class="row kalender-row d-flex justify-content-center">
+        <div class="row kalender-row col-md-10 d-flex justify-content-center">
             <div class="box col-md-4">
                 <h3 class="headline">Spiral Kalender</h3>
                 <p class="text">Spiral kalender med 1 eller 2 fotos
@@ -67,7 +67,7 @@ Template Name: Kalender
             </div>
 
         </div>
-        <div class="row kalender-row d-flex justify-content-center">
+        <div class="row kalender-row col-md-10 d-flex justify-content-center">
             <div class="text-container box text-box col-md-4">
                 <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
                 </p>
