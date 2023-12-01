@@ -63,7 +63,7 @@ get_header();
 
 
             <div class="card" style="width: 18rem;">
-                <a href="" class="product-links">
+                <a href="http://lumaprint.site/produkter/banner/" class="product-links">
                     <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-banner1.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
@@ -131,12 +131,12 @@ get_header();
 
 
             <div class="card" style="width: 18rem;">
-                <a href="" class="product-links">
+                <a href="http://lumaprint.site/produkter/a-skilt/" class="product-links">
                     <img class="card-img-top"
                         src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-gadeskilt-e1701218933284.png"
                         alt="Card image cap">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">A-skiltprint</h5>
+                        <h5 class="card-title">A-skilt</h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
