@@ -61,6 +61,9 @@ get_header();
     p.form-content-text{
         color:#ededed;
     }
+    .wpcf7-submit .has-spinner{
+        border:none;
+    }
 </style>
 
 <div class="form-content">
