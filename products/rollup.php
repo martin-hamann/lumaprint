@@ -28,7 +28,7 @@ Template Name: Rollup
     <div class="row">
         <div class="col-md-6 mx-auto text-center">
             <div class="header ">
-                <h1 class="headline">Plade med Print til Byggepladsskilt</h1>
+                <h1 class="headline">Rollup Banner</h1>
                 <p class="text"> Rollup system til indendørs messer, showrooms, udstillinger, butikker, osv.
                     Systemet leveres med farve print på B1 brandhæmmende banner inkl. en tranport taske.</p>
             </div>
