@@ -10,7 +10,6 @@ Template Name: Klistermærker
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 100vh;
     margin:10vh auto;
     width:50%;
 }
