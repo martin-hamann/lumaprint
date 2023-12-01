@@ -3,115 +3,127 @@
 Template Name: Banner
 */
 
-get_header();
 ?>
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+<?php get_header(); ?>
+
 
 <style>
-
-#main-content {
-    display: flex;
-    justify-content: center;
-    align-items: flex-start; 
-    min-height: 100vh; 
-    padding-top: 20px; 
-}
-
-.content-box {
-    max-width: 600px;
-    padding: 20px;
-    margin-top: 20px;
-    text-align: center;
-}
-
-
-
-
-    .klæbe-h1 {
-        color: #e31e26;
-        font-size: 5em; 
-        text-align: center;
-         margin-bottom: 20px;
+    .banner-text {
+        color: white;
     }
-
-    .klæbe-h2 {
-        color: #e31e26;
-        justify-content: center;
-        margin-bottom: 10px;
-
-
+    h2.banner.headline {
+        width: 50%;
+        margin: 0 auto 0 auto;
     }
-
-    .klæbe-p {
-        font-size: 16px;
-        line-height: 1.6;
-        margin-bottom: 15px;
-        color:#ededed;
-        margin-bottom: 15px;
-
-
+    .banner-sub-headline{
+        margin-top:25px;
+        margin-bottom:10px;
     }
-
-    .klæbe-ul {
-        list-style-type: none;
-        padding: 0;
-        color:#ededed;
-
+    .image-container{
+        margin-bottom:5vh;
     }
-
-    .klæbe-li {
-        margin-bottom: 15px;
-        border: 1px solid #dee2e6;
-        padding: 10px;
-        border-radius: 8px;
-    }
-
-    .klæbefolie-img {
-        display: flex;
-        justify-content: center;
-    }
-
-    .klæbefolie-img img {
-        width: 30%;
-        height: 30%;
+    .table-container{
+        margin-bottom:15vh;
     }
 </style>
 
-<h1 class="klæbe-h1">Klæbefolie</h1>
-<div id="main-content" class="centered text-center">
-    <div class="content-box">
-        <h2 class="klæbe-h2">Selvklæbende folie med print.</h2>
-        <p class="klæbe-p">344,- pr. kvadratmeter. Max bredde er 130cm.</p>
-
-        <ul class="klæbe-ul">
-            <li class="klæbe-li">Air folie med luftkanaler på klæbersiden, som gør det let at montere uden luftbobler.</li>
-            <li class="klæbe-li">Transparent klar folie. Kan ikke printes med hvid blæk.</li>
-            <li class="klæbe-li">Oneway folie. Se ud men ikke ind. Hvid på print side og sort på klæberside.</li>
-            <li class="klæbe-li">Glasdeko folie med eller uden luftkanaler. Ligner sandblæst glas.</li>
-        </ul>
-        <p class="klæbe-p">Air folie med luftkanaler på klæbersiden, som gør det let at montere uden luftbobler.</p>
-        <p class="klæbe-p">Transparent klar folie. Kan ikke printes med hvid blæk.</p>
-        <p class="klæbe-p">Oneway folie. Se ud men ikke ind. Hvid på print side og sort på klæberside.</p>
-        <p class="klæbe-p">Glasdeko folie med eller uden luftkanaler. Ligner sandblæst glas.</p>
-        <p class="klæbe-p">Alle folier kan konturskæres.</p>
-
-        <h2 class="klæbe-h2">Selvkæbende skærefolie</h2>
-        <p class="klæbe-p">250,00 pr. kvadratmeter.</p>
-        <ul class="klæbe-ul">
-            <li class="klæbe-li">Sort eller hvid folie med overførelsestape.</li>
-            <li class="klæbe-li">Kulørt folie med overførelsestape.</li>
-            <li class="klæbe-li">Guld eller sølv folie med overførelsestape.</li>
-        </ul>
-        <p class="klæbe-p">Kan udskæres til tekst, logo osv.</p>
-
-        <h2 class="klæbe-h2">CVR nummer til bil</h2>
-        <p class="klæbe-p">125,00 for 1 sæt CVR-numre til erhvervsbil.</p>
-        <p class="klæbe-p">300,00 for 1 sæt inkl. montering ved en stk. køretøj. Mindst 30mm høje tal.</p>
+<div class="container">
+    <div class="header mb-4 py-4">
+        <h2 class="banner-headline headline">Bannerprint</h2>
     </div>
-</div>
+    <div class="row image-container d-flex justify-content-center">
+        <div class="col-md-3 image-box">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="Vinyl" class="banner-img">
+            <h4 class="banner-sub-headline headline">Banner af Vinyl</h4>
+            <p class="banner-text text-center">Outdoor eller indoor B1 pressing banner.
+                Print på en side.</p>
+        </div>
+        <div class="col-md-3 image-box">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mesh.jpg" alt="Mesh" class="banner-img">
+            <h4 class="banner-sub-headline headline">Banner af Mesh</h4>
+            <p class="banner-text text-center">Outdoor banner med små huller som tillader vinden at trænge igennem. Det
+                er velegnet
+                til frithængende bannere, f.eks på byggepladshegn, festivalshegn, stillads osv.
+                Print på en side.</p>
+        </div>
+        <div class="col-md-3 image-box">
+
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Stof.jpg" alt="Stof" class="banner-img">
+            <h4 class="banner-sub-headline headline">Banner af Stof</h4>
+            <p class="banner-text text-center">Outdoor og indoor B1 brændhæmmende fleksibel tekstil banner. Kan foldes
+                sammen til
+                rejsetaske som er nemmere end en rullet poster.
+                Print på en side.</p>
+        </div>
+        <div class="row table-container">
+            <div class="col-md-6 mx-auto text-center">
+                <table class="table table-bordered border-dark bg-dark text-light text-center">
+                    <thead>
+                        <tr>
+                            <th>Pris</th>
+                            <th>Mål i cm</th>
+                            <th>Ex.moms </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>218,75</td>
+                            <td>A1/ 60x84</td>
+                            <td>175,00</td>
+                        </tr>
+                        <tr>
+                            <td>250,00</td>
+                            <td>B1/ 70x100</td>
+                            <td>200,00</td>
+                        </tr>
+                        <tr>
+                            <td>343,73</td>
+                            <td>A0/ 84x119</td>
+                            <td>275,00</td>
+                        </tr>
+                        <tr>
+                            <td>418,75</td>
+                            <td>150x50 </td>
+                            <td>335,00</td>
+                        </tr>
+                        <tr>
+                            <td>576,25</td>
+                            <td>B0/ 100x140 </td>
+                            <td>461,00</td>
+                        </tr>
+                        <tr>
+                            <td>601,25 </td>
+                            <td>150x100</td>
+                            <td>481,00</td>
+                        </tr>
+                        <tr>
+                            <td>782,50</td>
+                            <td>150x150</td>
+                            <td>626,00</td>
+                        </tr>
+                        <tr>
+                            <td>965,00</td>
+                            <td>150x200</td>
+                            <td>772,00</td>
+                        </tr>
+                        <tr>
+                            <td>1147,50</td>
+                            <td>150x250</td>
+                            <td>918,00</td>
+                        </tr>
+                        <tr>
+                            <td>1328,75</td>
+                            <td>150x300 </td>
+                            <td>1063,00</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
 
 
 
 
-<?php get_footer(); ?>
+    <?php get_footer(); ?>
