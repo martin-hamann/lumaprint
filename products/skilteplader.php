@@ -9,9 +9,10 @@ Template Name: Skilteplader
 <head>
 
     <style>
-        .image-box{
-            width:50%;
+        .image-box {
+            width: 50%;
         }
+
         .image-box img {
             width: 100%;
             height: 100%;
@@ -363,16 +364,17 @@ Template Name: Skilteplader
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Bolgepap.jpg" alt="Image 3">
         </div>
     </div>
+    <div class="text-center">
+        <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
+        </p>
+    </div>
 </div>
 
 
 
 
 
-<div class="text-center">
-    <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
-    </p>
-</div>
+
 
 
 <?php get_footer(); ?>
