@@ -9,8 +9,11 @@ Template Name: Skilteplader
 <head>
 
     <style>
+        .image-box{
+            width:50%;
+        }
         .image-box img {
-            width: 50%;
+            width: 100%;
             height: 100%;
         }
 
@@ -350,7 +353,7 @@ Template Name: Skilteplader
     </div>
 
     <div class="row mx-auto image-box">
-        <div class="d-flex justify-content-center col-md-4 col-sm-12">
+        <div class="d-flex justify-content-center col-md-2 col-sm-12">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
         </div>
         <div class="d-flex justify-content-center col-md-4 col-sm-12">
