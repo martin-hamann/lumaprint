@@ -5,7 +5,8 @@
                 <div class="col-xs-12 col-sm-6 col-md-3">
                     <div class="widget subscribe no-box">
                         <h5 class="widget-title"><span>LUMA</span>PRINT</h5>
-                        <p>Skabt til Print, Trykt til Perfektion. </p>
+                        <p>Skabt til print, trykt til perfektion. </p>
+                        <p>La' os printe det for dig!</p>
                         <img src="" alt="">
                     </div>
                 </div>
@@ -32,7 +33,7 @@
                     <div class="widget no-box">
                         <h5 class="widget-title">Følg Med</h5>
                         <a href="https://www.facebook.com/Lumaprint.dk/"> <i class="fa fa-facebook"> </i> </a>
-                        <a href="#"> <i class="fa fa-instagram"> </i> </a>
+                        <a href="https://www.instagram.com/"> <i class="fa fa-instagram"> </i> </a>
                     </div>
                 </div>
 
