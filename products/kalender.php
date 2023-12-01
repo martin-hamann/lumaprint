@@ -8,13 +8,10 @@ Template Name: Kalender
 
 <head>
     <style>
-        .kalender-main-content {
-            margin: 10vh auto;
-        }
-
         .box-container {
             display: flex;
             justify-content: center;
+            margin:10vh auto;
         }
 
         .box {
@@ -59,14 +56,14 @@ Template Name: Kalender
         </div>
 
         <div class="row col-md-12">
-            <div class="box col-md-6">
+            <div class="box col-md-4">
                 <h3 class="headline">Spiral Kalender</h3>
                 <p>Spiral kalender med 1 eller 2 fotos
                     pr. måned.</p>
                 <p>A4 str for 76kr</p>
                 <p>A3 str for 135kr</p>
             </div>
-            <div class="text-container box text-box col-md-6">
+            <div class="text-container box text-box col-md-4">
                 <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
                 </p>
             </div>
