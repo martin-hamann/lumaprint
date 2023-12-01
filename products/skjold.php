@@ -6,25 +6,14 @@ Template Name: Skjold
 
 <?php get_header() ?>
 
-<!DOCTYPE html>
-<html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Page Title</title>
-    <style>
 
+    <style>
         .container {
             width: 50%;
-            margin: auto;
+            margin: 20vh auto;
             text-align: center;
             padding: 20px;
-            color: white;
-        }
-
-        #text-info {
-            margin-top: 20px;
-            color: white;
         }
 
         #image-box {
@@ -40,31 +29,27 @@ Template Name: Skjold
     </style>
 
 </head>
-<body>
 
-    <div class="container">
-        <header>
-            <h1>Skjold til Æresport</h1>
-        </header>
+<div class="container">
+    <header>
+        <h2 class="headline">Skjold Til Æresport</h2>
+    </header>
 
-        <div id="image-box">
-            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="Your Image">
-        </div>
+    <div id="image-box">
+        <img src="http://lumaprint.site/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="Your Image">
+    </div>
 
-        <div id="text-info">
-            <p>40x40cm. skjold til æresport (hjertet måler 48x35cm)med din tekst og evt. billede printes på 5mm. <br>
+    <div class="text-info">
+        <p class="text">40x40cm. skjold til æresport (hjertet måler 48x35cm)med din tekst og evt. billede printes på 5mm. <br>
             Tyk skumplade. 200,- uden fragt.
             270,- med fragt til erhervs adresse.
             370,- med fragt privat adresse. <br>
-            Email din bestilling til luma@lumaprint.dk med ønsket tekst, form og evt. billede. Du får nogle forslag som skal godkendes inden print.<br>
-            <a href=""> Se eksempler her </a> <br> Priser er inkl. moms.
-            Eksl. fragt. <br> Lever venligst en PDF fil til print. </p>
-        </div>
-
+            Email din bestilling til luma@lumaprint.dk med ønsket tekst, form og evt. billede. Du får nogle forslag som
+            skal godkendes inden print.<br>
+            <br> Priser er inkl. moms.
+            Eksl. fragt. <br> Lever venligst en PDF fil til print.
+        </p>
     </div>
-
-</body>
-</html>
-
+</div>
 
 <?php get_footer(); ?>
