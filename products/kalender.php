@@ -17,7 +17,7 @@ Template Name: Kalender
 
         .box {
             border: 1px solid #ccc;
-            padding: 10px;
+            padding: 5px;
             margin: 5px;
             box-sizing: border-box;
         }
