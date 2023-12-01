@@ -9,11 +9,6 @@ Template Name: Skilteplader
 <head>
 
     <style>
-        .image-box {
-            margin-top: 20px;
-            margin-bottom: 20px;
-        }
-
         .image-box img {
             width: 50%;
             height: 100%;
@@ -36,7 +31,7 @@ Template Name: Skilteplader
             </div>
         </div>
     </div>
-    <div class="row mx-auto">
+    <div class="row mx-auto d-flex justify-content-center">
         <div class="col-6 col-xs-12 col-s-12">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
@@ -120,7 +115,7 @@ Template Name: Skilteplader
             </table>
         </div>
     </div>
-    <div class="row mx-auto ">
+    <div class="row mx-auto d-flex justify-content-center">
         <div class="col-6 col-xs-12 col-s-12">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
@@ -205,7 +200,7 @@ Template Name: Skilteplader
         </div>
     </div>
 </div>
-<div class="row mx-auto">
+<div class="row mx-auto d-flex justify-content-center">
     <div class="col-6 col-xs-12 col-s-12">
         <table class="table table-bordered border-dark text-center mb-4">
             <thead>
@@ -279,7 +274,7 @@ Template Name: Skilteplader
         </table>
     </div>
 </div>
-<div class="row mx-auto">
+<div class="row mx-auto d-flex justify-content-center">
     <div class="col-6">
         <table class="table table-bordered border-dark text-center mb-4">
             <thead>
@@ -355,7 +350,7 @@ Template Name: Skilteplader
 </div>
 
 
-<div class="row m-5  d-flex justify-content-center">
+<div class="row mx-auto d-flex justify-content-center">
     <div class="col-md-3">
         <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
     </div>
