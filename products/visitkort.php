@@ -40,15 +40,14 @@ get_header();
     </div>
   </div>
   <div class="row">
-    <div class="col-md-6">
-
+    <div class="col-md-6 text-center">
       <p class="Post-p">4+0 er print på kortets ene side. Enkelt sidet print.</p>
       <p class="Post-p">4+4 er print på kortets begge sider, Dobbelt sidet print.</p>
     </div>
 
-    <div class="col-md-6">
-      <p class="Post-p">Visitkort af plastik, for god holdbarhed.</p>
-      <p class="Post-p">Vandfast print på slidstærk materiale.</p>
+    <div class="col-md-6 text-center">
+      <p class="text">Visitkort af plastik, for god holdbarhed.</p>
+      <p class="text">Vandfast print på slidstærk materiale.</p>
     </div>
   </div>
 
