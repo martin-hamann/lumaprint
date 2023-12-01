@@ -12,6 +12,7 @@ Template Name: Kalender
             text-align: center;
             color: white;
             margin: 0 auto 0 auto;
+            height: 100vh;
         }
 
         .box-container {
@@ -67,11 +68,12 @@ Template Name: Kalender
                 <p>A4 str for 76kr</p>
                 <p>A3 str for 135kr</p>
             </div>
+            <div class="text-container box text-box">
+                <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
+                </p>
+            </div>
         </div>
-        <div class="text-container">
-            <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
-            </p>
-        </div>
+
     </div>
 
     <?php get_footer(); ?>
