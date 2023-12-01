@@ -7,7 +7,7 @@ Template Name: A-skilt
 
 <head>
     <style>
-        #main-content {
+        .main-content {
             display: flex;
             justify-content: center;
             margin: 10vh 10% 10vh 10%;
