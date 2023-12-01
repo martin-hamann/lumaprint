@@ -85,7 +85,7 @@ margin-top: 20px;
 </div>
 
 <div class="container mt-5 align-items-center">
-  <img src="http://busters-verden.local/wp-content/uploads/2023/12/Visitkort_ijqojnim.jpg" alt="Responsive Image" class="visit-img">
+  <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort-e1701218825431.png" alt="Responsive Image" class="visit-img">
 </div>
 
 <?php get_footer(); ?>
