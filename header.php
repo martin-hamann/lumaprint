@@ -18,7 +18,7 @@
 
 
 <body>
-    <nav class="navbar navbar-expand-lg headline px-5 d-flex justify-content-between">
+    <nav class="navbar navbar-expand-lg headline px-5 d-flex justify-content-between py-2">
         <a class="navbar-brand" href="http://lumaprint.site/"><span class="headline-color">LUMA</span>PRINT</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbar"
             aria-controls="navbar" aria-expanded="false" aria-label="Toggle navigation">
@@ -30,10 +30,10 @@
                     <a class="nav-link" href="http://lumaprint.site/">Forside</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://lumaprint.site/?page_id=18">Produkter</a>
+                    <a class="nav-link" href="http://lumaprint.site/produkter/">Produkter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="http://lumaprint.site/?page_id=16">Om Os</a>
+                    <a class="nav-link" href="http://lumaprint.site/om-os/">Om Os</a>
                 </li>
             </ul>
             <div class="button-container">
