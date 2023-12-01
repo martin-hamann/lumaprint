@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Klæbefolie
+Template Name: Banner
 */
 
 get_header();
