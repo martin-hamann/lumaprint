@@ -5,18 +5,7 @@ Template Name: Klistermærker
 ?>
 <?php get_header() ?>
 
-<!DOCTYPE html>
-<html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Klistermærker</title>
-    <!-- Include Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Additional Styles (Optional) -->
-    <style>
-
+<style>
 #main-content {
     display: flex;
     justify-content: center;
@@ -46,16 +35,13 @@ Template Name: Klistermærker
     margin-bottom: 10px;
 }
     </style>
-</head>
 
-<body>
-
-<div id="main-content" class="centered">
+<div class="main-content centered">
     <div id="text-box">
-        <div id="content-box">
-            <h1>Print af Egne Klistermærker</h1>
+        <div class="content-box text-center">
+            <h1 class="headline">Print af Egne Klistermærker</h1>
             
-            <p>Kontur skåret klistermærker med print efter dit eget mortiv, foto, logo, layout osv. Folien er plast/vinyl med grå permanent klæb på bagsiden.
+            <p class="text">Kontur skåret klistermærker med print efter dit eget mortiv, foto, logo, layout osv. Folien er plast/vinyl med grå permanent klæb på bagsiden.
                Email dit motiv, skriv ønsket størrelse og antal, så vender vi tilbage med et tilbud 
 
                Vejledende pris:
@@ -64,13 +50,10 @@ Template Name: Klistermærker
             
             <img src="https://images.pexels.com/photos/2783837/pexels-photo-2783837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Stickers" width= "50%">
 
-            <p>Priser er inkl. moms. Eksl. grafisk arbejde og fragt. <br> Lever venligst en PDF fil til print. </p>
+            <p class="text">Priser er inkl. moms. Eksl. grafisk arbejde og fragt. <br> Lever venligst en PDF fil til print. </p>
         </div>
     </div>
-
-
 </div>
 
-</body>
 
 <?php get_footer(); ?>
