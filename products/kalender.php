@@ -9,14 +9,11 @@ Template Name: Kalender
 <head>
     <style>
         .kalender-main-content {
-            text-align: center;
-            color: white;
-            margin: 15vh auto 15vh auto;
+            margin: 10vh auto;
         }
 
         .box-container {
             display: flex;
-            flex-wrap: wrap;
             justify-content: center;
         }
 
@@ -32,7 +29,7 @@ Template Name: Kalender
     </style>
 </head>
 
-<div class="kalender-main-content col-md-12">
+<div class="kalender-main-content col-md-12 text-center">
     <h1 class="headline">Kalender</h1>
     <p class="text"> Kalender med dit logo og layout eller spiral kalender med dine billeder. <br> Farve printes med 6
         måneder på
@@ -40,7 +37,7 @@ Template Name: Kalender
 
     <div class="box-container d-flex flex-wrap col-md-12">
         <div class="row col-md-12">
-            <div class="box col-md-6">
+            <div class="box col-md-4">
                 <h4 class="headline">A5 Bordkalender</h4>
                 <p> Bordkalender med farve print </p>
                 <p>1 stk for 16kr</p>
@@ -50,7 +47,7 @@ Template Name: Kalender
                 <p>100 stk for 788kr</p>
             </div>
 
-            <div class="box col-md-6">
+            <div class="box col-md-4">
                 <h4 class="headline">A4 Kalender</h4>
                 <p>281x48 mm. felt til logo, info og reklame.</p>
                 <p>1 stk for 22kr</p>
@@ -61,15 +58,15 @@ Template Name: Kalender
             </div>
         </div>
 
-        <div class="row">
-            <div class="box">
+        <div class="row col-md-12">
+            <div class="box col-md-6">
                 <h3 class="headline">Spiral Kalender</h3>
                 <p>Spiral kalender med 1 eller 2 fotos
                     pr. måned.</p>
                 <p>A4 str for 76kr</p>
                 <p>A3 str for 135kr</p>
             </div>
-            <div class="text-container box text-box">
+            <div class="text-container box text-box col-md-6">
                 <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
                 </p>
             </div>
