@@ -16,10 +16,14 @@ get_header();
     .pricing-card img {
         width: 100%;
         height: auto;
+        object-fit:cover;
     }
 
     .pricing-details {
         padding: 20px;
+    }
+    .pricing-info{
+        text-align:center;
     }
 
 
