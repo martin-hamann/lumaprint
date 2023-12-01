@@ -9,7 +9,7 @@ Template Name: plakatprint
 
 <div class="container">
     <div class="row">
-        <div class="col-md-6 mx-auto center-text text-danger">
+        <div class="col-md-6 mx-auto text-center">
             <div class="header mb-4 py-4">
                 <h1 class="headline">Plakatprint</h1>
             </div>
@@ -17,7 +17,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark text">200g. Satin Plakat Print</td>
+                        <td colspan="2" class="bg-dark"><p class="text">200g. Satin Plakat Print</p></td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -80,7 +80,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark text">Lamineret Print</td>
+                        <td colspan="2" class="bg-dark"><p class="text">Lamineret Print</p></td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -143,7 +143,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark text">200g. Mat Papir</td>
+                        <td colspan="2" class="bg-dark"><p class="text">200g. Mat Papir</p></td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -205,7 +205,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark text">200g. High Glossy Foto Print</td>
+                        <td colspan="2" class="bg-dark"><p class="text">200g. High Glossy Foto Print</p></td> 
                     </tr>
                     <tr>
                         <th>Størrelse</th>
