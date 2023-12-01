@@ -42,7 +42,7 @@ Template Name: Postkasse
     <p class="text">Priser er inklusiv moms. Eksklusiv fragt. <br> Lever venligst en PDF fil til print. </p>
 
     <div class="image-box d-flex justify-content-center">
-        <img src="http://lumaprint.site/wp-content/uploads/2023/11/371485123_259162880492487_1336852508179692553_n.png"
+        <img src="http://lumaprint.site/wp-content/uploads/2023/12/371485123_259162880492487_1336852508179692553_n.png"
             alt="Postkasse" width="300" class="img-fluid">
     </div>
 </div>
