@@ -54,6 +54,8 @@ get_header();
                     <div class="pricing-info">167,- for 2-sidet print</div>
                 </div>
             </div>
+        </div>
+        <div class="col-md-3">
             <div class="pricing-card">
                 <div class="pricing-details">
                     <div class="pricing-header headline">100 stk. postkort</div>
@@ -61,6 +63,8 @@ get_header();
                     <div class="pricing-info">293,- for 2-sidet print</div>
                 </div>
             </div>
+        </div>
+        <div class="col-md-3">
             <div class="pricing-card">
                 <div class="pricing-details">
                     <div class="pricing-header headline">200 stk. postkort</div>
@@ -68,6 +72,8 @@ get_header();
                     <div class="pricing-info">532,- for 2-sidet print</div>
                 </div>
             </div>
+        </div>
+        <div class="col-md-3">
             <div class="pricing-card">
                 <div class="pricing-details">
                     <div class="pricing-header headline">400 stk. postkort</div>
@@ -78,5 +84,6 @@ get_header();
         </div>
     </div>
 </div>
+
 
 <?php get_footer(); ?>
