@@ -7,18 +7,10 @@ Template Name: A-skilt
 
 <head>
     <style>
-        .main-content {
+        .askilt-main-content {
             display: flex;
             justify-content: center;
             margin: 10vh 10% 10vh 10%;
-        }
-
-        .content-box {
-            text-align: center;
-        }
-
-        .text-box {
-            text-align: center;
         }
 
         p.a-skilt-tekst .text {
@@ -26,19 +18,10 @@ Template Name: A-skilt
 
         }
 
-        h2.headline {
-            color: #e31e26;
-        }
-
-        .askilt-img {
-            display: flex;
-            justify-content: center;
-
-        }
     </style>
 </head>
 
-<div class="main-content centered text-center">
+<div class="askilt-main-content centered text-center">
     <div id="text-box text-center">
         <div id="content-box text-center">
 
