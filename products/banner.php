@@ -33,13 +33,13 @@ Template Name: Banner
         <h2 class="banner-headline headline">Bannerprint</h2>
     </div>
     <div class="row image-container d-flex justify-content-center">
-        <div class="col-md-3 image-box text-center">
+        <div class="col-lg-3 image-box text-center">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="Vinyl" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Vinyl</h4>
             <p class="text text-center">Outdoor eller indoor B1 pressing banner.
                 Print på en side.</p>
         </div>
-        <div class="col-md-3 image-box text-center">
+        <div class="col-lg-3 image-box text-center">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mesh.jpg" alt="Mesh" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Mesh</h4>
             <p class="text text-center">Outdoor banner med små huller som tillader vinden at trænge igennem. Det
@@ -47,7 +47,7 @@ Template Name: Banner
                 til frithængende bannere, f.eks på byggepladshegn, festivalshegn, stillads osv.
                 Print på en side.</p>
         </div>
-        <div class="col-md-3 image-box text-center">
+        <div class="col-lg-3 image-box text-center">
 
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Stof.jpg" alt="Stof" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Stof</h4>
