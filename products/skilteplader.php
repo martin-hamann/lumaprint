@@ -26,7 +26,7 @@ Template Name: Skilteplader
 
 <div class="container-fluid pladeprint-container">
     <div class="row ">
-        <div class="col-6 mx-auto text-center col-xs-12 col-s-12">
+        <div class="col-10 col-md-6 mx-auto text-center">
             <div class="header ">
                 <h1 class="headline">PRINT PÅ PLADE</h1>
                 <p class="text"> Vi sætter print på forskellige plade typer. Hård plast plade, blød skum plade, bølgepap
@@ -35,7 +35,7 @@ Template Name: Skilteplader
         </div>
     </div>
     <div class="row mx-auto d-flex justify-content-center">
-        <div class="col-6 col-xs-12 col-s-12">
+        <div class="col-12 col-md-6">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
@@ -119,7 +119,7 @@ Template Name: Skilteplader
         </div>
     </div>
     <div class="row mx-auto d-flex justify-content-center">
-        <div class="col-6 col-xs-12 col-s-12">
+        <div class="col-12 col-md-6">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
@@ -203,7 +203,7 @@ Template Name: Skilteplader
         </div>
     </div>
     <div class="row mx-auto d-flex justify-content-center">
-        <div class="col-6 col-xs-12 col-s-12">
+        <div class="col-12 col-md-6">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
@@ -276,7 +276,7 @@ Template Name: Skilteplader
             </table>
         </div>
         <div class="row mx-auto d-flex justify-content-center">
-            <div class="col-6">
+            <div class="col-12 col-md-6">
                 <table class="table table-bordered border-dark text-center mb-4">
                     <thead>
                         <tr>
@@ -353,13 +353,13 @@ Template Name: Skilteplader
     </div>
 
     <div class="row mx-auto image-box">
-        <div class="d-flex justify-content-center col-md-4 col-sm-12">
+        <div class="d-flex justify-content-center col-12 col-md-4">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
         </div>
-        <div class="d-flex justify-content-center col-md-4 col-sm-12">
+        <div class="d-flex justify-content-center col-12 col-md-4">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/PladePrint.jpg" alt="Image 2">
         </div>
-        <div class="d-flex justify-content-center col-md-4 col-sm-12">
+        <div class="d-flex justify-content-center col-12 col-md-4">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Bolgepap.jpg" alt="Image 3">
         </div>
     </div>
