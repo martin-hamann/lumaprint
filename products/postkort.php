@@ -24,10 +24,6 @@ get_header();
     .pricing-info{
         text-align:center;
     }
-    .pricing-card-img-container{
-        padding:0;
-    }
-
 </style>
 
 <div class="container my-5 mx-auto">
@@ -72,13 +68,13 @@ get_header();
     </div>
     <div class="row d-flex justify-content-center">
         <div class="col-md-3 text-center">
-            <div class="pricing-card pricing-card-img-container">
+            <div class="pricing-card">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort.png" alt="Postkort forside">
             </div>
 
         </div>
         <div class="col-md-3 text-center">
-            <div class="pricing-card pricing-card-img-container">
+            <div class="pricing-card">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort_Page_2.png" alt="Postkort bagside">
             </div>
         </div>
