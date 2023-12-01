@@ -9,9 +9,9 @@ get_header();
 <style>
     .pricing-card {
         border: 1px solid #dee2e6;
-        border-radius: 10px;
+        border-radius: 5px;
         margin-bottom: 20px;
-        background-color: #ffffff;
+        background-color: #222;
     }
 
     .pricing-card img {
@@ -48,7 +48,7 @@ get_header();
     <div class="row d-flex justify-content-center">
         <div class="col-md-3 text-center">
             <div class="pricing-card">
-                <div class="pricing-details">
+                <div class="pricing-details text-center">
                     <div class="pricing-header headline">50 stk. postkort</div>
                     <div class="pricing-info">122,- for 1-sidet print</div>
                     <div class="pricing-info">167,- for 2-sidet print</div>
