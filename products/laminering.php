@@ -41,7 +41,7 @@ Template Name: Laminering
 
     <div class="box-container">
         <div class="box">
-            <h3>Alm. Glossy Laminat</h3>
+            <h3 class="headline">Alm. Glossy Laminat</h3>
             <p>A5/148x210mm for 7,50 kr.</p>
             <p>A4/210x297mm for 10,00 kr.</p>
             <p>A3/297x420mm for 20,00 kr.</p>
