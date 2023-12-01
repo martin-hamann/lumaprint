@@ -30,9 +30,9 @@ get_header();
     }
 </style>
 
-<div class="container">
+<div class="container my-5 mx-auto">
     <h1 class="headline">Postkort</h1>
-    <div class="row d-flex">
+    <div class="row d-flex justify-content-center">
         <div class="col-md-3 text-center">
             <div class="pricing-card">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort.png" alt="Postkort forside">
@@ -45,7 +45,7 @@ get_header();
             </div>
         </div>
     </div>
-    <div class="row d-flex">
+    <div class="row d-flex justify-content-center">
         <div class="col-md-3 text-center">
             <div class="pricing-card">
                 <div class="pricing-details">
