@@ -24,14 +24,10 @@ get_header();
     .pricing-info{
         text-align:center;
     }
-    .postkort-container{
-        margin-top, margin-bottom:10vh;
-    }
-
 
 </style>
 
-<div class="container mx-auto postkort-container">
+<div class="container my-5 mx-auto">
     <h1 class="headline">Postkort</h1>
     <div class="row d-flex justify-content-center">
         <div class="col-md-3 text-center">
