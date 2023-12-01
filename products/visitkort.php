@@ -46,14 +46,14 @@ get_header();
 
   <div class="row d-flex justify-content-center">
     <div class="col-md-3">
-      <div class="price-box">
+      <div class="price-box text-center">
         <h4 class="headline">4+0 enkelt sidet alm. visitkort</h4>
         <p class="text">100,00 for en æske med 100 stk. 4+0 kort</p>
         <p class="text">178,00 for en æske med 200 stk. 4+0 kort</p>
       </div>
     </div>
     <div class="col-md-3">
-      <div class="price-box">
+      <div class="price-box text-center">
         <h4 class="headline">4+0 enkelt sidet plast visitkort</h4>
         <p class="text">182,00 for en æske med 100 stk. 4+0 kort</p>
         <p class="text">308,00 for en æske med 200 stk. 4+0 kort</p>
@@ -63,14 +63,14 @@ get_header();
 
   <div class="row d-flex justify-content-center">
     <div class="col-md-3">
-      <div class="price-box">
+      <div class="price-box text-center">
         <h4 class="headline">4+4 dobbelt sidet plast visitkort</h4>
         <p class="text">232,00 for en æske med 100 stk. 4+4 kort</p>
         <p class="text">402,00 for en æske med 200 stk. 4+4 kort</p>
       </div>
     </div>
     <div class="col-md-3">
-      <div class="price-box">
+      <div class="price-box text-center">
         <h4 class="headline">4+4 dobbelt sidet alm. visitkort</h4>
         <p class="text">168,00 for en æske med 100 stk. 4+4 kort</p>
         <p class="text">272,00 for en æske med 200 stk. 4+4 kort</p>
