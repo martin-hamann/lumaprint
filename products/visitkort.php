@@ -69,17 +69,19 @@ get_header();
     </div>
   </div>
 
-  <div class="col-md-3">
-    <div class="price-box">
-      <h4>4+4 dobbelt sidet plast visitkort</h4>
-      <p>232,00 for en æske med 100 stk. 4+4 kort</p>
-      <p>402,00 for en æske med 200 stk. 4+4 kort</p>
-    </div>
+  <div class="row">
     <div class="col-md-3">
       <div class="price-box">
-        <h4>4+4 dobbelt sidet alm. visitkort</h4>
-        <p>168,00 for en æske med 100 stk. 4+4 kort</p>
-        <p>272,00 for en æske med 200 stk. 4+4 kort</p>
+        <h4>4+4 dobbelt sidet plast visitkort</h4>
+        <p>232,00 for en æske med 100 stk. 4+4 kort</p>
+        <p>402,00 for en æske med 200 stk. 4+4 kort</p>
+      </div>
+      <div class="col-md-3">
+        <div class="price-box">
+          <h4>4+4 dobbelt sidet alm. visitkort</h4>
+          <p>168,00 for en æske med 100 stk. 4+4 kort</p>
+          <p>272,00 for en æske med 200 stk. 4+4 kort</p>
+        </div>
       </div>
     </div>
   </div>
