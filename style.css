@@ -56,11 +56,19 @@ a.navbar-brand{
     background-color:#E31E26;
     color:#ededed;
     font-weight:500;
-    border-radius:5px;
+    border-radius:10px;
+}
+.contact-button.btn.btn-link:hover{
+    opacity:50%;
+    transition: opacity 0.1s ease-in-out;
 }
 a.nav-link{
     text-align:center;
     color:#ededed;
+}
+a.nav-link:hover{
+    color:#e31e26;
+    transition: color 0.1s ease-in-out;
 }
 
 a.button-container{
