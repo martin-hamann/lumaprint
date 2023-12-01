@@ -55,7 +55,7 @@ get_header();
         border-radius: 4px;
     }
 
-    .wpcf7-form:last-child{
+    .wpcf7-form .init{
         text-align:center;
     }
 
