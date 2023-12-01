@@ -7,13 +7,6 @@ get_header();
 ?>
 
 <style>
-    .postkort-h1 {
-        color: #e31e26;
-        font-size: 5em;
-        text-align: center;
-        margin-bottom: 90px;
-    }
-
     .pricing-card {
         border: 1px solid #dee2e6;
         border-radius: 10px;
@@ -48,35 +41,36 @@ get_header();
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/Postkort_Page_2.png" alt="Postkort bagside">
             </div>
         </div>
-        <div class="row d-flex">
-            <div class="col-md-3 text-center">
-                <div class="pricing-card">
-                    <div class="pricing-details">
-                        <div class="pricing-header">50 stk. postkort</div>
-                        <div class="pricing-info">122,- for 1-sidet print</div>
-                        <div class="pricing-info">167,- for 2-sidet print</div>
-                    </div>
+
+    </div>
+    <div class="row d-flex">
+        <div class="col-md-3 text-center">
+            <div class="pricing-card">
+                <div class="pricing-details">
+                    <div class="pricing-header headline">50 stk. postkort</div>
+                    <div class="pricing-info">122,- for 1-sidet print</div>
+                    <div class="pricing-info">167,- for 2-sidet print</div>
                 </div>
-                <div class="pricing-card">
-                    <div class="pricing-details">
-                        <div class="pricing-header">100 stk. postkort</div>
-                        <div class="pricing-info">197,- for 1-sidet print</div>
-                        <div class="pricing-info">293,- for 2-sidet print</div>
-                    </div>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-details">
+                    <div class="pricing-header headline">100 stk. postkort</div>
+                    <div class="pricing-info">197,- for 1-sidet print</div>
+                    <div class="pricing-info">293,- for 2-sidet print</div>
                 </div>
-                <div class="pricing-card">
-                    <div class="pricing-details">
-                        <div class="pricing-header">200 stk. postkort</div>
-                        <div class="pricing-info">360,- for 1-sidet print</div>
-                        <div class="pricing-info">532,- for 2-sidet print</div>
-                    </div>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-details">
+                    <div class="pricing-header headline">200 stk. postkort</div>
+                    <div class="pricing-info">360,- for 1-sidet print</div>
+                    <div class="pricing-info">532,- for 2-sidet print</div>
                 </div>
-                <div class="pricing-card">
-                    <div class="pricing-details">
-                        <div class="pricing-header">400 stk. postkort</div>
-                        <div class="pricing-info">604,- for 1-sidet print</div>
-                        <div class="pricing-info">844,- for 2-sidet print</div>
-                    </div>
+            </div>
+            <div class="pricing-card">
+                <div class="pricing-details">
+                    <div class="pricing-header headline">400 stk. postkort</div>
+                    <div class="pricing-info">604,- for 1-sidet print</div>
+                    <div class="pricing-info">844,- for 2-sidet print</div>
                 </div>
             </div>
         </div>
