@@ -11,12 +11,12 @@ Template Name: Skjold
     <style>
         .skjold-container {
             width: 50%;
-            margin: 20vh auto;
+            margin: 10vh auto;
             text-align: center;
             padding: 20px;
         }
 
-        #image-box {
+        .image-box {
             margin: 5vh 0;
         }
 
@@ -35,7 +35,7 @@ Template Name: Skjold
         <h2 class="headline">Skjold Til Æresport</h2>
     </header>
 
-    <div id="image-box">
+    <div class="image-box">
         <img src="http://lumaprint.site/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="Your Image">
     </div>
 
