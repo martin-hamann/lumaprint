@@ -143,7 +143,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark"><p class="text">200g. Mat Papir</p></td>
+                        <td colspan="2" class="bg-dark text-white">200g. Mat Papir</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
