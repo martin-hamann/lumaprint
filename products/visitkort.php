@@ -34,13 +34,13 @@ get_header();
 <div class="container-fluid">
   <h2 class="headline">Visitkort</h2>
 
-  <div class="row">
+  <div class="row d-flex justify-content-center">
     <div class="text text-center">
       <p class="text">Visitkort printes i Dankort størrelse (55x85mm)</p>
       <p class="headline">Print mode info:</p>
     </div>
   </div>
-  <div class="row">
+  <div class="row d-flex justify-content-center">
     <div class="col-md-3 text-center">
       <p class="Post-p">4+0 er print på kortets ene side. Enkelt sidet print.</p>
       <p class="Post-p">4+4 er print på kortets begge sider, Dobbelt sidet print.</p>
@@ -52,7 +52,7 @@ get_header();
     </div>
   </div>
 
-  <div class="row">
+  <div class="row d-flex justify-content-center">
     <div class="col-md-3">
       <div class="price-box">
         <h4>4+0 enkelt sidet alm. visitkort</h4>
@@ -69,14 +69,14 @@ get_header();
     </div>
   </div>
 
-  <div class="row">
+  <div class="row d-flex justify-content-center">
     <div class="col-md-3">
       <div class="price-box">
         <h4>4+4 dobbelt sidet plast visitkort</h4>
         <p>232,00 for en æske med 100 stk. 4+4 kort</p>
         <p>402,00 for en æske med 200 stk. 4+4 kort</p>
       </div>
-      <div class="col-md-3">
+      <div class="col-md-3 d-flex justify-content-center">
         <div class="price-box">
           <h4>4+4 dobbelt sidet alm. visitkort</h4>
           <p>168,00 for en æske med 100 stk. 4+4 kort</p>
