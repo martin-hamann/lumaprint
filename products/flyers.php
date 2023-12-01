@@ -9,7 +9,7 @@ Template Name: Flyers
     <div class="row">
         <div class="col-md-6 mx-auto text-center">
             <div class="header"> <h1 class="headline">FLYERS / LØSBLADE</h1>
-                <p> Få dit budskab ud med flyers eller løsblade.</p></div>
+                <p class="text"> Få dit budskab ud med flyers eller løsblade.</p></div>
 
             <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
