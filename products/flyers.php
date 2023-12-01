@@ -4,30 +4,12 @@ Template Name: Flyers
 */
 ?>
 <?php get_header() ?>
-<!DOCTYPE html>
-<html lang="en">
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flyers</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <style>
-        .center-text {
-            text-align: center;
-            color: white;
-        }
-    </style>
-</head>
-
-<body>
-
-<!-- Table 1 -->
 <div class="container">
     <div class="row">
-        <div class="col-md-6 mx-auto center-text text-danger ">
-            <div class="header "> <h1>FLYERS / LØSBLADE</h1>
-                <p> Få dit budskab ud med flyers eller løsblad.</p></div>
+        <div class="col-md-6 mx-auto text-center">
+            <div class="header"> <h1 class="headline">FLYERS / LØSBLADE</h1>
+                <p> Få dit budskab ud med flyers eller løsblade.</p></div>
 
             <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
@@ -269,14 +251,8 @@ Template Name: Flyers
     </div>
 </div>
 
-
-
-<div class="center-text">
-    <p>Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.</p>
+<div class="text-center">
+    <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.</p>
 </div>
 
 <?php get_footer(); ?>
-
-</body>
-
-</html>
