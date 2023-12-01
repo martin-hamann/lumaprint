@@ -16,7 +16,7 @@ Template Name: Skilteplader
 
         .image-box img {
             width: 50%;
-            height: auto;
+            height: 100%;
         }
 
         .pladeprint-container {
