@@ -9,7 +9,7 @@ Template Name: Kalender
 <head>
     <style>
         .kalender-main-content{
-            margin-top:10vh;
+            margin-top:5vh;
         }
         .box-container {
             margin: 0 auto 10vh auto;
@@ -36,7 +36,7 @@ Template Name: Kalender
 
     <div class="box-container container d-flex flex-wrap justify-content-center col-md-10">
         <div class="row kalender-row col-md-10 d-flex justify-content-center">
-            <div class="box col-md-4">
+            <div class="box col-md-4 col-sm-3">
                 <h4 class="headline">A5 Bordkalender</h4>
                 <p class="text"> Bordkalender med farve print </p>
                 <p class="text">1 stk for 16kr</p>
@@ -46,7 +46,7 @@ Template Name: Kalender
                 <p class="text">100 stk for 788kr</p>
             </div>
 
-            <div class="box col-md-4">
+            <div class="box col-md-4 col-sm-3">
                 <h4 class="headline">A4 Kalender</h4>
                 <p class="text">281x48 mm. felt til logo, info og reklame.</p>
                 <p class="text">1 stk for 22kr</p>
