@@ -18,13 +18,17 @@ Template Name: Skilteplader
             width: 100%;
             height: auto;
         }
+        .pladeprint-container{
+            width:60%;
+            margin:10vh auto;
+        }
     </style>
 </head>
 
 
-<div class="container-fluid">
+<div class="container-fluid pladeprint-container">
     <div class="row">
-        <div class="mx-auto text-center">
+        <div class="col mx-auto text-center">
             <div class="header "> <h1 class="headline">PRINT PÅ PLADE</h1>
                 <p class="text"> Vi sætter print på forskellige plade typer. Hård plast plade, blød skum plade, bølgepap og karton. </p></div>
 
