@@ -4,59 +4,47 @@ Template Name: Tegningsplot
 */
 ?>
 <?php get_header() ?>
-<!DOCTYPE html>
-<html lang="en">
+
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Plot, Print eller scan af tegninger</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
     <style>
-        .center-text {
-            text-align: center;
-            color: white;
-        }
+
     </style>
 </head>
 
-<body>
-
-            <!-- Table 1 -->
 <div class="container">
     <div class="row">
-        <div class="col-md-6 mx-auto center-text text-danger ">
-        <div class="header mb-4 py-4"> <h1>PLOT, PRINT, ELLER SCAN AF TEGNINGER</h1> </div>
+        <div class="col-md-6 mx-auto text-center ">
+            <div class="header mb-4 py-4">
+                <h2 class="headline">Plot, Print eller Scan af Tegninger</h2>
+            </div>
 
-             <!-- Image Box 1 -->
-    <div class="container">
-        <div class="row">
-            <div class="col-md-6 mx-auto center-text">
-                <div>
-                    <p>Sort/hvid plot ex.moms og fragt</p>
-                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Plot-prisliste.png" alt="Image 1">      
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-6 mx-auto text-center d-flex justify-content-center">
+                        <div>
+                            <p class="text">Sort/hvid plot ex.moms og fragt</p>
+                            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Plot-prisliste.png"
+                                alt="Image 1">
+                        </div>
+                    </div>
+                    <div class="col-md-6 mx-auto text-center d-flex justify-content-center">
+                        <div>
+                            <p class="headline">Farve plot ex.moms og fragt</p>
+                            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Prisliste-eksl-moms.png"
+                                alt="Image 2">
+                        </div>
+                    </div>
                 </div>
             </div>
-        </div>
-    </div>
 
-        <!-- Image Box 2 -->
-        <div class="container">
-        <div class="row">
-            <div class="col-md-6 mx-auto center-text">
-                <div>
-                    <p>Farve plot ex.moms og fragt</p>
-                    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Prisliste-eksl-moms.png" alt="Image 2">
-                </div>
-            </div>
-        </div>
-    </div>
 
             <!-- Main Table -->
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                    <td colspan="3" class="bg-dark text-light">PRINT eller PLOT af PDF, DWG, CAD og Autocad drawings, tegninger, planer, oversigt, snit osv.</td>
+                        <td colspan="3" class="bg-dark text-light">PRINT eller PLOT af PDF, DWG, CAD og Autocad
+                            drawings, tegninger, planer, oversigt, snit osv.</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -93,21 +81,21 @@ Template Name: Tegningsplot
                 </tbody>
                 <tfoot>
                     <tr>
-                        <td colspan="3">Scannes til PDF fil med 300 dpi. Kan efterfølgende konverteres til TIF eller JPG fil.</td>
+                        <td colspan="3">Scannes til PDF fil med 300 dpi. Kan efterfølgende konverteres til TIF eller JPG
+                            fil.</td>
                     </tr>
                 </tfoot>
             </table>
         </div>
     </div>
-</div>
 
-<div class="center-text">
-    <p>Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr. 400,- pr. time. <br> Eksklusiv moms og fragt.</p>
+    <div class="center-text">
+        <p>Ved scanning af flere originaler, såsom mapper, tegnings arkiv, osv. beregnes prisen efter arbejdstid kr.
+            400,-
+            pr. time. <br> Eksklusiv moms og fragt.</p>
+    </div>
+
 </div>
 
 
 <?php get_footer(); ?>
-
-</body>
-
-</html>
