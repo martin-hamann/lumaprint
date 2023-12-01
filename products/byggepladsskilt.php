@@ -73,7 +73,7 @@ Template Name: Byggepladsskilt
 </div>
 
 
-<div class="container">
+<div class="container byggeplads-container">
     <div class="row">
         <div class="col-md-6 mx-auto">
 
