@@ -10,8 +10,6 @@ Template Name: Kalender
     <style>
         .kalender-main-content {
             text-align: center;
-            max-width: 800px;
-            width: 100%;
             color: white;
             margin: 0 auto 0 auto;
         }
