@@ -9,13 +9,12 @@ Template Name: Laminering
 
 <head>
     <style>
-        #main-content {
+        .main-content {
             text-align: center;
             max-width: 800px;
-            /* Adjust max-width as needed */
             width: 100%;
-            color: white;
-            margin: 0 auto 0 auto;
+            color: #ededed;
+            margin: 5vh auto 5vh auto;
         }
 
         .box-container {
@@ -26,7 +25,6 @@ Template Name: Laminering
 
         .box {
             flex: 0 0 45%;
-            /* Two boxes on one line, adjust width as needed */
             border: 1px solid #ccc;
             padding: 10px;
             margin: 5px;
@@ -35,8 +33,8 @@ Template Name: Laminering
     </style>
 </head>
 
-<div id="main-content">
-    <h1>Laminering</h1>
+<div class="main-content">
+    <h1 class="headline">Laminering</h1>
     <p>Laminering er to varme stykker plastfolie om et ark papir. Det beskytter mod vand og fugt. Kan rengøres. Det er
         dog ikke muligt at få arket ud af lamineringen igen. Vi kan laminere fra under A5 til A0. Max lamineringsbredde
         er 90 cm.</p>
@@ -53,7 +51,7 @@ Template Name: Laminering
         </div>
 
         <div class="box">
-            <h3>Mat Laminat</h3>
+            <h3 class="headline">Mat Laminat</h3>
             <p>A5/148x210mm for 10,00 kr.</p>
             <p>A4/210x297mm for 15,00 kr.</p>
             <p>A3/297x420mm for 30,00 kr.</p>
@@ -63,7 +61,7 @@ Template Name: Laminering
         </div>
 
         <div class="box">
-            <h3>Glossy laminat med klæb</h3>
+            <h3 class="headline">Glossy laminat med klæb</h3>
             <p>A5/148x210mm for 10,00 kr.</p>
             <p>A4/210x297mm for 15,00 kr.</p>
             <p>A3/297x420mm for 30,00 kr.</p>
@@ -73,7 +71,7 @@ Template Name: Laminering
         </div>
 
         <div class="box">
-            <h3>Whiteboard laminat</h3>
+            <h3 class="headline">Whiteboard laminat</h3>
             <p>A5/148x210mm for 35,00 kr.</p>
             <p>A4/210x297mm for 60,00 kr.</p>
             <p>A3/297x420mm for 101,00 kr.</p>
@@ -91,3 +89,5 @@ Template Name: Laminering
     </p>
 
 </div>
+
+<?php get_footer(); ?>
