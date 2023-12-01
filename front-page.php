@@ -1,14 +1,5 @@
 <?php get_header() ?>
 
-<?php if (have_posts()): ?>
-    <?php while (have_posts()):
-        the_post() ?>
-        <p>
-            <?php the_content() ?>
-        </p>
-    <?php endwhile ?>
-<?php endif; ?>
-
 <!-- Hero Section -->
 <div class="container col-xxl-8 px-4 py-5 hero-container">
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
