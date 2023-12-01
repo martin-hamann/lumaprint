@@ -17,7 +17,7 @@ Template Name: Skjold
         }
 
         #image-box {
-            margin-top: 20px;
+            margin: 5vh 0;
         }
 
         img {
