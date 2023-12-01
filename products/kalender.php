@@ -34,7 +34,7 @@ Template Name: Kalender
         måneder på
         hver side. </p>
 
-    <div class="box-container container d-flex flex-wrap col-md-10">
+    <div class="box-container container d-flex flex-wrap justify-content-center col-md-10">
         <div class="row kalender-row col-md-10 d-flex justify-content-center">
             <div class="box col-md-4">
                 <h4 class="headline">A5 Bordkalender</h4>
