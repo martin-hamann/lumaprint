@@ -12,18 +12,13 @@ get_header();
     margin-bottom: 15px;
     background-color: #222;
   }
-
-  .visit-img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: auto;
-    margin-top: 20px;
+  .visitkort-container{
+    margin:10vh auto;
   }
 </style>
 
 
-<div class="container-fluid">
+<div class="container-fluid visitkort-container">
   <h2 class="headline">Visitkort</h2>
 
   <div class="row d-flex justify-content-center">
