@@ -28,6 +28,9 @@ Template Name: Kalender
             margin: 5px;
             box-sizing: border-box;
         }
+        .text-box{
+            border:none;
+        }
     </style>
 </head>
 
@@ -37,7 +40,7 @@ Template Name: Kalender
         måneder på
         hver side. </p>
 
-    <div class="box-container">
+    <div class="box-container flex-wrap">
         <div class="row">
             <div class="box">
                 <h4 class="headline">A5 Bordkalender</h4>
