@@ -18,15 +18,23 @@ Template Name: Byggepladsskilt
             display: block;
             margin: auto;
         }
+
+        .byggeplads-header{
+            margin-top:5vh;
+        }
+        .byggeplads-container{
+            margin-bottom:5vh;
+        }
+        
     </style>
 </head>
 
-<div class="header ">
+<div class="header text-center byggeplads-header ">
     <h1 class="headline">Plade med Print til Byggepladsskilt</h1>
     <p class="text"> Dipond plade print til byggeplads - 2500x1250x3 mm. </p>
 </div>
 
-<div class="container">
+<div class="container byggeplads-container">
     <div class="row">
         <div class="col-md-6 mx-auto center-text text-center">
 
