@@ -3,7 +3,7 @@
 Template Name: Kalender
 */
 ?>
-<?php get_header() ?>
+<?php get_header(); ?>
 
 
 <head>
@@ -40,7 +40,7 @@ Template Name: Kalender
         måneder på
         hver side. </p>
 
-    <div class="box-container flex-wrap">
+    <div class="box-container d-flex flex-wrap">
         <div class="row">
             <div class="box">
                 <h4 class="headline">A5 Bordkalender</h4>
