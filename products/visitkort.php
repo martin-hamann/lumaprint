@@ -7,18 +7,10 @@ get_header();
 ?>
 
 <style>
-  .visit-h1 {
-    color: #e31e26;
-    font-size: 5em;
-    text-align: center;
-    margin-bottom: 150px;
-  }
-
   .price-box {
-    border: 1px solid #ddd;
     padding: 15px;
     margin-bottom: 15px;
-    background-color: #fff;
+    background-color: #222;
   }
 
   .visit-img {
@@ -55,16 +47,16 @@ get_header();
   <div class="row d-flex justify-content-center">
     <div class="col-md-3">
       <div class="price-box">
-        <h4>4+0 enkelt sidet alm. visitkort</h4>
-        <p>100,00 for en æske med 100 stk. 4+0 kort</p>
-        <p>178,00 for en æske med 200 stk. 4+0 kort</p>
+        <h4 class="headline">4+0 enkelt sidet alm. visitkort</h4>
+        <p class="text">100,00 for en æske med 100 stk. 4+0 kort</p>
+        <p class="text">178,00 for en æske med 200 stk. 4+0 kort</p>
       </div>
     </div>
     <div class="col-md-3">
       <div class="price-box">
-        <h4>4+0 enkelt sidet plast visitkort</h4>
-        <p>182,00 for en æske med 100 stk. 4+0 kort</p>
-        <p>308,00 for en æske med 200 stk. 4+0 kort</p>
+        <h4 class="headline">4+0 enkelt sidet plast visitkort</h4>
+        <p class="text">182,00 for en æske med 100 stk. 4+0 kort</p>
+        <p class="text">308,00 for en æske med 200 stk. 4+0 kort</p>
       </div>
     </div>
   </div>
@@ -72,16 +64,16 @@ get_header();
   <div class="row d-flex justify-content-center">
     <div class="col-md-3">
       <div class="price-box">
-        <h4>4+4 dobbelt sidet plast visitkort</h4>
-        <p>232,00 for en æske med 100 stk. 4+4 kort</p>
-        <p>402,00 for en æske med 200 stk. 4+4 kort</p>
+        <h4 class="headline">4+4 dobbelt sidet plast visitkort</h4>
+        <p class="text">232,00 for en æske med 100 stk. 4+4 kort</p>
+        <p class="text">402,00 for en æske med 200 stk. 4+4 kort</p>
       </div>
     </div>
     <div class="col-md-3">
       <div class="price-box">
-        <h4>4+4 dobbelt sidet alm. visitkort</h4>
-        <p>168,00 for en æske med 100 stk. 4+4 kort</p>
-        <p>272,00 for en æske med 200 stk. 4+4 kort</p>
+        <h4 class="headline">4+4 dobbelt sidet alm. visitkort</h4>
+        <p class="text">168,00 for en æske med 100 stk. 4+4 kort</p>
+        <p class="text">272,00 for en æske med 200 stk. 4+4 kort</p>
       </div>
     </div>
 
