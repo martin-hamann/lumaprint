@@ -9,7 +9,7 @@ Template Name: Kalender
 <head>
     <style>
         .box-container {
-            margin:10vh auto;
+            margin: 10vh auto;
         }
 
         .box {
@@ -18,10 +18,10 @@ Template Name: Kalender
             margin: 5px;
             box-sizing: border-box;
         }
-        .text-box{
-            border:none;
-        }
 
+        .text-box {
+            border: none;
+        }
     </style>
 </head>
 
@@ -54,7 +54,7 @@ Template Name: Kalender
             </div>
         </div>
 
-        <div class="row kalender-row col-md-12 d-flex flex-wrap justify-content-center">
+        <div class="row kalender-row col-md-12 d-flex justify-content-center">
             <div class="box col-md-4">
                 <h3 class="headline">Spiral Kalender</h3>
                 <p class="text">Spiral kalender med 1 eller 2 fotos
@@ -62,6 +62,9 @@ Template Name: Kalender
                 <p class="text">A4 str for 76kr</p>
                 <p class="text">A3 str for 135kr</p>
             </div>
+
+        </div>
+        <div class="row kalender-row col-md-12 d-flex justify-content-center">
             <div class="text-container box text-box col-md-4">
                 <p class="text">Priser er inklusiv moms. Eksl. print og fragt. <br> Lever venligst en PDF fil til print.
                 </p>
