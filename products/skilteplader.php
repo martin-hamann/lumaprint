@@ -15,12 +15,12 @@ Template Name: Skilteplader
         }
 
         .image-box img {
-            width: 100%;
+            width: 50%;
             height: auto;
         }
 
         .pladeprint-container {
-            width: 60%;
+            width: 50%;
             margin: 10vh auto;
         }
     </style>
@@ -366,4 +366,5 @@ Template Name: Skilteplader
         </div>
     </div>
 </div>
+
 <?php get_footer(); ?>
