@@ -17,7 +17,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark"><p class="text">200g. Satin Plakat Print</p></td>
+                        <td colspan="2" class="bg-dark text-white">200g. Satin Plakat Print</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -80,7 +80,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark"><p class="text">Lamineret Print</p></td>
+                        <td colspan="2" class="bg-dark text-white">Lamineret Print</td>
                     </tr>
                     <tr>
                         <th>Størrelse</th>
@@ -205,7 +205,7 @@ Template Name: plakatprint
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
-                        <td colspan="2" class="bg-dark"><p class="text">200g. High Glossy Foto Print</p></td> 
+                        <td colspan="2" class="bg-dark text-white">200g. High Glossy Foto Print</td> 
                     </tr>
                     <tr>
                         <th>Størrelse</th>
