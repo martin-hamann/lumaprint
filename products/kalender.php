@@ -21,10 +21,7 @@ Template Name: Kalender
         .text-box{
             border:none;
         }
-        .kalender-row{
-            display:flex;
-            justify-content:center;
-        }
+
     </style>
 </head>
 
@@ -35,7 +32,7 @@ Template Name: Kalender
         hver side. </p>
 
     <div class="box-container d-flex flex-wrap col-md-10">
-        <div class="row kalender-row col-md-12">
+        <div class="row kalender-row col-md-12 d-flex justify-content-center">
             <div class="box col-md-4">
                 <h4 class="headline">A5 Bordkalender</h4>
                 <p class="text"> Bordkalender med farve print </p>
@@ -57,7 +54,7 @@ Template Name: Kalender
             </div>
         </div>
 
-        <div class="row kalender-row col-md-12 d-flex flex-wrap">
+        <div class="row kalender-row col-md-12 d-flex flex-wrap justify-content-center">
             <div class="box col-md-4">
                 <h3 class="headline">Spiral Kalender</h3>
                 <p class="text">Spiral kalender med 1 eller 2 fotos
