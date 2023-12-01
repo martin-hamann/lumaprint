@@ -40,6 +40,7 @@ get_header();
         color: #fff;
         cursor: pointer;
         border-radius:10%;
+        border:none;
     }
 
     .wpcf7-form input[type="submit"]:hover {
@@ -61,9 +62,7 @@ get_header();
     p.form-content-text{
         color:#ededed;
     }
-    .wpcf7-submit .has-spinner{
-        border:none;
-    }
+    
 </style>
 
 <div class="form-content">
