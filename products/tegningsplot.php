@@ -12,10 +12,10 @@ Template Name: Tegningsplot
     </style>
 </head>
 
-<div class="container">
+<div class="container-fluid">
     <div class="row">
         <div class="col-md-6 mx-auto text-center ">
-            <div class="header mb-4 py-4">
+            <div class="header">
                 <h2 class="headline">Plot, Print eller Scan af Tegninger</h2>
             </div>
 
