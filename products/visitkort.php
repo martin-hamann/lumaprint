@@ -76,12 +76,6 @@ get_header();
         <p class="text">272,00 for en æske med 200 stk. 4+4 kort</p>
       </div>
     </div>
-
-  </div>
-
-  <div class="container mt-5 align-items-center">
-    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort-e1701218825431.png" alt="Responsive Image"
-      class="visit-img">
   </div>
 </div>
 
