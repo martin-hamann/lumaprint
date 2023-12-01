@@ -16,7 +16,6 @@ get_header();
     .pricing-card img {
         width: 100%;
         height: auto;
-        object-fit:cover;
     }
 
     .pricing-details {
@@ -25,11 +24,14 @@ get_header();
     .pricing-info{
         text-align:center;
     }
+    .postkort-container{
+        margin-top, margin-bottom:10vh;
+    }
 
 
 </style>
 
-<div class="container my-5 mx-auto">
+<div class="container mx-auto postkort-container">
     <h1 class="headline">Postkort</h1>
     <div class="row d-flex justify-content-center">
         <div class="col-md-3 text-center">
