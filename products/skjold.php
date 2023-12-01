@@ -9,7 +9,7 @@ Template Name: Skjold
 <head>
 
     <style>
-        .container {
+        .skjold-container {
             width: 50%;
             margin: 20vh auto;
             text-align: center;
@@ -30,7 +30,7 @@ Template Name: Skjold
 
 </head>
 
-<div class="container">
+<div class="skjold-container container">
     <header>
         <h2 class="headline">Skjold Til Æresport</h2>
     </header>
