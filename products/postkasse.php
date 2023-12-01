@@ -6,37 +6,20 @@ Template Name: Postkasse
 
 <?php get_header() ?>
 
-<head>
-    <style>
-        .container {
-            margin: 0 auto;
-            padding: 20px;
-            color: white;
-            text-align: center;
-        }
 
-        .price {
-            margin-bottom: 10px;
-            color: white;
-            text-align: center;
-        }
-
-    </style>
-</head>
-
-<div class="container">
+<div class="container text-center my-5 mx-auto">
 
     <h1 class="headline">Bogstaver til Postkasse</h1>
     <p class="text"> Blokbogstaver skåret ud i enten hvid eller sort klæbefolie. Tekst er ca. en centimeter høj. Leveres med
         overførelses tape.
         Gode store bogstaver som postbuddet kan se. </p>
 
-    <div class="price">
+    <div class="price text-center">
 
-        <p>100,- for 1 linje.</p>
-        <p>150,- for 2 linjer.</p>
-        <p>200,- for 3 linjer.</p>
-        <p>300,- for 4 linjer.</p>
+        <p class="text">100,- for 1 linje.</p>
+        <p class="text">150,- for 2 linjer.</p>
+        <p class="text">200,- for 3 linjer.</p>
+        <p class="text">300,- for 4 linjer.</p>
     </div>
 
     <p class="text">Priser er inklusiv moms. Eksklusiv fragt. <br> Lever venligst en PDF fil til print. </p>
