@@ -44,7 +44,7 @@ get_header();
     }
 
     .wpcf7-form input[type="submit"]:hover {
-        opacity: 0.8;
+        opacity: 0.5;
         transition: opacity 0.2s ease-in-out;
     }
 
@@ -55,10 +55,9 @@ get_header();
         border-radius: 4px;
     }
 
-    .wpcf7-form .init{
+    p.wpcf-7-form:last-child{
         text-align:center;
     }
-
     .form-content-text{
         text-align:center;
 
