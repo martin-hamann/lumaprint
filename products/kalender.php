@@ -11,8 +11,7 @@ Template Name: Kalender
         .kalender-main-content {
             text-align: center;
             color: white;
-            margin: 0 auto 0 auto;
-            height: 100vh;
+            margin: 15vh auto 15vh auto;
         }
 
         .box-container {
@@ -22,7 +21,6 @@ Template Name: Kalender
         }
 
         .box {
-            flex: 0 0 45%;
             border: 1px solid #ccc;
             padding: 10px;
             margin: 5px;
