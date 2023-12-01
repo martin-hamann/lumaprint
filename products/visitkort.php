@@ -7,38 +7,38 @@ get_header();
 ?>
 
 <style>
-
-.visit-h1 {
+  .visit-h1 {
     color: #e31e26;
     font-size: 5em;
     text-align: center;
     margin-bottom: 150px;
-}
+  }
 
-.price-box {
+  .price-box {
     border: 1px solid #ddd;
     padding: 15px;
     margin-bottom: 15px;
-    background-color: #fff; 
-}
+    background-color: #fff;
+  }
 
-.Post-p {
+  .Post-p {
     color: #fff;
     padding-bottom: 15px;
-}
+  }
 
-.visit-img {
-max-width: 100%;
-height: auto;
-display: block;
-margin: auto;
-margin-top: 20px;
-}
+  .visit-img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+    margin-top: 20px;
+  }
 </style>
 
-<h1 class="visit-h1">Visitkort</h1>
 
 <div class="container mt-5">
+  <h1 class="visit-h1">Visitkort</h1>
+
   <div class="row">
     <div class="col-md-6">
       <p class="Post-p">Dankort str. 55x85 mm.</p>
@@ -70,7 +70,7 @@ margin-top: 20px;
 
     <div class="col-md-6">
       <div class="price-box">
-        <h4>4+0 enkelt sidet plast visitkort</h4> 
+        <h4>4+0 enkelt sidet plast visitkort</h4>
         <p>182,00 for en æske med 100 stk. 4+0 kort</p>
         <p>308,00 for en æske med 200 stk. 4+0 kort</p>
       </div>
@@ -82,10 +82,12 @@ margin-top: 20px;
       </div>
     </div>
   </div>
+  <div class="container mt-5 align-items-center">
+    <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort-e1701218825431.png" alt="Responsive Image"
+      class="visit-img">
+  </div>
 </div>
 
-<div class="container mt-5 align-items-center">
-  <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-visitkort-e1701218825431.png" alt="Responsive Image" class="visit-img">
-</div>
+
 
 <?php get_footer(); ?>
