@@ -36,8 +36,8 @@ Template Name: Skilteplader
             </div>
         </div>
     </div>
-    <div class="row  d-flex justify-content-center">
-        <div class="col-6col-xs-12 col-s-12">
+    <div class="row mx-auto d-flex justify-content-center">
+        <div class="col-6 col-xs-12 col-s-12">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
                     <tr>
@@ -120,7 +120,7 @@ Template Name: Skilteplader
             </table>
         </div>
     </div>
-    <div class="row  d-flex justify-content-center">
+    <div class="row mx-auto d-flex justify-content-center">
         <div class="col-6 col-xs-12 col-s-12">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
