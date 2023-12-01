@@ -9,8 +9,6 @@ Template Name: Kalender
 <head>
     <style>
         .box-container {
-            display: flex;
-            justify-content: center;
             margin:10vh auto;
         }
 
@@ -22,6 +20,10 @@ Template Name: Kalender
         }
         .text-box{
             border:none;
+        }
+        .kalender-row{
+            display:flex;
+            justify-content:center;
         }
     </style>
 </head>
