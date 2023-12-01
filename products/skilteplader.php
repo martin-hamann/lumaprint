@@ -26,8 +26,8 @@ Template Name: Skilteplader
 </head>
 
 
-<div class="container-fluid pladeprint-container d-flex justify-content-center">
-    <div class="row">
+<div class="container-fluid pladeprint-container">
+    <div class="row ">
         <div class="col-6 mx-auto text-center col-xs-12 col-s-12">
             <div class="header ">
                 <h1 class="headline">PRINT PÅ PLADE</h1>
@@ -36,7 +36,7 @@ Template Name: Skilteplader
             </div>
         </div>
     </div>
-    <div class="row ">
+    <div class="row  d-flex justify-content-center">
         <div class="col-6col-xs-12 col-s-12">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
@@ -120,7 +120,7 @@ Template Name: Skilteplader
             </table>
         </div>
     </div>
-    <div class="row">
+    <div class="row  d-flex justify-content-center">
         <div class="col-6 col-xs-12 col-s-12">
             <table class="table table-bordered border-dark text-center mb-4">
                 <thead>
@@ -205,7 +205,7 @@ Template Name: Skilteplader
         </div>
     </div>
 </div>
-<div class="row">
+<div class="row  d-flex justify-content-center">
     <div class="col-6 col-xs-12 col-s-12">
         <table class="table table-bordered border-dark text-center mb-4">
             <thead>
@@ -279,7 +279,7 @@ Template Name: Skilteplader
         </table>
     </div>
 </div>
-<div class="row">
+<div class="row  d-flex justify-content-center">
     <div class="col-6">
         <table class="table table-bordered border-dark text-center mb-4">
             <thead>
@@ -355,7 +355,7 @@ Template Name: Skilteplader
 </div>
 
 
-<div class="row m-5">
+<div class="row m-5  d-flex justify-content-center">
     <div class="col-md-3">
         <img src="http://lumaprint.site/wp-content/uploads/2023/11/PVC-plade.jpg" alt="Image 1">
     </div>
