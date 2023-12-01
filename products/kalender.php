@@ -32,15 +32,15 @@ Template Name: Kalender
     </style>
 </head>
 
-<div class="kalender-main-content">
+<div class="kalender-main-content col-md-12">
     <h1 class="headline">Kalender</h1>
     <p class="text"> Kalender med dit logo og layout eller spiral kalender med dine billeder. <br> Farve printes med 6
         måneder på
         hver side. </p>
 
-    <div class="box-container d-flex flex-wrap">
-        <div class="row">
-            <div class="box">
+    <div class="box-container d-flex flex-wrap col-md-12">
+        <div class="row col-md-12">
+            <div class="box col-md-6">
                 <h4 class="headline">A5 Bordkalender</h4>
                 <p> Bordkalender med farve print </p>
                 <p>1 stk for 16kr</p>
@@ -50,7 +50,7 @@ Template Name: Kalender
                 <p>100 stk for 788kr</p>
             </div>
 
-            <div class="box">
+            <div class="box col-md-6">
                 <h4 class="headline">A4 Kalender</h4>
                 <p>281x48 mm. felt til logo, info og reklame.</p>
                 <p>1 stk for 22kr</p>
