@@ -6,7 +6,7 @@ Template Name: Klistermærker
 <?php get_header() ?>
 
 <style>
-#main-content {
+.main-content {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -18,21 +18,6 @@ Template Name: Klistermærker
     width: 50%;
     margin: auto;
     color: white;
-}
-
-
-#content-box {
-    text-align: center;
-}
-
-#right-images {
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-}
-
-#right-images img {
-    margin-bottom: 10px;
 }
     </style>
 
