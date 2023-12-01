@@ -46,7 +46,7 @@ get_header();
       <p class="text">4+4 er print på kortets begge sider, Dobbelt sidet print.</p>
     </div>
 
-    <div class="col-md-6 text-center">
+    <div class="col-md-3 text-center">
       <p class="text">Visitkort af plastik, for god holdbarhed.</p>
       <p class="text">Vandfast print på slidstærk materiale.</p>
     </div>
@@ -77,7 +77,7 @@ get_header();
         <p>402,00 for en æske med 200 stk. 4+4 kort</p>
       </div>
     </div>
-    <div class="col-md-3 d-flex justify-content-center">
+    <div class="col-md-3">
       <div class="price-box">
         <h4>4+4 dobbelt sidet alm. visitkort</h4>
         <p>168,00 for en æske med 100 stk. 4+4 kort</p>
