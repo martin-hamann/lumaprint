@@ -270,6 +270,13 @@ button.kontakt-os-knap {
     border-radius: 5px;
     padding: 10px 15px;
 }
+button.btn.kontakt-os-knap:hover {
+    background-color:#e31e26;
+    color:#ededed;
+    opacity:50%;
+    transition: opacity 0.2s ease-in-out;
+}
+
 
 
 /* Om Os CSS */
