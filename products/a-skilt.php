@@ -47,7 +47,7 @@ Template Name: A-skilt
             </p>
 
             <div class="askilt-img">
-                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="a-skilt" width="30%"
+                <img src="http://lumaprint.site/wp-content/uploads/2023/11/Gadeskilt.png" alt="print til gadeskilt/askilt" width="30%"
                     height="30%">
             </div>
         </div>

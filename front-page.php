@@ -5,7 +5,7 @@
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div class="col-10 col-sm-8 col-lg-6">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/printer.png" class="d-block mx-lg-auto img-fluid"
-                alt="FuturisticPrinter" width="700" height="500" loading="lazy">
+                alt="Lumaprint Printer, print i esbjerg, tryk i esbjerg, la' os printe det for dig" width="700" height="500" loading="lazy">
         </div>
         <div class="col-lg-6">
             <h1 class="display-7 fw-bold lh-1 mb-3 hero-headline">LA' OS PRINTE DET FOR DIG</h1>

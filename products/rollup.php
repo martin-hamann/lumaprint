@@ -33,7 +33,7 @@ Template Name: Rollup
 
             <div id="image-box">
                 <img src="http://lumaprint.site/wp-content/uploads/2023/11/rollup-e1701219099886.png"
-                    alt="Rollup banner">
+                    alt="print af rollup banner">
             </div>
 
             <table class="table table-bordered border-dark text-center mb-4">

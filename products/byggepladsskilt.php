@@ -39,7 +39,7 @@ Template Name: Byggepladsskilt
         <div class="col-md-6 mx-auto center-text text-center">
 
             <div id="image-box">
-                <img src="http://lumaprint.site/wp-content/uploads/2023/11/byggeplads_skilt.jpg" alt="Byggepladsskilt">
+                <img src="http://lumaprint.site/wp-content/uploads/2023/11/byggeplads_skilt.jpg" alt="print af skilt til byggepladser">
             </div>
 
             <!-- Main Table -->

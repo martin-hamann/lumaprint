@@ -35,7 +35,7 @@ Template Name: check
         <h2 class="headline check-headline">Stor Check/Gavekort</h2>
 
         <div id="image-container">
-            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-billeder.jpg" alt="check/gavekort">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mini-billeder.jpg" alt="print af stor check/gavekort">
         </div>
 
         <div class="text-container text-center">

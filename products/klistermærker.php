@@ -26,7 +26,7 @@ Template Name: Klistermærker
                75,00 for et A4 ark med klistermærker.
                100,00 for et A3 ark med klistermærker.  </p>
             
-            <img src="https://images.pexels.com/photos/2783837/pexels-photo-2783837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="Stickers" width= "50%">
+            <img src="https://images.pexels.com/photos/2783837/pexels-photo-2783837.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="print af klistermærker" width= "50%">
 
             <p class="text">Priser er inkl. moms. Eksl. grafisk arbejde og fragt. <br> Lever venligst en PDF fil til print. </p>
         </div>

@@ -34,13 +34,13 @@ Template Name: Banner
     </div>
     <div class="row image-container d-flex justify-content-center">
         <div class="col-lg-3 image-box text-center">
-            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="Vinyl" class="banner-img">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Vinyl.jpg" alt="print af banner i vinyl" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Vinyl</h4>
             <p class="text text-center">Outdoor eller indoor B1 pressing banner.
                 Print på en side.</p>
         </div>
         <div class="col-lg-3 image-box text-center">
-            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mesh.jpg" alt="Mesh" class="banner-img">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Mesh.jpg" alt="print af banner i mesh" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Mesh</h4>
             <p class="text text-center">Outdoor banner med små huller som tillader vinden at trænge igennem. Det
                 er velegnet
@@ -49,7 +49,7 @@ Template Name: Banner
         </div>
         <div class="col-lg-3 image-box text-center">
 
-            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Stof.jpg" alt="Stof" class="banner-img">
+            <img src="http://lumaprint.site/wp-content/uploads/2023/11/Stof.jpg" alt="print af banner i stof" class="banner-img">
             <h4 class="banner-sub-headline headline">Banner af Stof</h4>
             <p class="text text-center">Outdoor og indoor B1 brændhæmmende fleksibel tekstil banner. Kan foldes
                 sammen til

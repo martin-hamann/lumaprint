@@ -25,14 +25,14 @@ Template Name: Tegningsplot
                         <div>
                             <p class="headline">Sort/hvid plot ex.moms og fragt</p>
                             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Plot-prisliste.png"
-                                alt="Image 1" class="img-fluid">
+                                alt="priser til print af sort/hvid tegninger" class="img-fluid">
                         </div>
                     </div>
                     <div class="col-lg-6 col-sm-12 mx-auto text-center d-flex justify-content-center mb-5">
                         <div>
                             <p class="headline">Farve plot ex.moms og fragt</p>
                             <img src="http://lumaprint.site/wp-content/uploads/2023/11/Prisliste-eksl-moms.png"
-                                alt="Image 2" class="img-fluid">
+                                alt="priser til print af farve tegninger" class="img-fluid">
                         </div>
                     </div>
                 </div>

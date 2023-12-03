@@ -36,7 +36,7 @@ Template Name: Skjold
     </header>
 
     <div class="image-box">
-        <img src="http://lumaprint.site/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="Your Image">
+        <img src="http://lumaprint.site/wp-content/uploads/2023/11/Skjoldicon.jpg" alt="print af skjold til æresport">
     </div>
 
     <div class="text-info">
