@@ -11,7 +11,7 @@
 <body>
     <div class="container">
         <div class="row d-flex justify-content-center">
-            <div class="col-sm-3 col-lg-3 mb-3">
+            <div class="col-lg-3 mb-3">
                 <div class="card" id="how-it-works-card">
                     <div class="card-body" id="how-it-works-card-body">
                         <picture class="card-title">
@@ -23,7 +23,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 mb-3">
+            <div class=" mb-3">
                 <div class="card" id="how-it-works-card">
                     <div class="card-body" id="how-it-works-card-body">
                         <picture class="card-title">
@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-sm-3 mb-3">
+            <div class="col-lg-3 mb-3">
                 <div class="card" id="how-it-works-card">
                     <div class="card-body" id="how-it-works-card-body">
                         <picture class="card-title">
