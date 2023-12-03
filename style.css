@@ -81,6 +81,8 @@ a.button-container{
 }
 
 
+
+
 /* Hero CSS */
 .hero-container{
     height:100vh;
@@ -95,11 +97,25 @@ button.hero-button-1{
     background-color:#E31E26;
     color:#ededed;
     border-radius:15px;
+    border:2px solid #e31e26;
 }
 button.hero-button-2{
     border:2px solid #E31E26;
     color:#ededed;
     border-radius:15px;
+}
+
+.hero-button-1:hover {
+    background-color:#e31e26;
+    color:#ededed;
+    opacity:50%;
+    transition: opacity 0.2s ease-in-out;
+}
+.hero-button-2:hover{
+    border:2px solid #e31e26;
+    background-color:#22222200;
+    opacity:50%;
+    transition:opacity 0.2s ease-in-out;
 }
 
 /* Template Part - How It Works Card */
