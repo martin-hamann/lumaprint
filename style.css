@@ -105,13 +105,13 @@ button.hero-button-2{
     border-radius:15px;
 }
 
-.hero-button-1:hover {
+button.hero-button-1:hover {
     background-color:#e31e26;
     color:#ededed;
     opacity:50%;
     transition: opacity 0.2s ease-in-out;
 }
-.hero-button-2:hover{
+button.hero-button-2:hover{
     border:2px solid #e31e26;
     background-color:#22222200;
     opacity:50%;
