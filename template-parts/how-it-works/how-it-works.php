@@ -23,7 +23,7 @@
                     </div>
                 </div>
             </div>
-            <div class=" mb-3">
+            <div class="col-lg-3 mb-3">
                 <div class="card" id="how-it-works-card">
                     <div class="card-body" id="how-it-works-card-body">
                         <picture class="card-title">
