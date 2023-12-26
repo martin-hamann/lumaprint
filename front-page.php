@@ -5,7 +5,8 @@
     <div class="row flex-lg-row-reverse align-items-center g-5 py-5">
         <div class="col-10 col-sm-8 col-lg-6">
             <img src="http://lumaprint.site/wp-content/uploads/2023/11/printer.png" class="d-block mx-lg-auto img-fluid"
-                alt="Lumaprint Printer, print i esbjerg, tryk i esbjerg, la' os printe det for dig" width="700" height="500" loading="lazy">
+                alt="Lumaprint Printer, print i esbjerg, tryk i esbjerg, la' os printe det for dig" width="700"
+                height="500" loading="lazy">
         </div>
         <div class="col-lg-6">
             <h1 class="display-7 fw-bold lh-1 mb-3 hero-headline">LA' OS PRINTE DET FOR DIG</h1>
@@ -54,19 +55,10 @@ $kreation = new WP_Query(
 
 <div class="logo-container">
     <?php
-    $count = 0;
     while ($kreation->have_posts()):
         $kreation->the_post();
-        $count++;
-        $is_middle = ($kreation->post_count % 2 !== 0 && $count === ceil($kreation->post_count / 2));
-        $logo_img_classes = 'logo-img';
-        if ($is_middle) {
-            $logo_img_classes .= ' middle-logo';
-        }
-
-
         ?>
-        <div class="<?php echo esc_attr($logo_img_classes); ?>">
+        <div class="logo-img">
             <img src="<?php the_field('kreation-logo'); ?>" alt="billed af kreation">
         </div>
     <?php endwhile; ?>
