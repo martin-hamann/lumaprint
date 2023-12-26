@@ -1,10 +1,4 @@
-<?php function ad_remove_gutenberg() {
-    remove_post_type_support("page", "editor");
-    remove_post_type_support("post", "editor");
-}
-add_action("init", "ad_remove_gutenberg");
-
-function luma_get_stylesheet() {
+<?php function luma_get_stylesheet() {
     wp_enqueue_style('style', get_stylesheet_directory_uri() , '/style.css');
 
 }
@@ -18,4 +12,11 @@ function enqueue_bootstrap(){
 }
 
 add_action('wp_enqueue_scripts','enqueue_bootstrap');
+
+
+function enqueue_fa(){
+    wp_enqueue_script('fa', 'https://kit.fontawesome.com/b2340e7a76.js');
+}
+
+add_action('wp_enqueue_scripts', 'enqueue_fa');
 ?>

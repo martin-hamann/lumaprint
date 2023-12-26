@@ -8,12 +8,6 @@
         <?php echo get_the_title() ?>
     </title>
     <?php wp_head() ?>
-    <link rel="stylesheet" href="<?php echo get_stylesheet_directory_uri(); ?>/style.css" type="text/css">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script defer src="https://kit.fontawesome.com/b2340e7a76.js" crossorigin="anonymous"></script>
-    <style>
-        <?php include "style.css" ?>
-    </style>
 </head>
 
 
@@ -37,7 +31,6 @@
                 </li>
             </ul>
             <div class="button-container">
-
                 <a href="http://lumaprint.site/kontakt-os/" class="kontakt-os-knap"><button
                         class="contact-button btn btn-link ml-auto mr-0" type="button">Kontakt Os</button></a>
             </div>
