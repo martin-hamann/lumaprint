@@ -8,8 +8,9 @@ add_action('wp_enqueue_scripts', 'enqueue_styles');
 
 function enqueue_scripts() {
     wp_enqueue_script('bootstrap-cdn-js', 'https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js');
-    wp_enqueue_style('font-awesome', 'https://kit.fontawesome.com/b2340e7a76.js');
+    wp_enqueue_script('font-awesome', 'https://kit.fontawesome.com/b2340e7a76.js');
 
 }
 add_action('wp_enqueue_scripts', 'enqueue_scripts');
 ?>
+
