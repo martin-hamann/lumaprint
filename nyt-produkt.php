@@ -13,6 +13,7 @@ while (have_posts()):
     $overskrift = get_field('overskrift');
     $beskrivelse = get_field('beskrivelse');
     $billede = get_field('billede');
+    $tabel = get_field('tabel');
     ?>
 
     <div class="single-product container-fluid">
@@ -25,7 +26,9 @@ while (have_posts()):
         <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
         <img src="<?php echo $billede2 ?>" alt="<?php echo $overskrift ?>">
         <img src="<?php echo $billede3 ?>" alt="<?php echo $overskrift ?>">
-
+        <div>
+            <?php echo $tabel ?>
+        </div>
     </div>
 
 <?php endwhile;
