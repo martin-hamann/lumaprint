@@ -1,9 +1,13 @@
 <?php
-/* 
- Template Name: Nyt Produkt
+/*
+Template Name: Nyt Produkt
 */
+
 get_header();
 
+?>
+
+<?php
 while (have_posts()):
     the_post();
     $overskrift = get_field('overskrift');
@@ -23,5 +27,6 @@ while (have_posts()):
     </div>
 
 <?php endwhile;
-get_footer();
 ?>
+
+<?php get_footer(); ?>
