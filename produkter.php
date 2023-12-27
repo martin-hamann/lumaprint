@@ -56,7 +56,7 @@ $produkt = new WP_Query(
 
 <div class="products-container">
     <h3 class="headline">Alle Produkter</h3>
-    <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
+    <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1 col-xl-10" id="products-row">
 
         <?php
         while ($produkt->have_posts()):
