@@ -1,9 +1,7 @@
 <?php
-
 /* 
- * Template Name: Nyt Produkt
- */
-
+ Template Name: Nyt Produkt
+*/
 get_header();
 
 while (have_posts()):
