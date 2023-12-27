@@ -13,9 +13,9 @@ function enqueue_scripts() {
 }
 add_action('wp_enqueue_scripts', 'enqueue_scripts');
 
-function ad_remove_gutenberg() {
-    remove_post_type_support("page", "editor");
-    remove_post_type_support("post", "editor");
-}
-add_action("init", "ad_remove_gutenberg");
+function my_remove_editor_from_post_type() {
+    remove_post_type_support( 'post', 'editor' );
+    remove_post_type_support( 'page', 'editor' );
+    }
+    add_action("init", "my_remove_editor_from_post_type");
 ?>
