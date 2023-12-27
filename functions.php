@@ -15,7 +15,7 @@ add_action('wp_enqueue_scripts', 'enqueue_scripts');
 
 function my_remove_editor_from_post_type() {
     remove_post_type_support( 'post', 'editor' );
-    remove_post_type_support( 'page', 'editor' );
+    // remove_post_type_support( 'page', 'editor' );
     }
     add_action("init", "my_remove_editor_from_post_type");
 ?>
