@@ -49,7 +49,6 @@ $produkt = new WP_Query(
     array(
         'post_type' => 'produkt',
         'posts_per_page' => -1,
-        'orderby' => title
     )
     );
 ?>
