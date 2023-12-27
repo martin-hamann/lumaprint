@@ -63,7 +63,7 @@ $produkt = new WP_Query(
             $produkt->the_post();
             ?>
             <div class="card" style="width: 18rem;">
-                <a href="http://lumaprint.site/produkter/plakatprint/" class="product-links">
+                <a href="<?php the_field('link'); ?>" class="product-links">
                     <img class="card-img-top" src="<?php the_field('thumbnail'); ?>" alt="Produkt Thumbnail Billede">
                     <div class="card-body product-card-body">
                         <h5 class="card-title">
