@@ -23,7 +23,8 @@ while (have_posts()):
             <?php echo $beskrivelse ?>
         </p>
         <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
-        <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
+        <img src="<?php echo $billede2 ?>" alt="<?php echo $overskrift ?>">
+        <img src="<?php echo $billede3 ?>" alt="<?php echo $overskrift ?>">
 
     </div>
 
