@@ -24,10 +24,11 @@ while (have_posts()):
             <?php echo $beskrivelse ?>
         </p>
         <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
-        <div>
+        
+    </div>
+    <div>
             <?php echo $tabel ?>
         </div>
-    </div>
 
 <?php endwhile;
 ?>
