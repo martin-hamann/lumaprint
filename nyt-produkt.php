@@ -29,8 +29,5 @@ while (have_posts()):
 
 <?php endwhile;
 ?>
-<div>
-    <?php echo $table ?>
-</div>
 
 <?php get_footer(); ?>
