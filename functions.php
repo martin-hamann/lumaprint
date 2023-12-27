@@ -12,11 +12,8 @@ function enqueue_scripts() {
 
 }
 add_action('wp_enqueue_scripts', 'enqueue_scripts');
-?>
 
-
-
-<?php function ad_remove_gutenberg() {
+function ad_remove_gutenberg() {
     remove_post_type_support("page", "editor");
     remove_post_type_support("post", "editor");
 }
