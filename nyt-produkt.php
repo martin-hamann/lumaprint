@@ -31,4 +31,6 @@ while (have_posts()):
 <?php endwhile;
 ?>
 
+<?php the_content(); ?>
+
 <?php get_footer(); ?>
