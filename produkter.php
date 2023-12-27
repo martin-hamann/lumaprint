@@ -44,23 +44,37 @@ get_header();
 
 
 
+<?php 
+$produkt = new WP_Query(
+    array(
+        'post_type' => 'produkt',
+        'posts_per_page' => -1,
+        'orderby' => title
+    )
+    );
+?>
 
     <div class="products-container">
+        
         <h3 class="headline">Alle Produkter</h3>
         <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1" id="products-row">
 
-
+        <?php 
+        while ($produkt->have_posts()):
+            $produkt->the_post();
+        ?>
             <div class="card" style="width: 18rem;">
                 <a href="http://lumaprint.site/produkter/plakatprint/" class="product-links">
-                    <img class="card-img-top" src="http://lumaprint.site/wp-content/uploads/2023/11/plakat.png"
-                        alt="Plakat">
+                    <img class="card-img-top" src="<?php the_field('thumbnail');?>"
+                        alt="Produkt Thumbnail Billede">
                     <div class="card-body product-card-body">
-                        <h5 class="card-title">Plakatprint</h5>
+                        <h5 class="card-title"><?php the_field('produkt-navn'); ?></h5>
                         <p class="læs-mere-text"> Læs Mere</p>
                     </div>
                 </a>
+       
             </div>
-
+        <?php endwhile; ?>
 
             <div class="card" style="width: 18rem;">
                 <a href="http://lumaprint.site/produkter/banner/" class="product-links">
