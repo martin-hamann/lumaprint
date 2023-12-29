@@ -26,12 +26,12 @@ while (have_posts()):
         </p>
         <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
         <div class="row">
-            <div class="col-lg-10">
+            <div class="col-10 col-lg-8">
                 <?php echo do_shortcode($table); ?>
             </div>
         </div>
         <div class="row">
-            <div class="col-lg-10">
+            <div class="col-10 col-lg-8">
                 <?php echo do_shortcode($gallery); ?>
             </div>
         </div>

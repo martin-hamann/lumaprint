@@ -417,7 +417,11 @@ a.læs-mere-text:hover{
 
 }
 
+/* Nye Produkter Styling */
 
+.single-product{
+    min-height:100vh;
+}
 
 
 
