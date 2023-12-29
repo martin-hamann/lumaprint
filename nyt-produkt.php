@@ -24,12 +24,12 @@ while (have_posts()):
             <?php echo $beskrivelse ?>
         </p>
         <div class="row single-product-row">
-            <div class="col-10 col-lg-8">
+            <div class="col-10 col-lg-6">
                 <?php echo do_shortcode($table); ?>
             </div>
         </div>
         <div class="row single-product-row">
-            <div class="col-10 col-lg-8">
+            <div class="col-10 col-lg-6">
                 <?php echo do_shortcode($gallery); ?>
             </div>
         </div>
