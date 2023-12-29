@@ -421,6 +421,11 @@ a.læs-mere-text:hover{
 
 .single-product{
     min-height:100vh;
+    margin: 5vh auto 5vh auto;
+}
+
+.single-product-row{
+    justify-content:center;
 }
 
 
