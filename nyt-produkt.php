@@ -13,7 +13,7 @@ while (have_posts()):
     $overskrift = get_field('overskrift');
     $beskrivelse = get_field('beskrivelse');
     $billede = get_field('billede');
-    $table = get_field('table_shortcode');
+    $table = get_field('table');
     ?>
 
     <div class="single-product container-fluid">
@@ -24,11 +24,12 @@ while (have_posts()):
             <?php echo $beskrivelse ?>
         </p>
         <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
+        <div>
+            <?php echo $table ?>
+        </div>
 
     </div>
-    <div> 
-        <?php echo do_shortcode($table); ?>
-    </div>
+    
 
 <?php endwhile;
 ?>
