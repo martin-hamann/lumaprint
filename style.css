@@ -19,6 +19,7 @@ Description: Tema til Lumaprints hjemmeside
 
 body{
     background-color:var(--color-background) !important;
+    min-height:100vh;
 }
 
 .headline{
@@ -189,6 +190,7 @@ div.google-reviews-container{
 footer .main-footer {
     padding: 25px 0;
     background: #252525;
+    margin-top:auto;
 }
 
 footer ul {
@@ -420,7 +422,6 @@ a.læs-mere-text:hover{
 /* Nye Produkter Styling */
 
 .single-product{
-    min-height:100vh;
     margin: 5vh auto 5vh auto;
 }
 
