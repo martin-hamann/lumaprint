@@ -17,23 +17,27 @@ while (have_posts()):
     $gallery = get_field('gallery_shortcode');
     ?>
 
-    <div class="single-product container-fluid">
-        <h1>
+    <div class="single-product container-fluid text-center">
+        <h1 class="headline">
             <?php echo $overskrift ?>
         </h1>
-        <p>
+        <p class="text">
             <?php echo $beskrivelse ?>
         </p>
         <img src="<?php echo $billede ?>" alt="<?php echo $overskrift ?>">
-        <div>
-            <?php echo do_shortcode($table); ?>
+        <div class="row">
+            <div class="col-lg-10">
+                <?php echo do_shortcode($table); ?>
+            </div>
         </div>
-        <div>
-            <?php echo do_shortcode($gallery); ?>
+        <div class="row">
+            <div class="col-lg-10">
+                <?php echo do_shortcode($gallery); ?>
+            </div>
         </div>
 
     </div>
-    
+
 
 <?php endwhile;
 ?>
