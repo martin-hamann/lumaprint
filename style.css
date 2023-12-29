@@ -19,7 +19,6 @@ Description: Tema til Lumaprints hjemmeside
 
 body{
     background-color:var(--color-background) !important;
-    min-height:100vh;
 }
 
 .headline{
@@ -420,10 +419,10 @@ a.læs-mere-text:hover{
 }
 
 /* Nye Produkter Styling */
-
+/* 
 .single-product{
     margin: 5vh auto 5vh auto;
-}
+} */
 
 .single-product-row{
     justify-content:center;
