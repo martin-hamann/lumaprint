@@ -8,11 +8,11 @@ get_header();
 ?>
 <div class="hiw-container">
     <div class="container-fluid steps-container">
-        <h1 class="headline">Hvordan fungerer det?</h1>
+        <h1 class="headline">Produkter</h1>
         <div class="row gap-5 d-flex justify-content-center">
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline">
-                    <h2 class="card-headline headline">1.</h2>
+                    <h3 class="card-headline headline">1.</h3>
                 </div>
                 <div class="card-body">
                     <p class="card-text">Gennemsøg vores produkter og vælg lige det der passer dig. Uanset om det er
@@ -21,7 +21,7 @@ get_header();
             </div>
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline ">
-                    <h2 class="card-headline headline">2.</h2>
+                    <h3 class="card-headline headline">2.</h3>
                 </div>
                 <div class="card-body">
                     <p class="card-text">Send os en mail med dit design, produkt, størrelse, og andre detaljer du
@@ -30,7 +30,7 @@ get_header();
             </div>
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline">
-                    <h2 class="card-headline headline">3.</h2>
+                    <h3 class="card-headline headline">3.</h3>
                 </div>
                 <div class="card-body">
                     <p class="card-text">Vi sender dig et uforpligtende tilbud, og så snart du godkender kickstarter
@@ -55,7 +55,7 @@ $produkt = new WP_Query(
 ?>
 
 <div class="products-container">
-    <h3 class="headline">Alle Produkter</h3>
+    <h2 class="headline">Gennemse Produkter</h2>
     <div class="row d-flex justify-content-center gap-4 products-row procuts-row-1 col-xl-10" id="products-row">
 
         <?php
