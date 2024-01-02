@@ -71,7 +71,7 @@ get_header();
 
 <div class="form-content">
     <div class="form-content-text">
-        <h2 style="color: #E31E26;">Kontakt Os</h2>
+        <h1 class="headline">Kontakt Os</h1>
         <p class="kontakt-os-tekst text">Har du spørgsmål, vil have et uforpligtende tilbud, eller vil du lægge en
             bestilling? Tøv ikke med at kontakte os!</p>
     </div>
