@@ -9,7 +9,7 @@
                 height="500" loading="lazy">
         </div>
         <div class="col-lg-6">
-            <h1 class="display-7 fw-bold lh-1 mb-3 hero-headline">LA' OS PRINTE DET FOR DIG</h1>
+            <h1 class="display-7 fw-bold lh-1 mb-3 hero-headline">LUMAPRINT - LA' OS PRINTE DET FOR DIG</h1>
             <p class="lead hero-sub-headline">Mere end 50 års erfaring med print - samlet i én butik</p>
             <div class="d-grid gap-2 d-md-flex justify-content-md-start">
                 <a href="http://lumaprint.site/kontakt-os/"> <button type="button"
@@ -25,7 +25,7 @@
 <div class="test-template-part container">
     <div class="row">
         <div class="col-md-12">
-            <h3 class="din-printbutik headline text-center">Din Printbutik I Hjertet Af Esbjerg</h3>
+            <h3 class="din-printbutik headline text-center">Lumaprint - Din Printbutik I Hjertet Af Esbjerg</h3>
             <p class="din-printbutik-text text-center text">Vi er din partner inden for printløsninger. Vi leverer
                 skarpe og
                 professionelle trykprodukter, der passer til dine behov. Fra skræddersyede designs til hurtig produktion
