@@ -59,7 +59,7 @@ $kreation = new WP_Query(
         $kreation->the_post();
         ?>
         <div class="logo-img">
-            <img src="<?php the_field('kreation-logo'); ?>">
+            <img src="<?php the_field('kreation-logo'); ?>" alt="kreation lumaprint">
         </div>
     <?php endwhile; ?>
 </div>
