@@ -12,7 +12,7 @@ get_header();
         <div class="row gap-5 d-flex justify-content-center">
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline">
-                    <h3 class="card-headline headline">1.</h3>
+                    <h2 class="card-headline headline">1.</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">Gennemsøg vores produkter og vælg lige det der passer dig. Uanset om det er
@@ -21,7 +21,7 @@ get_header();
             </div>
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline ">
-                    <h3 class="card-headline headline">2.</h3>
+                    <h2 class="card-headline headline">2.</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">Send os en mail med dit design, produkt, størrelse, og andre detaljer du
@@ -30,7 +30,7 @@ get_header();
             </div>
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline">
-                    <h3 class="card-headline headline">3.</h3>
+                    <h2 class="card-headline headline">3.</h2>
                 </div>
                 <div class="card-body">
                     <p class="card-text">Vi sender dig et uforpligtende tilbud, og så snart du godkender kickstarter
