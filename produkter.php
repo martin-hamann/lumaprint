@@ -8,7 +8,7 @@ get_header();
 ?>
 <div class="hiw-container">
     <div class="container-fluid steps-container">
-        <h3>Hvordan fungerer det?</h3>
+        <h1 class="headline">Hvordan fungerer det?</h1>
         <div class="row gap-5 d-flex justify-content-center">
             <div class="card mb-3 col-md-4" style="max-width: 18rem;">
                 <div class="card-header headline">
